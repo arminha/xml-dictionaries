@@ -1,0 +1,308 @@
+<?xml version="1.0" encoding="ISO-8859-1"?><CONFIG_JAXE>
+<LANGAGE>
+<FICHIER_SCHEMA nom="XDXF-draft-logical-05.xsd"/>
+<RACINE element="xdxf"/>
+</LANGAGE>
+
+<MENUS>
+<MENU nom="Elements">
+<MENU_INSERTION nom="xdxf"/>
+<MENU_INSERTION nom="full_name"/>
+<MENU_INSERTION nom="description"/>
+<MENU_INSERTION nom="abbreviations"/>
+<MENU_INSERTION nom="abr_def"/>
+<MENU_INSERTION nom="v"/>
+<MENU_INSERTION nom="representations"/>
+<MENU_INSERTION nom="represent"/>
+<MENU_INSERTION nom="ar"/>
+<MENU_INSERTION nom="k"/>
+<MENU_INSERTION nom="opt"/>
+<MENU_INSERTION nom="tr"/>
+<MENU_INSERTION nom="dtrn"/>
+<MENU_INSERTION nom="kref"/>
+<MENU_INSERTION nom="rref"/>
+<MENU_INSERTION nom="iref"/>
+<MENU_INSERTION nom="abr"/>
+<MENU_INSERTION nom="ex"/>
+<MENU_INSERTION nom="co"/>
+<MENU_INSERTION nom="head"/>
+<MENU_INSERTION nom="def"/>
+<MENU_INSERTION nom="m"/>
+<MENU_INSERTION nom="etym"/>
+<MENU_INSERTION nom="alternatives"/>
+<MENU_INSERTION nom="from"/>
+<MENU_INSERTION nom="related"/>
+<MENU_INSERTION nom="lang"/>
+<MENU_INSERTION nom="date"/>
+<MENU_INSERTION nom="auxiliary"/>
+<MENU_INSERTION nom="style"/>
+<MENU_INSERTION nom="field"/>
+<MENU_INSERTION nom="synonym"/>
+<MENU_INSERTION nom="antonym"/>
+<MENU_INSERTION nom="usage"/>
+<MENU_INSERTION nom="idiom"/>
+<MENU_INSERTION nom="proverb"/>
+<MENU_INSERTION nom="colloc"/>
+<MENU_INSERTION nom="quote"/>
+<MENU_INSERTION nom="author"/>
+<MENU_INSERTION nom="source"/>
+<MENU_INSERTION nom="em"/>
+<MENU_INSERTION nom="pos"/>
+<MENU_INSERTION nom="transitivity"/>
+<MENU_INSERTION nom="separability"/>
+<MENU_INSERTION nom="reflexivity"/>
+<MENU_INSERTION nom="gender"/>
+<MENU_INSERTION nom="number"/>
+<MENU_INSERTION nom="case"/>
+<MENU_INSERTION nom="person"/>
+<MENU_INSERTION nom="verbal"/>
+<MENU_INSERTION nom="mood"/>
+<MENU_INSERTION nom="tense"/>
+<MENU_INSERTION nom="aspect"/>
+<MENU_INSERTION nom="definiteness"/>
+<MENU_INSERTION nom="voice"/>
+<MENU_INSERTION nom="degree"/>
+<MENU_INSERTION nom="form"/>
+<MENU_INSERTION nom="of"/>
+</MENU>
+</MENUS>
+
+<AFFICHAGE_NOEUDS>
+<AFFICHAGE_ELEMENT type="division" element="xdxf"/>
+<AFFICHAGE_ELEMENT type="zone" element="full_name"/>
+<AFFICHAGE_ELEMENT type="zone" element="description"/>
+<AFFICHAGE_ELEMENT type="zone" element="abbreviations"/>
+<AFFICHAGE_ELEMENT type="zone" element="abr_def"/>
+<AFFICHAGE_ELEMENT type="string" element="v"/>
+<AFFICHAGE_ELEMENT type="zone" element="representations"/>
+<AFFICHAGE_ELEMENT type="zone" element="represent"/>
+<AFFICHAGE_ELEMENT type="zone" element="ar"/>
+<AFFICHAGE_ELEMENT type="string" element="k"/>
+<AFFICHAGE_ELEMENT type="string" element="opt"/>
+<AFFICHAGE_ELEMENT type="zone" element="tr"/>
+<AFFICHAGE_ELEMENT type="string" element="dtrn"/>
+<AFFICHAGE_ELEMENT type="zone" element="kref"/>
+<AFFICHAGE_ELEMENT type="string" element="rref"/>
+<AFFICHAGE_ELEMENT type="string" element="iref"/>
+<AFFICHAGE_ELEMENT type="zone" element="abr"/>
+<AFFICHAGE_ELEMENT type="zone" element="ex"/>
+<AFFICHAGE_ELEMENT type="string" element="co"/>
+<AFFICHAGE_ELEMENT type="string" element="head"/>
+<AFFICHAGE_ELEMENT type="zone" element="def"/>
+<AFFICHAGE_ELEMENT type="zone" element="m"/>
+<AFFICHAGE_ELEMENT type="zone" element="etym"/>
+<AFFICHAGE_ELEMENT type="zone" element="alternatives"/>
+<AFFICHAGE_ELEMENT type="zone" element="from"/>
+<AFFICHAGE_ELEMENT type="zone" element="related"/>
+<AFFICHAGE_ELEMENT type="zone" element="lang"/>
+<AFFICHAGE_ELEMENT type="zone" element="date"/>
+<AFFICHAGE_ELEMENT type="zone" element="auxiliary"/>
+<AFFICHAGE_ELEMENT type="string" element="style"/>
+<AFFICHAGE_ELEMENT type="zone" element="field"/>
+<AFFICHAGE_ELEMENT type="zone" element="synonym"/>
+<AFFICHAGE_ELEMENT type="zone" element="antonym"/>
+<AFFICHAGE_ELEMENT type="string" element="usage"/>
+<AFFICHAGE_ELEMENT type="zone" element="idiom"/>
+<AFFICHAGE_ELEMENT type="zone" element="proverb"/>
+<AFFICHAGE_ELEMENT type="zone" element="colloc"/>
+<AFFICHAGE_ELEMENT type="zone" element="quote"/>
+<AFFICHAGE_ELEMENT type="zone" element="author"/>
+<AFFICHAGE_ELEMENT type="zone" element="source"/>
+<AFFICHAGE_ELEMENT type="string" element="em"/>
+<AFFICHAGE_ELEMENT type="zone" element="pos"/>
+<AFFICHAGE_ELEMENT type="zone" element="transitivity"/>
+<AFFICHAGE_ELEMENT type="zone" element="separability"/>
+<AFFICHAGE_ELEMENT type="zone" element="reflexivity"/>
+<AFFICHAGE_ELEMENT type="zone" element="gender"/>
+<AFFICHAGE_ELEMENT type="zone" element="number"/>
+<AFFICHAGE_ELEMENT type="zone" element="case"/>
+<AFFICHAGE_ELEMENT type="zone" element="person"/>
+<AFFICHAGE_ELEMENT type="zone" element="verbal"/>
+<AFFICHAGE_ELEMENT type="zone" element="mood"/>
+<AFFICHAGE_ELEMENT type="zone" element="tense"/>
+<AFFICHAGE_ELEMENT type="zone" element="aspect"/>
+<AFFICHAGE_ELEMENT type="zone" element="definiteness"/>
+<AFFICHAGE_ELEMENT type="zone" element="voice"/>
+<AFFICHAGE_ELEMENT type="zone" element="degree"/>
+<AFFICHAGE_ELEMENT type="zone" element="form"/>
+<AFFICHAGE_ELEMENT type="zone" element="of"/>
+</AFFICHAGE_NOEUDS>
+
+<STRINGS>
+<DESCRIPTION_CONFIG>???</DESCRIPTION_CONFIG>
+<STRINGS_ELEMENT element="xdxf">
+<TITRE>xdxf</TITRE>
+</STRINGS_ELEMENT>
+<STRINGS_ELEMENT element="full_name">
+<TITRE>full_name</TITRE>
+</STRINGS_ELEMENT>
+<STRINGS_ELEMENT element="description">
+<TITRE>description</TITRE>
+</STRINGS_ELEMENT>
+<STRINGS_ELEMENT element="abbreviations">
+<TITRE>abbreviations</TITRE>
+</STRINGS_ELEMENT>
+<STRINGS_ELEMENT element="abr_def">
+<TITRE>abr_def</TITRE>
+</STRINGS_ELEMENT>
+<STRINGS_ELEMENT element="v">
+<TITRE>v</TITRE>
+</STRINGS_ELEMENT>
+<STRINGS_ELEMENT element="representations">
+<TITRE>representations</TITRE>
+</STRINGS_ELEMENT>
+<STRINGS_ELEMENT element="represent">
+<TITRE>represent</TITRE>
+</STRINGS_ELEMENT>
+<STRINGS_ELEMENT element="ar">
+<TITRE>ar</TITRE>
+</STRINGS_ELEMENT>
+<STRINGS_ELEMENT element="k">
+<TITRE>k</TITRE>
+</STRINGS_ELEMENT>
+<STRINGS_ELEMENT element="opt">
+<TITRE>opt</TITRE>
+</STRINGS_ELEMENT>
+<STRINGS_ELEMENT element="tr">
+<TITRE>tr</TITRE>
+</STRINGS_ELEMENT>
+<STRINGS_ELEMENT element="dtrn">
+<TITRE>dtrn</TITRE>
+</STRINGS_ELEMENT>
+<STRINGS_ELEMENT element="kref">
+<TITRE>kref</TITRE>
+</STRINGS_ELEMENT>
+<STRINGS_ELEMENT element="rref">
+<TITRE>rref</TITRE>
+</STRINGS_ELEMENT>
+<STRINGS_ELEMENT element="iref">
+<TITRE>iref</TITRE>
+</STRINGS_ELEMENT>
+<STRINGS_ELEMENT element="abr">
+<TITRE>abr</TITRE>
+</STRINGS_ELEMENT>
+<STRINGS_ELEMENT element="ex">
+<TITRE>ex</TITRE>
+</STRINGS_ELEMENT>
+<STRINGS_ELEMENT element="co">
+<TITRE>co</TITRE>
+</STRINGS_ELEMENT>
+<STRINGS_ELEMENT element="head">
+<TITRE>head</TITRE>
+</STRINGS_ELEMENT>
+<STRINGS_ELEMENT element="def">
+<TITRE>def</TITRE>
+</STRINGS_ELEMENT>
+<STRINGS_ELEMENT element="m">
+<TITRE>m</TITRE>
+</STRINGS_ELEMENT>
+<STRINGS_ELEMENT element="etym">
+<TITRE>etym</TITRE>
+</STRINGS_ELEMENT>
+<STRINGS_ELEMENT element="alternatives">
+<TITRE>alternatives</TITRE>
+</STRINGS_ELEMENT>
+<STRINGS_ELEMENT element="from">
+<TITRE>from</TITRE>
+</STRINGS_ELEMENT>
+<STRINGS_ELEMENT element="related">
+<TITRE>related</TITRE>
+</STRINGS_ELEMENT>
+<STRINGS_ELEMENT element="lang">
+<TITRE>lang</TITRE>
+</STRINGS_ELEMENT>
+<STRINGS_ELEMENT element="date">
+<TITRE>date</TITRE>
+</STRINGS_ELEMENT>
+<STRINGS_ELEMENT element="auxiliary">
+<TITRE>auxiliary</TITRE>
+</STRINGS_ELEMENT>
+<STRINGS_ELEMENT element="style">
+<TITRE>style</TITRE>
+</STRINGS_ELEMENT>
+<STRINGS_ELEMENT element="field">
+<TITRE>field</TITRE>
+</STRINGS_ELEMENT>
+<STRINGS_ELEMENT element="synonym">
+<TITRE>synonym</TITRE>
+</STRINGS_ELEMENT>
+<STRINGS_ELEMENT element="antonym">
+<TITRE>antonym</TITRE>
+</STRINGS_ELEMENT>
+<STRINGS_ELEMENT element="usage">
+<TITRE>usage</TITRE>
+</STRINGS_ELEMENT>
+<STRINGS_ELEMENT element="idiom">
+<TITRE>idiom</TITRE>
+</STRINGS_ELEMENT>
+<STRINGS_ELEMENT element="proverb">
+<TITRE>proverb</TITRE>
+</STRINGS_ELEMENT>
+<STRINGS_ELEMENT element="colloc">
+<TITRE>colloc</TITRE>
+</STRINGS_ELEMENT>
+<STRINGS_ELEMENT element="quote">
+<TITRE>quote</TITRE>
+</STRINGS_ELEMENT>
+<STRINGS_ELEMENT element="author">
+<TITRE>author</TITRE>
+</STRINGS_ELEMENT>
+<STRINGS_ELEMENT element="source">
+<TITRE>source</TITRE>
+</STRINGS_ELEMENT>
+<STRINGS_ELEMENT element="em">
+<TITRE>em</TITRE>
+</STRINGS_ELEMENT>
+<STRINGS_ELEMENT element="pos">
+<TITRE>pos</TITRE>
+</STRINGS_ELEMENT>
+<STRINGS_ELEMENT element="transitivity">
+<TITRE>transitivity</TITRE>
+</STRINGS_ELEMENT>
+<STRINGS_ELEMENT element="separability">
+<TITRE>separability</TITRE>
+</STRINGS_ELEMENT>
+<STRINGS_ELEMENT element="reflexivity">
+<TITRE>reflexivity</TITRE>
+</STRINGS_ELEMENT>
+<STRINGS_ELEMENT element="gender">
+<TITRE>gender</TITRE>
+</STRINGS_ELEMENT>
+<STRINGS_ELEMENT element="number">
+<TITRE>number</TITRE>
+</STRINGS_ELEMENT>
+<STRINGS_ELEMENT element="case">
+<TITRE>case</TITRE>
+</STRINGS_ELEMENT>
+<STRINGS_ELEMENT element="person">
+<TITRE>person</TITRE>
+</STRINGS_ELEMENT>
+<STRINGS_ELEMENT element="verbal">
+<TITRE>verbal</TITRE>
+</STRINGS_ELEMENT>
+<STRINGS_ELEMENT element="mood">
+<TITRE>mood</TITRE>
+</STRINGS_ELEMENT>
+<STRINGS_ELEMENT element="tense">
+<TITRE>tense</TITRE>
+</STRINGS_ELEMENT>
+<STRINGS_ELEMENT element="aspect">
+<TITRE>aspect</TITRE>
+</STRINGS_ELEMENT>
+<STRINGS_ELEMENT element="definiteness">
+<TITRE>definiteness</TITRE>
+</STRINGS_ELEMENT>
+<STRINGS_ELEMENT element="voice">
+<TITRE>voice</TITRE>
+</STRINGS_ELEMENT>
+<STRINGS_ELEMENT element="degree">
+<TITRE>degree</TITRE>
+</STRINGS_ELEMENT>
+<STRINGS_ELEMENT element="form">
+<TITRE>form</TITRE>
+</STRINGS_ELEMENT>
+<STRINGS_ELEMENT element="of">
+<TITRE>of</TITRE>
+</STRINGS_ELEMENT>
+</STRINGS>
+</CONFIG_JAXE>
