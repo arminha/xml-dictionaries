@@ -1,0 +1,1532 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="XDXF-draft-logical-05-to-html.xsl"?><xdxf xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="logical" lang_from="ENG" lang_to="KOR">
+<full_name>Making out in Korean</full_name>
+<description>
+	<author>Armin Häberling</author>
+</description>
+<ar>
+	<head><k>How are you?</k></head>
+	<def>
+		<dtrn>안녕하세요?</dtrn>
+		<usage>안녕하세요? is a greeting that asks about the other persons well-being or good health. This expression can be used at any time of the day as "Good morning." "Good afternoon." "Good evening." "Hi." "Hello." or "How is it going?" The common response is simply 네, 안녕하세요?.</usage>
+		<co>Polite greetings</co>
+	</def>
+</ar>
+<ar>
+	<head><k>I'm fine, thanks. And you?</k></head>
+	<def>
+		<dtrn type="approximate">네, 안녕하세요?</dtrn>
+		<co>Polite greetings</co>
+	</def>
+</ar>
+<ar>
+	<head><k>How do you do?</k></head>
+	<def>
+		<dtrn>처음 뵙겠습니다.</dtrn>
+		<co>Polite greetings</co>
+	</def>
+</ar>
+<ar>
+	<head><k>What's new?</k></head>
+	<def>
+		<dtrn>별일 없지요?</dtrn>
+		<co>Polite greetings</co>
+	</def>
+</ar>
+<ar>
+	<head><k>- Nothing much.</k></head>
+	<def>
+		<dtrn>그저 그래요.</dtrn>
+		<co>Polite greetings</co>
+	</def>
+</ar>
+<ar>
+	<head><k>- Things are hard.</k></head>
+	<def>
+		<dtrn>좀 힘들어요.</dtrn>
+		<co>Polite greetings</co>
+	</def>
+</ar>
+<ar>
+	<head><k>- Things are busy.</k></head>
+	<def>
+		<dtrn>좀 바빠요.</dtrn>
+		<co>Polite greetings</co>
+	</def>
+</ar>
+<ar>
+	<head><k>How have you been?</k></head>
+	<def>
+		<dtrn>요즘 어떻게 지내세요?</dtrn>
+		<co>Polite greetings</co>
+	</def>
+</ar>
+<ar>
+	<head><k>- I've been fine, thanks.</k></head>
+	<def>
+		<dtrn>잘 지내요.</dtrn>
+		<co>Polite greetings</co>
+	</def>
+</ar>
+<ar>
+	<head><k>How are you doing?</k></head>
+	<def>
+		<dtrn>잘 있었어?</dtrn>
+		<co>Casual greetings</co>
+	</def>
+</ar>
+<ar>
+	<head><k>Yo, what's up?</k></head>
+	<def>
+		<dtrn>야, 잘 있었냐?</dtrn>
+		<co>Casual greetings</co>
+	</def>
+</ar>
+<ar>
+	<head><k>Dude, what's up?</k></head>
+	<def l="&quot;1&quot;">
+		<dtrn>새끼, 잘 있었냐?</dtrn>
+		<co>Casual greetings</co>
+	</def>
+	<def l="2">
+		<dtrn>자식, 잘 있었냐?</dtrn>
+		<co>Casual greetings</co>
+		<usage>새끼 "baby animal" and 자식 "human baby" are used in Korean slang the way "asshole" is used in American English. When said to one's closest friends, they can be expressions of affection - but handle with care.</usage>
+	</def>
+</ar>
+<ar>
+	<head><k>How've you been?</k></head>
+	<def>
+		<dtrn>어떻게 지냈어?</dtrn>
+		<co>Casual greetings</co>
+	</def>
+</ar>
+<ar>
+	<head><k>- I'm fine.</k></head>
+	<def>
+		<dtrn>잘 있었어.</dtrn>
+		<co>Casual greetings</co>
+	</def>
+</ar>
+<ar>
+	<head><k>Have you been doing OK?</k></head>
+	<def>
+		<dtrn>잘 지냈어?</dtrn>
+		<co>Casual greetings</co>
+	</def>
+</ar>
+<ar>
+	<head><k>- Yeah, man!</k></head>
+	<def>
+		<dtrn>그래, 이 자식아!</dtrn>
+		<usage>Handle with care.</usage>
+		<co>Casual greetings</co>
+	</def>
+</ar>
+<ar>
+	<head><k>Where did you go?</k></head>
+	<def>
+		<dtrn>어디 갔었어?</dtrn>
+		<co>Casual greetings</co>
+	</def>
+</ar>
+<ar>
+	<head><k>It's been a while.</k></head>
+	<def>
+		<dtrn>오랜만이야.</dtrn>
+		<co>Casual greetings</co>
+	</def>
+</ar>
+<ar>
+	<head><k>- Yeah!</k></head>
+	<def>
+		<dtrn>그래!</dtrn>
+		<co>Casual greetings</co>
+	</def>
+</ar>
+<ar>
+	<head><k>- Yeah, it's been ages.</k></head>
+	<def>
+		<dtrn>그래, 오랜만이야.</dtrn>
+		<co>Casual greetings</co>
+	</def>
+</ar>
+<ar>
+	<head><k>How's Peter/Mary?</k></head>
+	<def>
+		<dtrn>피터 / 메리 잘 있어?</dtrn>
+		<co>Casual greetings</co>
+	</def>
+</ar>
+<ar>
+	<head><k>- Yeah, Peter/Mary is fine.</k></head>
+	<def>
+		<dtrn>응, (피터 / 메리) 잘 있어.</dtrn>
+		<co>Casual greetings</co>
+	</def>
+</ar>
+<ar>
+	<head><k>How are Peter and Mary?</k></head>
+	<def>
+		<dtrn>피터하고 메리 잘있어?</dtrn>
+		<co>Casual greetings</co>
+	</def>
+</ar>
+<ar>
+	<head><k>- Yeah, Peter and Mary are fine.</k></head>
+	<def>
+		<dtrn>응, (피터하고 메리) 잘 있어.</dtrn>
+		<co>Casual greetings</co>
+	</def>
+</ar>
+<ar>
+	<head><k>Anything new with Peter/Mary?</k></head>
+	<def>
+		<dtrn>피터 / 메리 별일 없어?</dtrn>
+		<co>Casual greetings</co>
+	</def>
+</ar>
+<ar>
+	<head><k>- Yeah, he/she's doing fine.</k></head>
+	<def>
+		<dtrn>응, 별일 없어.</dtrn>
+		<co>Casual greetings</co>
+	</def>
+</ar>
+<ar>
+	<head><k>- Yeah, he/she's OK.</k></head>
+	<def>
+		<dtrn>응, 잘 지내.</dtrn>
+		<co>Casual greetings</co>
+	</def>
+</ar>
+<ar>
+	<head><k>- Yeah, he/she's doing so-so.</k></head>
+	<def>
+		<dtrn>응, 그저 그래.</dtrn>
+		<co>Casual greetings</co>
+	</def>
+</ar>
+<ar>
+	<head><k>What's wrong, man?</k></head>
+	<def>
+		<dtrn>왜 그래, 임마?</dtrn>
+		<co>Casual greetings</co>
+		<usage>Handle with care.</usage>
+	</def>
+</ar>
+<ar>
+	<head><k>- Nothing's wrong with me.</k></head>
+	<def>
+		<dtrn>아무것도 아니야.</dtrn>
+		<co>Casual greetings</co>
+	</def>
+</ar>
+<ar>
+	<head><k>What are you doing here?</k></head>
+	<def>
+		<dtrn>어쩐 일 이 야?</dtrn>
+		<co>Casual greetings</co>
+	</def>
+</ar>
+<ar>
+	<head><k>- Nothing special.</k></head>
+	<def>
+		<dtrn>그냥.</dtrn>
+		<co>Casual greetings</co>
+	</def>
+</ar>
+<ar>
+	<head><k>Really?</k></head>
+	<def>
+		<dtrn>정말?</dtrn>
+		<co>Casual greetings</co>
+	</def>
+</ar>
+<ar>
+	<head><k>Are you serious?</k></head>
+	<def>
+		<dtrn>진짜?</dtrn>
+		<co>Casual greetings</co>
+	</def>
+</ar>
+<ar>
+	<head><k>Oh, yeah?</k></head>
+	<def>
+		<dtrn>그래?</dtrn>
+		<co>Casual greetings</co>
+	</def>
+</ar>
+<ar>
+	<head><k>You're lying!</k></head>
+	<def>
+		<dtrn>거짓말!</dtrn>
+		<co>Casual greetings</co>
+	</def>
+</ar>
+<ar>
+	<head><k>Are you lying?</k></head>
+	<def>
+		<dtrn>거짓말이지?</dtrn>
+		<co>Casual greetings</co>
+	</def>
+</ar>
+<ar>
+	<head><k>Don't lie!</k></head>
+	<def>
+		<dtrn>거짓말 마!</dtrn>
+		<co>Casual greetings</co>
+	</def>
+</ar>
+<ar>
+	<head><k>Stop lying!</k></head>
+	<def>
+		<dtrn>거짓말 하지 마! 그만 해!</dtrn>
+		<co>Casual greetings</co>
+	</def>
+</ar>
+<ar>
+	<head><k>What?</k></head>
+	<def>
+		<dtrn>뭐?</dtrn>
+		<co>Casual greetings</co>
+	</def>
+</ar>
+<ar>
+	<head><k>Huh?</k></head>
+	<def>
+		<dtrn>어?</dtrn>
+		<co>Casual greetings</co>
+	</def>
+</ar>
+<ar>
+	<head><k>I don't believe it!</k></head>
+	<def>
+		<dtrn>믿을 수 가 없어!</dtrn>
+		<co>Casual greetings</co>
+	</def>
+</ar>
+<ar>
+	<head><k>Why?</k></head>
+	<def>
+		<dtrn>왜?</dtrn>
+		<co>Casual greetings</co>
+	</def>
+</ar>
+<ar>
+	<head><k>Why not?</k></head>
+	<def>
+		<dtrn>왜 아니야?</dtrn>
+		<co>Casual greetings</co>
+	</def>
+</ar>
+<ar>
+	<head><k>You're joking!</k></head>
+	<def>
+		<dtrn>농담이지!</dtrn>
+		<co>Casual greetings</co>
+	</def>
+</ar>
+<ar>
+	<head><k>You're not joking?</k></head>
+	<def>
+		<dtrn>농담 아니지?</dtrn>
+		<co>Casual greetings</co>
+	</def>
+</ar>
+<ar>
+	<head><k>I'm not joking.</k></head>
+	<def>
+		<dtrn>농담 아니야.</dtrn>
+		<co>Casual greetings</co>
+	</def>
+</ar>
+<ar>
+	<head><k>He/She's joking!</k></head>
+	<def>
+		<dtrn>농담이겠지!</dtrn>
+		<co>Casual greetings</co>
+	</def>
+</ar>
+<ar>
+	<head><k>Are you making fun of me?</k></head>
+	<def>
+		<dtrn>놀리냐?</dtrn>
+		<co>Casual greetings</co>
+	</def>
+</ar>
+<ar>
+	<head><k>I guess so.</k></head>
+	<def>
+		<dtrn>그렇겠지.</dtrn>
+		<co>Casual greetings</co>
+	</def>
+</ar>
+<ar>
+	<head><k>Maybe.</k></head>
+	<def>
+		<dtrn>그럴 거야.</dtrn>
+		<co>Casual greetings</co>
+	</def>
+</ar>
+<ar>
+	<head><k>Maybe not.</k></head>
+	<def>
+		<dtrn>아닐 거야.</dtrn>
+		<co>Casual greetings</co>
+	</def>
+</ar>
+<ar>
+	<head><k>That's impossible.</k></head>
+	<def>
+		<dtrn>말도 안 돼!</dtrn>
+		<co>Casual greetings</co>
+	</def>
+</ar>
+<ar>
+	<head><k>You can't do that.</k></head>
+	<def>
+		<dtrn>그렇겐 못 해.</dtrn>
+		<co>Casual greetings</co>
+	</def>
+</ar>
+<ar>
+	<head><k>I don't care.</k></head>
+	<def>
+		<dtrn>상관 안 해.</dtrn>
+		<co>Casual greetings</co>
+	</def>
+</ar>
+<ar>
+	<head><k>It's got nothing to do with me.</k></head>
+	<def>
+		<dtrn>나랑 상관 없어.</dtrn>
+		<co>Casual greetings</co>
+	</def>
+</ar>
+<ar>
+	<head><k>I'm not interested.</k></head>
+	<def>
+		<dtrn>관심 없어.</dtrn>
+		<co>Casual greetings</co>
+	</def>
+</ar>
+<ar>
+	<head><k>I think that's it.</k></head>
+	<def>
+		<dtrn>그거야.</dtrn>
+		<co>Casual greetings</co>
+	</def>
+</ar>
+<ar>
+	<head><k>I think that is it.</k></head>
+	<def>
+		<dtrn>이거야.</dtrn>
+		<co>Casual greetings</co>
+	</def>
+</ar>
+<ar>
+	<head><k>You're crazy!</k></head>
+	<def>
+		<dtrn>너 미쳤어!</dtrn>
+		<co>Casual greetings</co>
+	</def>
+</ar>
+<ar>
+	<head><k>Damn!</k></head>
+	<def>
+		<dtrn>제기랄!</dtrn>
+		<co>Casual greetings</co>
+	</def>
+</ar>
+<ar>
+	<head><k>That's right.</k></head>
+	<def>
+		<dtrn>맞아.</dtrn>
+		<co>Casual greetings</co>
+	</def>
+</ar>
+<ar>
+	<head><k>Is this it?</k></head>
+	<def>
+		<dtrn>이거야?</dtrn>
+		<co>Casual greetings</co>
+	</def>
+</ar>
+<ar>
+	<head><k>This is it.</k></head>
+	<def>
+		<dtrn>이거야.</dtrn>
+		<co>Casual greetings</co>
+	</def>
+</ar>
+<ar>
+	<head><k>Sure.</k></head>
+	<def>
+		<dtrn>그럼.</dtrn>
+		<co>Casual greetings</co>
+	</def>
+</ar>
+<ar>
+	<head><k>It's true.</k></head>
+	<def>
+		<dtrn>진짜야.</dtrn>
+		<co>Casual greetings</co>
+	</def>
+</ar>
+<ar>
+	<head><k>I understand.</k></head>
+	<def>
+		<dtrn>알았어.</dtrn>
+		<co>Casual greetings</co>
+	</def>
+</ar>
+<ar>
+	<head><k>No problem.</k></head>
+	<def>
+		<dtrn>몬제 없어.</dtrn>
+		<co>Casual greetings</co>
+	</def>
+</ar>
+<ar>
+	<head><k>I like it!</k></head>
+	<def>
+		<dtrn>좋아!</dtrn>
+		<co>Casual greetings</co>
+	</def>
+</ar>
+<ar>
+	<head><k>- Me, too.</k></head>
+	<def>
+		<dtrn>나도.</dtrn>
+		<co>Casual greetings</co>
+	</def>
+</ar>
+<ar>
+	<head><k>OK!</k></head>
+	<def l="1">
+		<dtrn>좋아!</dtrn>
+		<co>Casual greetings</co>
+	</def>
+	<def l="2">
+		<dtrn>알었어!</dtrn>
+		<co>Casual greetings</co>
+		<usage>Literally means "I know."</usage>
+	</def>
+</ar>
+<ar>
+	<head><k>Yo!</k></head>
+	<def>
+		<dtrn>야!</dtrn>
+		<co>Casual greetings</co>
+		<usage>Handle with care.</usage>
+	</def>
+</ar>
+<ar>
+	<head><k>Great!</k></head>
+	<def>
+		<dtrn>좋아!</dtrn>
+		<co>Casual greetings</co>
+		<usage>Literally means "I like it."</usage>
+	</def>
+</ar>
+<ar>
+	<head><k>I hope so.</k></head>
+	<def>
+		<dtrn>그러길 바래.</dtrn>
+		<co>Casual greetings</co>
+	</def>
+</ar>
+<ar>
+	<head><k>It's risky.</k></head>
+	<def>
+		<dtrn>위험해.</dtrn>
+		<co>Casual greetings</co>
+	</def>
+</ar>
+<ar>
+	<head><k>Cheer up.</k></head>
+	<def>
+		<dtrn>힘 내.</dtrn>
+		<co>Casual greetings</co>
+	</def>
+</ar>
+<ar>
+	<head><k>Smile.</k></head>
+	<def>
+		<dtrn>웃어 봐.</dtrn>
+		<co>Casual greetings</co>
+	</def>
+</ar>
+<ar>
+	<head><k>Yes.</k></head>
+	<def l="1">
+		<dtrn>네.</dtrn>
+		<co>Basic Phrases</co>
+		<style>polite</style>
+	</def>
+	<def l="2">
+		<dtrn>응.</dtrn>
+		<co>Basic Phrases</co>
+		<style>intimate</style>
+	</def>
+</ar>
+<ar>
+	<head><k>No.</k></head>
+	<def l="1">
+		<dtrn>아니오.</dtrn>
+		<co>Basic Phrases</co>
+		<style>polite</style>
+	</def>
+	<def>
+		<dtrn>아니.</dtrn>
+		<co>Basic Phrases</co>
+		<style>intimate</style>
+	</def>
+</ar>
+<ar>
+	<head><k>Right.</k></head>
+	<def>
+		<dtrn>맞아.</dtrn>
+		<co>Basic Phrases</co>
+	</def>
+</ar>
+<ar>
+	<head><k>What?</k></head>
+	<def>
+		<dtrn>뭐?</dtrn>
+		<co>Basic Phrases</co>
+	</def>
+</ar>
+<ar>
+	<head><k>Who?</k></head>
+	<def>
+		<dtrn>누구?</dtrn>
+		<co>Basic Phrases</co>
+	</def>
+</ar>
+<ar>
+	<head><k>Where?</k></head>
+	<def>
+		<dtrn>어디?</dtrn>
+		<co>Basic Phrases</co>
+	</def>
+</ar>
+<ar>
+	<head><k>When?</k></head>
+	<def>
+		<dtrn>언제?</dtrn>
+		<co>Basic Phrases</co>
+	</def>
+</ar>
+<ar>
+	<head><k>Why?</k></head>
+	<def>
+		<dtrn>왜?</dtrn>
+		<co>Basic Phrases</co>
+	</def>
+</ar>
+<ar>
+	<head><k>How?</k></head>
+	<def>
+		<dtrn>어떻게?</dtrn>
+		<co>Basic Phrases</co>
+	</def>
+</ar>
+<ar>
+	<head><k>Which?</k></head>
+	<def>
+		<dtrn>어떤 거?</dtrn>
+		<co>Basic Phrases</co>
+	</def>
+</ar>
+<ar>
+	<head><k>Whose?</k></head>
+	<def>
+		<dtrn>누구 거?</dtrn>
+		<co>Basic Phrases</co>
+	</def>
+</ar>
+<ar>
+	<head><k>This.</k></head>
+	<def>
+		<dtrn>이거.</dtrn>
+		<co>Basic Phrases</co>
+	</def>
+</ar>
+<ar>
+	<head><k>That.</k></head>
+	<def l="1">
+		<dtrn>저거.</dtrn>
+		<co>Basic Phrases</co>
+		<usage>something over there</usage>
+	</def>
+	<def l="2">
+		<dtrn>그거.</dtrn>
+		<co>Basic Phrases</co>
+		<usage>something close to the listener</usage>
+	</def>
+</ar>
+<ar>
+	<head><k>Here.</k></head>
+	<def>
+		<dtrn>여기.</dtrn>
+		<co>Basic Phrases</co>
+	</def>
+</ar>
+<ar>
+	<head><k>There.</k></head>
+	<def l="1">
+		<dtrn>저기.</dtrn>
+		<co>Basic Phrases</co>
+		<usage>over there</usage>
+	</def>
+	<def l="2">
+		<dtrn>거기.</dtrn>
+		<co>Basic Phrases</co>
+		<usage>close to the listener</usage>
+	</def>
+</ar>
+<ar>
+	<head><k>Maybe.</k></head>
+	<def>
+		<dtrn>그럴 거야.</dtrn>
+		<co>Basic Phrases</co>
+	</def>
+</ar>
+<ar>
+	<head><k>Maybe not.</k></head>
+	<def>
+		<dtrn>아닐 거야.</dtrn>
+		<co>Basic Phrases</co>
+	</def>
+</ar>
+<ar>
+	<head><k>I</k></head>
+	<def>
+		<dtrn>나</dtrn>
+		<co>Basic Phrases</co>
+	</def>
+</ar>
+<ar>
+	<head><k>You</k></head>
+	<def>
+		<dtrn>너</dtrn>
+		<co>Basic Phrases</co>
+	</def>
+</ar>
+<ar>
+	<head><k>He/She</k></head>
+	<def l="1">
+		<dtrn>재</dtrn>
+		<co>Basic Phrases</co>
+		<usage>used in a person's presence</usage>
+	</def>
+	<def l="2">
+		<dtrn>개</dtrn>
+		<co>Basic Phrases</co>
+		<usage>used in a person's absence</usage>
+	</def>
+</ar>
+<ar>
+	<head><k>We</k></head>
+	<def>
+		<dtrn>우리</dtrn>
+		<co>Basic Phrases</co>
+	</def>
+</ar>
+<ar>
+	<head><k>You (plural)</k></head>
+	<def>
+		<dtrn>너네들</dtrn>
+		<co>Basic Phrases</co>
+	</def>
+</ar>
+<ar>
+	<head><k>They</k></head>
+	<def>
+		<dtrn>쟤네들</dtrn>
+		<co>Basic Phrases</co>
+	</def>
+</ar>
+<ar>
+	<head><k>Don't!</k></head>
+	<def>
+		<dtrn>하지 마!</dtrn>
+		<co>Basic Phrases</co>
+	</def>
+</ar>
+<ar>
+	<head><k>Please.</k></head>
+	<def>
+		<dtrn>제발.</dtrn>
+		<co>Basic Phrases</co>
+	</def>
+</ar>
+<ar>
+	<head><k>Thank you.</k></head>
+	<def l="1">
+		<dtrn>감사합니다.</dtrn>
+		<co>Basic Phrases</co>
+		<style>polite</style>
+	</def>
+	<def>
+		<dtrn>고마워.</dtrn>
+		<co>Basic Phrases</co>
+		<style>intimate</style>
+	</def>
+</ar>
+<ar>
+	<head><k>Can I have this?</k></head>
+	<def>
+		<dtrn>이거 가져도 돼?</dtrn>
+		<co>Basic Phrases</co>
+	</def>
+</ar>
+<ar>
+	<head><k>How much is this?</k></head>
+	<def>
+		<dtrn>이거 얼마예요?</dtrn>
+		<co>Basic Phrases</co>
+		<style>polite</style>
+	</def>
+</ar>
+<ar>
+	<head><k>That's not cheap.</k></head>
+	<def>
+		<dtrn>싼게 아니예요.</dtrn>
+		<co>Basic Phrases</co>
+		<style>polite</style>
+	</def>
+</ar>
+<ar>
+	<head><k>That's too expensive!</k></head>
+	<def>
+		<dtrn>너무 비싸요!</dtrn>
+		<co>Basic Phrases</co>
+		<style>polite</style>
+	</def>
+</ar>
+<ar>
+	<head><k>I'm not buying this.</k></head>
+	<def>
+		<dtrn>이거 안 살 거예요.</dtrn>
+		<co>Basic Phrases</co>
+		<style>polite</style>
+	</def>
+</ar>
+<ar>
+	<head><k>Make it cheaper and I'll buy it.</k></head>
+	<def>
+		<dtrn>좀 더 싸면 살게요.</dtrn>
+		<co>Basic Phrases</co>
+		<style>polite</style>
+	</def>
+</ar>
+<ar>
+	<head><k>One moment.</k></head>
+	<def>
+		<dtrn>잠깐만 기다려.</dtrn>
+		<co>Got a Minute?</co>
+	</def>
+</ar>
+<ar>
+	<head><k>When?</k></head>
+	<def>
+		<dtrn>언제?</dtrn>
+		<co>Got a Minute?</co>
+	</def>
+</ar>
+<ar>
+	<head><k>Till when?</k></head>
+	<def>
+		<dtrn>언제까지?</dtrn>
+		<co>Got a Minute?</co>
+	</def>
+</ar>
+<ar>
+	<head><k>What time?</k></head>
+	<def>
+		<dtrn>몇 시에?</dtrn>
+		<co>Got a Minute?</co>
+	</def>
+</ar>
+<ar>
+	<head><k>Am I too early?</k></head>
+	<def>
+		<dtrn>나 너무 일찍 왔지?</dtrn>
+		<co>Got a Minute?</co>
+	</def>
+</ar>
+<ar>
+	<head><k>Is it too late?</k></head>
+	<def>
+		<dtrn>너무 늦었지?</dtrn>
+		<co>Got a Minute?</co>
+	</def>
+</ar>
+<ar>
+	<head><k>When is it good for you?</k></head>
+	<def>
+		<dtrn>언제가 좋아?</dtrn>
+		<co>Got a Minute?</co>
+	</def>
+</ar>
+<ar>
+	<head><k>What time is good for you?</k></head>
+	<def>
+		<dtrn>몇 시가 좋아?</dtrn>
+		<co>Got a Minute?</co>
+	</def>
+</ar>
+<ar>
+	<head><k>How about later?</k></head>
+	<def>
+		<dtrn>나중에 어때?</dtrn>
+		<co>Got a Minute?</co>
+	</def>
+</ar>
+<ar>
+	<head><k>How about tomorrow?</k></head>
+	<def>
+		<dtrn>내일 어때?</dtrn>
+		<co>Got a Minute?</co>
+	</def>
+</ar>
+<ar>
+	<head><k>How about the day after tomorrow?</k></head>
+	<def>
+		<dtrn>모레 어때?</dtrn>
+		<co>Got a Minute?</co>
+	</def>
+</ar>
+<ar>
+	<head><k>When can I come?</k></head>
+	<def>
+		<dtrn>나 언제 가도 돼?</dtrn>
+		<co>Got a Minute?</co>
+	</def>
+</ar>
+<ar>
+	<head><k>When can we go?</k></head>
+	<def>
+		<dtrn>우리 언제 갈 수 있어?</dtrn>
+		<co>Got a Minute?</co>
+	</def>
+</ar>
+<ar>
+	<head><k>What time do we arrive?</k></head>
+	<def>
+		<dtrn>우리 몇 시에 도착해?</dtrn>
+		<co>Got a Minute?</co>
+	</def>
+</ar>
+<ar>
+	<head><k>What time will we be back?</k></head>
+	<def>
+		<dtrn>우리 언제 쯤 돌아 와?</dtrn>
+		<co>Got a Minute?</co>
+	</def>
+</ar>
+<ar>
+	<head><k>Are you ready?</k></head>
+	<def>
+		<dtrn>준비됐어?</dtrn>
+		<co>Got a Minute?</co>
+	</def>
+</ar>
+<ar>
+	<head><k>When will you do it?</k></head>
+	<def>
+		<dtrn>언제 할 거야?</dtrn>
+		<co>Got a Minute?</co>
+	</def>
+</ar>
+<ar>
+	<head><k>When will you be done?</k></head>
+	<def>
+		<dtrn>언제 끝낼 수 있어?</dtrn>
+		<co>Got a Minute?</co>
+	</def>
+</ar>
+<ar>
+	<head><k>How long will it take?</k></head>
+	<def>
+		<dtrn>얼마나 걸려?</dtrn>
+		<co>Got a Minute?</co>
+	</def>
+</ar>
+<ar>
+	<head><k>- It'll be done soon.</k></head>
+	<def>
+		<dtrn>금방 될 거야.</dtrn>
+		<co>Got a Minute?</co>
+	</def>
+</ar>
+<ar>
+	<head><k>Not now.</k></head>
+	<def>
+		<dtrn>지금은 안 돼.</dtrn>
+		<co>Got a Minute?</co>
+	</def>
+</ar>
+<ar>
+	<head><k>Before.</k></head>
+	<def>
+		<dtrn>그전에.</dtrn>
+		<co>Got a Minute?</co>
+	</def>
+</ar>
+<ar>
+	<head><k>Next time.</k></head>
+	<def>
+		<dtrn>다음에.</dtrn>
+		<co>Got a Minute?</co>
+	</def>
+</ar>
+<ar>
+	<head><k>I don't know.</k></head>
+	<def>
+		<dtrn>몰라.</dtrn>
+		<co>Got a Minute?</co>
+	</def>
+</ar>
+<ar>
+	<head><k>I don't know when.</k></head>
+	<def>
+		<dtrn>언제 일지 몰라.</dtrn>
+		<co>Got a Minute?</co>
+	</def>
+</ar>
+<ar>
+	<head><k>I don't know now.</k></head>
+	<def>
+		<dtrn>지금은 몰라.</dtrn>
+		<co>Got a Minute?</co>
+	</def>
+</ar>
+<ar>
+	<head><k>I'm not sure.</k></head>
+	<def>
+		<dtrn>확실히 몰라.</dtrn>
+		<co>Got a Minute?</co>
+	</def>
+</ar>
+<ar>
+	<head><k>Sometime (later).</k></head>
+	<def>
+		<dtrn>다음에.</dtrn>
+		<co>Got a Minute?</co>
+	</def>
+</ar>
+<ar>
+	<head><k>Any time's OK.</k></head>
+	<def>
+		<dtrn>아무때나 좋아.</dtrn>
+		<co>Got a Minute?</co>
+	</def>
+</ar>
+<ar>
+	<head><k>Every day.</k></head>
+	<def>
+		<dtrn>매일</dtrn>
+		<co>Got a Minute?</co>
+	</def>
+</ar>
+<ar>
+	<head><k>You decide when.</k></head>
+	<def>
+		<dtrn>네가 언젠지 결정해.</dtrn>
+		<co>Got a Minute?</co>
+	</def>
+</ar>
+<ar>
+	<head><k>Whenever you want.</k></head>
+	<def>
+		<dtrn>네가 원하는 곳으로 해.</dtrn>
+		<co>Got a Minute?</co>
+	</def>
+</ar>
+<ar>
+	<head><k>OK, let's meet then.</k></head>
+	<def>
+		<dtrn>그럼, 그때 만나.</dtrn>
+		<co>Got a Minute?</co>
+	</def>
+</ar>
+<ar>
+	<head><k>Let's go!</k></head>
+	<def>
+		<dtrn>가자!</dtrn>
+		<co>Got a Minute?</co>
+	</def>
+</ar>
+<ar>
+	<head><k>Let's go for it.</k></head>
+	<def>
+		<dtrn>한 번 해 보자.</dtrn>
+		<co>Got a Minute?</co>
+	</def>
+</ar>
+<ar>
+	<head><k>Hurry up.</k></head>
+	<def>
+		<dtrn>빨리빠리.</dtrn>
+		<co>Got a Minute?</co>
+	</def>
+</ar>
+<ar>
+	<head><k>Let's start again.</k></head>
+	<def>
+		<dtrn>다시 하자.</dtrn>
+		<co>Got a Minute?</co>
+	</def>
+</ar>
+<ar>
+	<head><k>Let's continue.</k></head>
+	<def>
+		<dtrn>계속하자.</dtrn>
+		<co>Got a Minute?</co>
+	</def>
+</ar>
+<ar>
+	<head><k>Yeah!</k></head>
+	<def>
+		<dtrn>야!</dtrn>
+		<co>Got a Minute?</co>
+	</def>
+</ar>
+<ar>
+	<head><k>I'll do it quickly.</k></head>
+	<def>
+		<dtrn>빨리 할게.</dtrn>
+		<co>Got a Minute?</co>
+	</def>
+</ar>
+<ar>
+	<head><k>I'll finish soon.</k></head>
+	<def>
+		<dtrn>금방 끝낼게.</dtrn>
+		<co>Got a Minute?</co>
+	</def>
+</ar>
+<ar>
+	<head><k>Finished?</k></head>
+	<def>
+		<dtrn>끝났어?</dtrn>
+		<co>Got a Minute?</co>
+	</def>
+</ar>
+<ar>
+	<head><k>- I'm finished.</k></head>
+	<def>
+		<dtrn>끝났어.</dtrn>
+		<co>Got a Minute?</co>
+	</def>
+</ar>
+<ar>
+	<head><k>Listen to what I'm saying!</k></head>
+	<def>
+		<dtrn>내 말 좀 들어 봐!</dtrn>
+		<co>Hey There!</co>
+	</def>
+</ar>
+<ar>
+	<head><k>Listen to him/her.</k></head>
+	<def>
+		<dtrn>쟤 말 좀 들어 봐.</dtrn>
+		<co>Hey There!</co>
+	</def>
+</ar>
+<ar>
+	<head><k>Listen to them.</k></head>
+	<def>
+		<dtrn>쟤네들 말 좀 들어 봐.</dtrn>
+		<co>Hey There!</co>
+	</def>
+</ar>
+<ar>
+	<head><k>Did you hear me?</k></head>
+	<def>
+		<dtrn>내 말 들었어?</dtrn>
+		<co>Hey There!</co>
+	</def>
+</ar>
+<ar>
+	<head><k>Can you hear me?</k></head>
+	<def>
+		<dtrn>내 말 들려?</dtrn>
+		<co>Hey There!</co>
+		<usage>Literally means "Can you hear my voice clearly?"</usage>
+	</def>
+</ar>
+<ar>
+	<head><k>Do you understand?</k></head>
+	<def>
+		<dtrn>알았어?</dtrn>
+		<co>Hey There!</co>
+	</def>
+</ar>
+<ar>
+	<head><k>Do you understand, or not?</k></head>
+	<def>
+		<dtrn>알았어, 몰랐어?</dtrn>
+		<co>Hey There!</co>
+	</def>
+</ar>
+<ar>
+	<head><k>Can you understand me?</k></head>
+	<def>
+		<dtrn>내 말 이해해?</dtrn>
+		<co>Hey There!</co>
+	</def>
+</ar>
+<ar>
+	<head><k>- I don't understand.</k></head>
+	<def>
+		<dtrn>이해가 안 돼.</dtrn>
+		<co>Hey There!</co>
+	</def>
+</ar>
+<ar>
+	<head><k>I didn't understand.</k></head>
+	<def>
+		<dtrn>잘 몰랐어.</dtrn>
+		<co>Hey There!</co>
+	</def>
+</ar>
+<ar>
+	<head><k>I couldn't understand.</k></head>
+	<def>
+		<dtrn>이해할 수 가 없었어.</dtrn>
+		<co>Hey There!</co>
+	</def>
+</ar>
+<ar>
+	<head><k>What?</k></head>
+	<def>
+		<dtrn>뭐?</dtrn>
+		<co>Hey There!</co>
+	</def>
+</ar>
+<ar>
+	<head><k>What did you say?</k></head>
+	<def>
+		<dtrn>뭐라고 했어?</dtrn>
+		<co>Hey There!</co>
+	</def>
+</ar>
+<ar>
+	<head><k>I don't understand what you're saying.</k></head>
+	<def>
+		<dtrn>무슨 말인지 모르겠에.</dtrn>
+		<co>Hey There!</co>
+	</def>
+</ar>
+<ar>
+	<head><k>Don't say such things.</k></head>
+	<def>
+		<dtrn>그런 말 하지마.</dtrn>
+		<co>Hey There!</co>
+	</def>
+</ar>
+<ar>
+	<head><k>You shouldn't say things like that.</k></head>
+	<def>
+		<dtrn>그런 말은 하면 안 돼.</dtrn>
+		<co>Hey There!</co>
+	</def>
+</ar>
+<ar>
+	<head><k>Did you say that?</k></head>
+	<def>
+		<dtrn>네가 그랬어?</dtrn>
+		<co>Hey There!</co>
+	</def>
+</ar>
+<ar>
+	<head><k>I didn't say that.</k></head>
+	<def>
+		<dtrn>난 그런 말 한 적 없어.</dtrn>
+		<co>Hey There!</co>
+	</def>
+</ar>
+<ar>
+	<head><k>I didn't say anything.</k></head>
+	<def>
+		<dtrn>난 아무말도 안 했어.</dtrn>
+		<co>Hey There!</co>
+	</def>
+</ar>
+<ar>
+	<head><k>I didn't tell anyone.</k></head>
+	<def>
+		<dtrn>아무한테도 말 안 했어.</dtrn>
+		<co>Hey There!</co>
+	</def>
+</ar>
+<ar>
+	<head><k>Let's speak Korean!</k></head>
+	<def>
+		<dtrn>헌국말로 하자!</dtrn>
+		<co>Hey There!</co>
+	</def>
+</ar>
+<ar>
+	<head><k>Can you speak Korean?</k></head>
+	<def>
+		<dtrn>한국말 하세요?</dtrn>
+		<co>Hey There!</co>
+		<style>polite</style>
+	</def>
+	<def>
+		<dtrn>한국말 할 수 해?</dtrn>
+		<co>Hey There!</co>
+		<style>intimate</style>
+	</def>
+</ar>
+<ar>
+	<head><k>Let's talk.</k></head>
+	<def>
+		<dtrn>얘기 좀 하자.</dtrn>
+		<co>Hey There!</co>
+	</def>
+</ar>
+<ar>
+	<head><k>Let's talk more.</k></head>
+	<def>
+		<dtrn>주금만 더 얘기하자.</dtrn>
+		<co>Hey There!</co>
+	</def>
+</ar>
+<ar>
+	<head><k>Let's talk later.</k></head>
+	<def>
+		<dtrn>이따가 얘기하자.</dtrn>
+		<co>Hey There!</co>
+	</def>
+</ar>
+<ar>
+	<head><k>Tell me later.</k></head>
+	<def>
+		<dtrn>이따가 얘기해줘.</dtrn>
+		<co>Hey There!</co>
+	</def>
+</ar>
+<ar>
+	<head><k>I don't want to talk.</k></head>
+	<def>
+		<dtrn>얘기하고 싶지 않아.</dtrn>
+		<co>Hey There!</co>
+	</def>
+</ar>
+<ar>
+	<head><k>I don't want to talk with you.</k></head>
+	<def>
+		<dtrn>너랑 얘기하고 싶지 않아.</dtrn>
+		<co>Hey There!</co>
+	</def>
+</ar>
+<ar>
+	<head><k>I don't want to hear about it.</k></head>
+	<def>
+		<dtrn>그런 알 듣고 싶지 않아.</dtrn>
+		<co>Hey There!</co>
+	</def>
+</ar>
+<ar>
+	<head><k>I don't want to hear about that thing.</k></head>
+	<def>
+		<dtrn>그 얘긴 둗고 싶지 않아.</dtrn>
+		<co>Hey There!</co>
+	</def>
+</ar>
+<ar>
+	<head><k>Don't make excuses!</k></head>
+	<def>
+		<dtrn>변명하지 마!</dtrn>
+		<co>Hey There!</co>
+	</def>
+</ar>
+<ar>
+	<head><k>Don't give me excuses!</k></head>
+	<def>
+		<dtrn>핑계 따윈 듣고 싶지 않아!</dtrn>
+		<co>Hey There!</co>
+	</def>
+</ar>
+<ar>
+	<head><k>Stop complaining.</k></head>
+	<def>
+		<dtrn>불평 좀 하지 마.</dtrn>
+		<co>Hey There!</co>
+	</def>
+</ar>
+<ar>
+	<head><k>Don't talk so loud.</k></head>
+	<def>
+		<dtrn>너무 크게 말하지 마.</dtrn>
+		<co>Hey There!</co>
+	</def>
+</ar>
+<ar>
+	<head><k>Speak up.</k></head>
+	<def>
+		<dtrn>크게 말해 봐.</dtrn>
+		<co>Hey There!</co>
+	</def>
+</ar>
+<ar>
+	<head><k>Speak louder.</k></head>
+	<def>
+		<dtrn>더 크게 말해 봐.</dtrn>
+		<co>Hey There!</co>
+	</def>
+</ar>
+<ar>
+	<head><k>Say it again.</k></head>
+	<def>
+		<dtrn>다시 말해 봐.</dtrn>
+		<co>Hey There!</co>
+	</def>
+</ar>
+<ar>
+	<head><k>Look!</k></head>
+	<def>
+		<dtrn>봐!</dtrn>
+		<co>Look at That!</co>
+	</def>
+</ar>
+<ar>
+	<head><k>Look at this!</k></head>
+	<def>
+		<dtrn>이거 좀 봐!</dtrn>
+		<co>Look at That!</co>
+	</def>
+</ar>
+<ar>
+	<head><k>Don't look!</k></head>
+	<def>
+		<dtrn>보지 마!</dtrn>
+		<co>Look at That!</co>
+	</def>
+</ar>
+<ar>
+	<head><k>Don't look at this/that?</k></head>
+	<def>
+		<dtrn>이거/저거 보지 마!</dtrn>
+		<co>Look at That!</co>
+	</def>
+</ar>
+<ar>
+	<head><k>Can you see it?</k></head>
+	<def>
+		<dtrn>보여?</dtrn>
+		<co>Look at That!</co>
+	</def>
+</ar>
+<ar>
+	<head><k>- I can see it clearly.</k></head>
+	<def>
+		<dtrn>잘 보여.</dtrn>
+		<co>Look at That!</co>
+	</def>
+</ar>
+<ar>
+	<head><k>- I can't see it.</k></head>
+	<def>
+		<dtrn>잘 안 보여.</dtrn>
+		<co>Look at That!</co>
+	</def>
+</ar>
+<ar>
+	<head><k>Did you see that?</k></head>
+	<def>
+		<dtrn>저거 봤어?</dtrn>
+		<co>Look at That!</co>
+	</def>
+</ar>
+<ar>
+	<head><k>Did you see it?</k></head>
+	<def>
+		<dtrn>그거 봤어?</dtrn>
+		<co>Look at That!</co>
+	</def>
+</ar>
+<ar>
+	<head><k>- I saw it.</k></head>
+	<def>
+		<dtrn>그거 봤어.</dtrn>
+		<co>Look at That!</co>
+	</def>
+</ar>
+<ar>
+	<head><k>- I didn't see it.</k></head>
+	<def>
+		<dtrn>그거 못 봤어.</dtrn>
+		<co>Look at That!</co>
+	</def>
+</ar>
+<ar>
+	<head><k>I don't want to see it.</k></head>
+	<def>
+		<dtrn>보고 싶지 않아.</dtrn>
+		<co>Look at That!</co>
+	</def>
+</ar>
+<ar>
+	<head><k>Did you see Jinju?</k></head>
+	<def>
+		<dtrn>진주 봤어?</dtrn>
+		<co>Look at That!</co>
+	</def>
+</ar>
+<ar>
+	<head><k>I want to see you soon.</k></head>
+	<def>
+		<dtrn>나 너 빨리 보고 싶어.</dtrn>
+		<co>Look at That!</co>
+	</def>
+</ar>
+<ar>
+	<head><k>Are you going to meet Jinju soon?</k></head>
+	<def>
+		<dtrn>진주 곧 만날 거야?</dtrn>
+		<co>Look at That!</co>
+	</def>
+</ar>
+<ar>
+	<head><k>- I'm going to meet Jinju soon.</k></head>
+	<def>
+		<dtrn>진주 곧 만날 거야.</dtrn>
+		<co>Look at That!</co>
+	</def>
+</ar>
+<ar>
+	<head><k>Did you meet John?</k></head>
+	<def>
+		<dtrn>존 만났어?</dtrn>
+		<co>Look at That!</co>
+	</def>
+</ar>
+<ar>
+	<head><k>- I met John.</k></head>
+	<def>
+		<dtrn>존 만났어.</dtrn>
+		<co>Look at That!</co>
+	</def>
+</ar>
+<ar>
+	<head><k>Well, we meet again.</k></head>
+	<def>
+		<dtrn>어, 또 만나네.</dtrn>
+		<co>Look at That!</co>
+	</def>
+</ar>
+<ar>
+	<head><k/></head>
+	<def>
+		<dtrn/>
+		<co/>
+	</def>
+</ar>
+</xdxf>
