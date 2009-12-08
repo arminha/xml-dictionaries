@@ -1523,6 +1523,265 @@
 	</def>
 </ar>
 <ar>
+	<head><k>Come here!</k></head>
+	<def>
+		<dtrn>이리 와!</dtrn>
+		<co>Comming and Going</co>
+	</def>
+</ar>
+<ar>
+	<head><k>Come over here!</k></head>
+	<def>
+		<dtrn>이리로 와!</dtrn>
+		<co>Coming and Going</co>
+	</def>
+</ar>
+<ar>
+	<head><k>Come later.</k></head>
+	<def>
+		<dtrn>나종에 와.</dtrn>
+		<co>Coming and Going</co>
+	</def>
+</ar>
+<ar>
+	<head><k>Can you come?</k></head>
+	<def>
+		<dtrn>올 수 있어?</dtrn>
+		<co>Coming and Going</co>
+	</def>
+</ar>
+<ar>
+	<head><k>Come with me.</k></head>
+	<def>
+		<dtrn>나랑 같이 가.</dtrn>
+		<co>Coming and Going</co>
+	</def>
+</ar>
+<ar>
+	<head><k>He/She's coming here.</k></head>
+	<def>
+		<dtrn>걔 여기 올 거야.</dtrn>
+		<co>Coming and Going</co>
+	</def>
+</ar>
+<ar>
+	<head><k>They are coming here.</k></head>
+	<def>
+		<dtrn>걔네들 여기 올 거야.</dtrn>
+		<co>Coming and Going</co>
+	</def>
+</ar>
+<ar>
+	<head><k>I'll go soon.</k></head>
+	<def>
+		<dtrn>곧 갈 거야.</dtrn>
+		<co>Coming and Going</co>
+	</def>
+</ar>
+<ar>
+	<head><k>I'll come over soon.</k></head>
+	<def>
+		<dtrn>곧 갈게.</dtrn>
+		<co>Coming and Going</co>
+	</def>
+</ar>
+<ar>
+	<head><k>I can go.</k></head>
+	<def>
+		<dtrn>갈 수 있어.</dtrn>
+		<co>Coming and Going</co>
+	</def>
+</ar>
+<ar>
+	<head><k>I think I can go.</k></head>
+	<def>
+		<dtrn>갈 수 있을 거 같애.</dtrn>
+		<co>Coming and Going</co>
+	</def>
+</ar>
+<ar>
+	<head><k>I can't go.</k></head>
+	<def>
+		<dtrn>못 가.</dtrn>
+		<co>Coming and Going</co>
+	</def>
+</ar>
+<ar>
+	<head><k>I want to go.</k></head>
+	<def>
+		<dtrn>나 가고 싶어.</dtrn>
+		<co>Coming and Going</co>
+	</def>
+</ar>
+<ar>
+	<head><k>Do you want to go?</k></head>
+	<def>
+		<dtrn>너 가고 싶어?</dtrn>
+		<co>Coming and Going</co>
+	</def>
+</ar>
+<ar>
+	<head><k>Do they want to go?</k></head>
+	<def>
+		<dtrn>걔네들 가고 싶어해?</dtrn>
+		<co>Coming and Going</co>
+	</def>
+</ar>
+<ar>
+	<head><k>I want to go to Seoul.</k></head>
+	<def>
+		<dtrn>나 서울가고 싶어.</dtrn>
+		<co>Coming and Going</co>
+	</def>
+</ar>
+<ar>
+	<head><k>I really want to go.</k></head>
+	<def>
+		<dtrn>나 정말 가고 싶어.</dtrn>
+		<co>Coming and Going</co>
+	</def>
+</ar>
+<ar>
+	<head><k>I don't want to go.</k></head>
+	<def>
+		<dtrn>나 가고 싶지 않아.</dtrn>
+		<co>Coming and Going</co>
+	</def>
+</ar>
+<ar>
+	<head><k>I really don't want to go.</k></head>
+	<def>
+		<dtrn>나 정말 가고 싶지 않아.</dtrn>
+		<co>Coming and Going</co>
+	</def>
+</ar>
+<ar>
+	<head><k>You're going, right!</k></head>
+	<def>
+		<dtrn>너 갈 거지?</dtrn>
+		<co>Coming and Going</co>
+	</def>
+</ar>
+<ar>
+	<head><k>I'm going.</k></head>
+	<def>
+		<dtrn>나 갈 거야.</dtrn>
+		<co>Coming and Going</co>
+	</def>
+</ar>
+<ar>
+	<head><k>I'm not going.</k></head>
+	<def>
+		<dtrn>나 안 갈 거야.</dtrn>
+		<co>Coming and Going</co>
+	</def>
+</ar>
+<ar>
+	<head><k>I didn't go.</k></head>
+	<def>
+		<dtrn>나 안 갔어.</dtrn>
+		<co>Coming and Going</co>
+	</def>
+</ar>
+<ar>
+	<head><k>Don't go!</k></head>
+	<def>
+		<dtrn>가지 마!</dtrn>
+		<co>Coming and Going</co>
+	</def>
+</ar>
+<ar>
+	<head><k>Don't go yet!</k></head>
+	<def>
+		<dtrn>아직 가지 마!</dtrn>
+		<co>Coming and Going</co>
+	</def>
+</ar>
+<ar>
+	<head><k>I have to go.</k></head>
+	<def>
+		<dtrn>나 지금 가야 돼.</dtrn>
+		<co>Coming and Going</co>
+	</def>
+</ar>
+<ar>
+	<head><k>I must go now.</k></head>
+	<def>
+		<dtrn>나 지금 꼭 가야 돼.</dtrn>
+		<co>Coming and Going</co>
+	</def>
+</ar>
+<ar>
+	<head><k>May I go?</k></head>
+	<def>
+		<dtrn>나 가도 돼?</dtrn>
+		<co>Coming and Going</co>
+	</def>
+</ar>
+<ar>
+	<head><k>I'm going/leaving.</k></head>
+	<def>
+		<dtrn>나 간다.</dtrn>
+		<co>Coming and Going</co>
+	</def>
+</ar>
+<ar>
+	<head><k>Shall we go?</k></head>
+	<def>
+		<dtrn>우리 갈까?</dtrn>
+		<co>Coming and Going</co>
+	</def>
+</ar>
+<ar>
+	<head><k>Let's go!</k></head>
+	<def>
+		<dtrn>가자!</dtrn>
+		<co>Coming and Going</co>
+	</def>
+</ar>
+<ar>
+	<head><k>Let's get outa here!</k></head>
+	<def>
+		<dtrn>나가자!</dtrn>
+		<co>Coming and Going</co>
+	</def>
+</ar>
+<ar>
+	<head><k>Let's split!</k></head>
+	<def>
+		<dtrn>흩어지자!</dtrn>
+		<co>Coming and Going</co>
+	</def>
+</ar>
+<ar>
+	<head><k>He/She left.</k></head>
+	<def>
+		<dtrn>걔 떠났어.</dtrn>
+		<co>Coming and Going</co>
+	</def>
+</ar>
+<ar>
+	<head><k>Stay here!</k></head>
+	<def>
+		<dtrn>여기 있어!</dtrn>
+		<co>Coming and Going</co>
+	</def>
+</ar>
+<ar>
+	<head><k>Where are you going?</k></head>
+	<def>
+		<dtrn>너 어디 가?</dtrn>
+		<co>Coming and Going</co>
+	</def>
+</ar>
+<ar>
+	<head><k>Go slowly.</k></head>
+	<def>
+		<dtrn>천천히 가.</dtrn>
+		<co>Coming and Going</co>
+	</def>
+</ar>
+<ar>
 	<head><k/></head>
 	<def>
 		<dtrn/>
