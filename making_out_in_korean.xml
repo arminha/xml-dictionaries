@@ -1782,6 +1782,428 @@
 	</def>
 </ar>
 <ar>
+	<head><k>I'm hungry.</k></head>
+	<def>
+		<dtrn>나 배고파.</dtrn>
+		<co>Eat, Drink, Be Merry!</co>
+	</def>
+</ar>
+<ar>
+	<head><k>I'm starving.</k></head>
+	<def>
+		<dtrn>배고파 북겠어.</dtrn>
+		<co>Eat, Drink, Be Merry!</co>
+		<usage>Literally means "I'm dying from hunger; I'm crazy from hunger."</usage>
+	</def>
+</ar>
+<ar>
+	<head><k>Have you eaten?</k></head>
+	<def>
+		<dtrn>너 밥 먹었어?</dtrn>
+		<co>Eat, Drink, Be Merry!</co>
+	</def>
+</ar>
+<ar>
+	<head><k>- I haven't eaten yet.</k></head>
+	<def>
+		<dtrn>아직 밥 먹었어.</dtrn>
+		<co>Eat, Drink, Be Merry!</co>
+	</def>
+</ar>
+<ar>
+	<head><k>Do you want to eat something?</k></head>
+	<def>
+		<dtrn>뭐 좀 먹을래?</dtrn>
+		<co>Eat, Drink, Be Merry!</co>
+	</def>
+</ar>
+<ar>
+	<head><k>I'd like to eat something.</k></head>
+	<def>
+		<dtrn>나 뭐 좀 먹고 싶어.</dtrn>
+		<co>Eat, Drink, Be Merry!</co>
+	</def>
+</ar>
+<ar>
+	<head><k>I'm thirsty.</k></head>
+	<def>
+		<dtrn>나 목말라.</dtrn>
+		<co>Eat, Drink, Be Merry!</co>
+	</def>
+</ar>
+<ar>
+	<head><k>I want to drink some beer.</k></head>
+	<def>
+		<dtrn>나 백주 마시고 싶어.</dtrn>
+		<co>Eat, Drink, Be Merry!</co>
+	</def>
+</ar>
+<ar>
+	<head><k>I want some liquor.</k></head>
+	<def>
+		<dtrn>나 술 마시고 싶어.</dtrn>
+		<co>Eat, Drink, Be Merry!</co>
+	</def>
+</ar>
+<ar>
+	<head><k>Try some ... (beverage)</k></head>
+	<def>
+		<dtrn>... 좀 마셔 봐.</dtrn>
+		<co>Eat, Drink, Be Merry!</co>
+	</def>
+</ar>
+<ar>
+	<head><k>Korean vodka</k></head>
+	<def>
+		<dtrn>소주</dtrn>
+		<co>Eat, Drink, Be Merry!</co>
+	</def>
+</ar>
+<ar>
+	<head><k>Mild, milky rice liquor</k></head>
+	<def>
+		<dtrn>막걸리</dtrn>
+		<co>Eat, Drink, Be Merry!</co>
+	</def>
+</ar>
+<ar>
+	<head><k>Beer</k></head>
+	<def>
+		<dtrn>맥주</dtrn>
+		<co>Eat, Drink, Be Merry!</co>
+	</def>
+</ar>
+<ar>
+	<head><k>Wine</k></head>
+	<def>
+		<dtrn>포도주</dtrn>
+		<co>Eat, Drink, Be Merry!</co>
+	</def>
+</ar>
+<ar>
+	<head><k>Plum wine</k></head>
+	<def>
+		<dtrn>매실주</dtrn>
+		<co>Eat, Drink, Be Merry!</co>
+	</def>
+</ar>
+<ar>
+	<head><k>This tastes too weird.</k></head>
+	<def>
+		<dtrn>맛이 신기해.</dtrn>
+		<co>Eat, Drink, Be Merry!</co>
+	</def>
+</ar>
+<ar>
+	<head><k>I think this has gone bad.</k></head>
+	<def>
+		<dtrn>이거 상한 거 같애.</dtrn>
+		<co>Eat, Drink, Be Merry!</co>
+	</def>
+</ar>
+<ar>
+	<head><k>I think this stuff's stale.</k></head>
+	<def>
+		<dtrn>이거 맛이 간 거 같애.</dtrn>
+		<co>Eat, Drink, Be Merry!</co>
+		<usage>Literally means "This taste has left."</usage>
+	</def>
+</ar>
+<ar>
+	<head><k>Wow! This tastes good!</k></head>
+	<def>
+		<dtrn>와! 맛있다.</dtrn>
+		<co>Eat, Drink, Be Merry!</co>
+	</def>
+</ar>
+<ar>
+	<head><k>More, more!</k></head>
+	<def>
+		<dtrn>더, 더!</dtrn>
+		<co>Eat, Drink, Be Merry!</co>
+	</def>
+</ar>
+<ar>
+	<head><k>Do you want to drink some more?</k></head>
+	<def>
+		<dtrn>더 마실래?</dtrn>
+		<co>Eat, Drink, Be Merry!</co>
+	</def>
+</ar>
+<ar>
+	<head><k>- Thank you, but I still have plenty.</k></head>
+	<def>
+		<dtrn>아니, 아직 많이 남았어.</dtrn>
+		<co>Eat, Drink, Be Merry!</co>
+	</def>
+</ar>
+<ar>
+	<head><k>Come on, dude, have some more!</k></head>
+	<def>
+		<dtrn>그러지 말고 더 마셔, 임마!</dtrn>
+		<co>Eat, Drink, Be Merry!</co>
+		<usage>Handle the expression with care.</usage>
+	</def>
+</ar>
+<ar>
+	<head><k>It's on me!</k></head>
+	<def>
+		<dtrn>내가 낼게!</dtrn>
+		<co>Eat, Drink, Be Merry!</co>
+		<usage>Literally means "I'll pay!"</usage>
+	</def>
+</ar>
+<ar>
+	<head><k>How about some food?</k></head>
+	<def>
+		<dtrn>밥 먹고 싶어?</dtrn>
+		<co>Eat, Drink, Be Merry!</co>
+	</def>
+</ar>
+<ar>
+	<head><k>Is the food ready?</k></head>
+	<def>
+		<dtrn>밥 준비 다 됐어?</dtrn>
+		<co>Eat, Drink, Be Merry!</co>
+	</def>
+</ar>
+<ar>
+	<head><k>- Yeah, it's ready.</k></head>
+	<def>
+		<dtrn>응, 다 됐어.</dtrn>
+		<co>Eat, Drink, Be Merry!</co>
+	</def>
+</ar>
+<ar>
+	<head><k>This is a feast!</k></head>
+	<def>
+		<dtrn>진수성찬이네요!</dtrn>
+		<co>Eat, Drink, Be Merry!</co>
+		<usage>A formulaic phrase used when one is invited for dinner.</usage>
+	</def>
+</ar>
+<ar>
+	<head><k>Try this!</k></head>
+	<def>
+		<dtrn>이거 좀 먹어 봐!</dtrn>
+		<co>Eat, Drink, Be Merry!</co>
+	</def>
+</ar>
+<ar>
+	<head><k>Try that!</k></head>
+	<def>
+		<dtrn>저거 좀 먹어 봐!</dtrn>
+		<co>Eat, Drink, Be Merry!</co>
+	</def>
+</ar>
+<ar>
+	<head><k>Dude, stuff your face!</k></head>
+	<def>
+		<dtrn>임마, 빨리 먹어!</dtrn>
+		<co>Eat, Drink, Be Merry!</co>
+		<usage>Handle the expression with care.</usage>
+	</def>
+</ar>
+<ar>
+	<head><k>That looks delicious.</k></head>
+	<def>
+		<dtrn>맛있겠다.</dtrn>
+		<co>Eat, Drink, Be Merry!</co>
+	</def>
+</ar>
+<ar>
+	<head><k>Wow, it looks delicious.</k></head>
+	<def>
+		<dtrn>와, 맛있겠다!</dtrn>
+		<co>Eat, Drink, Be Merry!</co>
+	</def>
+</ar>
+<ar>
+	<head><k>Oh, that smells good!</k></head>
+	<def>
+		<dtrn>야, 냄새 좋다!</dtrn>
+		<co>Eat, Drink, Be Merry!</co>
+	</def>
+</ar>
+<ar>
+	<head><k>What's this?</k></head>
+	<def>
+		<dtrn>이거 뭐야?</dtrn>
+		<co>Eat, Drink, Be Merry!</co>
+	</def>
+</ar>
+<ar>
+	<head><k>Taste it.</k></head>
+	<def>
+		<dtrn>맛 좀 봐.</dtrn>
+		<co>Eat, Drink, Be Merry!</co>
+	</def>
+</ar>
+<ar>
+	<head><k>What's it called?</k></head>
+	<def>
+		<dtrn>이거 이름이 뭐야?</dtrn>
+		<co>Eat, Drink, Be Merry!</co>
+	</def>
+</ar>
+<ar>
+	<head><k>Is it hot? (spicy)</k></head>
+	<def>
+		<dtrn>매워?</dtrn>
+		<co>Eat, Drink, Be Merry!</co>
+	</def>
+</ar>
+<ar>
+	<head><k>This is boiling!</k></head>
+	<def>
+		<dtrn>뜨거워!</dtrn>
+		<co>Eat, Drink, Be Merry!</co>
+	</def>
+</ar>
+<ar>
+	<head><k>Yuck!</k></head>
+	<def>
+		<dtrn>으윽!</dtrn>
+		<co>Eat, Drink, Be Merry!</co>
+	</def>
+</ar>
+<ar>
+	<head><k>It tastes like shit!</k></head>
+	<def>
+		<dtrn>맛이 지랄 같애!</dtrn>
+		<co>Eat, Drink, Be Merry!</co>
+	</def>
+</ar>
+<ar>
+	<head><k>It's awful!</k></head>
+	<def>
+		<dtrn>맛 없어!</dtrn>
+		<co>Eat, Drink, Be Merry!</co>
+	</def>
+</ar>
+<ar>
+	<head><k>I can't eat this!</k></head>
+	<def>
+		<dtrn>못 머겠어!</dtrn>
+		<co>Eat, Drink, Be Merry!</co>
+	</def>
+</ar>
+<ar>
+	<head><k>Water, water!</k></head>
+	<def>
+		<dtrn>물, 물!</dtrn>
+		<co>Eat, Drink, Be Merry!</co>
+	</def>
+</ar>
+<ar>
+	<head><k>My tongue's on fire!</k></head>
+	<def>
+		<dtrn>입에서 불난다!</dtrn>
+		<co>Eat, Drink, Be Merry!</co>
+	</def>
+</ar>
+<ar>
+	<head><k>How'd you eat this?</k></head>
+	<def>
+		<dtrn>이거 어떻게 먹어?</dtrn>
+		<co>Eat, Drink, Be Merry!</co>
+	</def>
+</ar>
+<ar>
+	<head><k>Are these chopsticks?</k></head>
+	<def>
+		<dtrn>이거 젓가락이야?</dtrn>
+		<co>Eat, Drink, Be Merry!</co>
+	</def>
+</ar>
+<ar>
+	<head><k>Give me a fork.</k></head>
+	<def>
+		<dtrn>포크 줘.</dtrn>
+		<co>Eat, Drink, Be Merry!</co>
+	</def>
+</ar>
+<ar>
+	<head><k>You want a knife?</k></head>
+	<def>
+		<dtrn>칼 줄까?</dtrn>
+		<co>Eat, Drink, Be Merry!</co>
+	</def>
+</ar>
+<ar>
+	<head><k>Have some bulgogi*.</k></head>
+	<def>
+		<dtrn>불고기 좀 먹어 봐.</dtrn>
+		<co>Eat, Drink, Be Merry!</co>
+		<usage>* Sweet and savory stir-fried beef.</usage>
+	</def>
+</ar>
+<ar>
+	<head><k>I'd like to try some boshingtang*.</k></head>
+	<def>
+		<dtrn>나 보신탕 먹어 보고 싶어.</dtrn>
+		<co>Eat, Drink, Be Merry!</co>
+		<usage>* Dog-meat stew.</usage>
+	</def>
+</ar>
+<ar>
+	<head><k>Careful, that tteokbokki* is hot!</k></head>
+	<def>
+		<dtrn>조심해, 떡볶이 매워!</dtrn>
+		<co>Eat, Drink, Be Merry!</co>
+		<usage>* Rice cake mixed with hot chilly paste and vegetables.</usage>
+	</def>
+</ar>
+<ar>
+	<head><k>That's a dip, don't drink it!</k></head>
+	<def>
+		<dtrn>찍어 먹는 거야, 마시지 마!</dtrn>
+		<co>Eat, Drink, Be Merry!</co>
+	</def>
+</ar>
+<ar>
+	<head><k>Give me some.</k></head>
+	<def>
+		<dtrn>나 좀 줘.</dtrn>
+		<co>Eat, Drink, Be Merry!</co>
+	</def>
+</ar>
+<ar>
+	<head><k>Give me a little more.</k></head>
+	<def>
+		<dtrn>조금 더 줘.</dtrn>
+		<co>Eat, Drink, Be Merry!</co>
+	</def>
+</ar>
+<ar>
+	<head><k>You want more food?</k></head>
+	<def>
+		<dtrn>더 먹을래?</dtrn>
+		<co>Eat, Drink, Be Merry!</co>
+	</def>
+</ar>
+<ar>
+	<head><k>- I'd like more food.</k></head>
+	<def>
+		<dtrn>나 더 먹을래.</dtrn>
+		<co>Eat, Drink, Be Merry!</co>
+	</def>
+</ar>
+<ar>
+	<head><k>Enough?</k></head>
+	<def>
+		<dtrn>훙분해?</dtrn>
+		<co>Eat, Drink, Be Merry!</co>
+	</def>
+</ar>
+<ar>
+	<head><k>- Enough!</k></head>
+	<def>
+		<dtrn>훙분해.</dtrn>
+		<co>Eat, Drink, Be Merry!</co>
+	</def>
+</ar>
+<ar>
 	<head><k/></head>
 	<def>
 		<dtrn/>
