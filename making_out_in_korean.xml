@@ -2724,6 +2724,591 @@
 	</def>
 </ar>
 <ar>
+	<head><k>What do you want?</k></head>
+	<def>
+		<dtrn>뭐야?</dtrn>
+		<co>Curses and Insults</co>
+	</def>
+</ar>
+<ar>
+	<head><k>What do you want, asshole?</k></head>
+	<def>
+		<dtrn>뭐야, 임마?</dtrn>
+		<co>Curses and Insults</co>
+	</def>
+</ar>
+<ar>
+	<head><k>What?</k></head>
+	<def>
+		<dtrn>뭐?</dtrn>
+		<co>Curses and Insults</co>
+	</def>
+</ar>
+<ar>
+	<head><k>What you lookin' at?</k></head>
+	<def>
+		<dtrn>뭘 봐?</dtrn>
+		<co>Curses and Insults</co>
+	</def>
+</ar>
+<ar>
+	<head><k>Anything wrong?</k></head>
+	<def>
+		<dtrn>꼽냐?</dtrn>
+		<co>Curses and Insults</co>
+	</def>
+</ar>
+<ar>
+	<head><k>You givin' me attitude?</k></head>
+	<def>
+		<dtrn>어쭈, 째려 봐?</dtrn>
+		<co>Curses and Insults</co>
+		<usage>Literally means "Why are you looking down on me?"</usage>
+	</def>
+</ar>
+<ar>
+	<head><k>What are you staring at?</k></head>
+	<def>
+		<dtrn>뭘 쳐다 봐?</dtrn>
+		<co>Curses and Insults</co>
+	</def>
+</ar>
+<ar>
+	<head><k>- None of your business.</k></head>
+	<def>
+		<dtrn>남이야.</dtrn>
+		<co>Curses and Insults</co>
+		<usage>Literally means "Other person." The idea is: "That is the kind of question you could ask yourself, but I'm not you - so it's none of your business!"</usage>
+	</def>
+</ar>
+<ar>
+	<head><k>Mind your own business.</k></head>
+	<def>
+		<dtrn>참견하지 마.</dtrn>
+		<co>Curses and Insults</co>
+	</def>
+</ar>
+<ar>
+	<head><k>Go away!</k></head>
+	<def>
+		<dtrn>꺼져!</dtrn>
+		<co>Curses and Insults</co>
+	</def>
+</ar>
+<ar>
+	<head><k>Go away, man!</k></head>
+	<def>
+		<dtrn>꺼져, 임마!</dtrn>
+		<co>Curses and Insults</co>
+	</def>
+</ar>
+<ar>
+	<head><k>Fuck off!</k></head>
+	<def>
+		<dtrn>좆까!</dtrn>
+		<co>Curses and Insults</co>
+		<usage>Literally means "Kick penis!" From 좆, "penis", and 까, "kick".</usage>
+	</def>
+</ar>
+<ar>
+	<head><k>Excuse me?</k></head>
+	<def>
+		<dtrn>뭐?</dtrn>
+		<co>Curses and Insults</co>
+	</def>
+</ar>
+<ar>
+	<head><k>What did you just say?</k></head>
+	<def>
+		<dtrn>방금 뭐라고 했어?</dtrn>
+		<co>Curses and Insults</co>
+	</def>
+</ar>
+<ar>
+	<head><k>Do you know who I am?</k></head>
+	<def>
+		<dtrn>내가 누곤지나 알아?</dtrn>
+		<co>Curses and Insults</co>
+	</def>
+</ar>
+<ar>
+	<head><k>Come here, I'll teach you some manners!</k></head>
+	<def>
+		<dtrn>싸가지 없는 새끼야, 이리 와!</dtrn>
+		<co>Curses and Insults</co>
+		<usage>Literally means "You have no manners, baby; come here!"</usage>
+	</def>
+</ar>
+<ar>
+	<head><k>Come here!</k></head>
+	<def>
+		<dtrn>이리 와!</dtrn>
+		<co>Curses and Insults</co>
+	</def>
+</ar>
+<ar>
+	<head><k>Don't joke with me!</k></head>
+	<def>
+		<dtrn>농담하지 마!</dtrn>
+		<co>Curses and Insults</co>
+	</def>
+</ar>
+<ar>
+	<head><k>Stop it!</k></head>
+	<def>
+		<dtrn>그만 해!</dtrn>
+		<co>Curses and Insults</co>
+	</def>
+</ar>
+<ar>
+	<head><k>Shut up!</k></head>
+	<def>
+		<dtrn>입 닥쳐!</dtrn>
+		<co>Curses and Insults</co>
+	</def>
+</ar>
+<ar>
+	<head><k>What're you doing?</k></head>
+	<def>
+		<dtrn>뭐 하는 짓이야?</dtrn>
+		<co>Curses and Insults</co>
+	</def>
+</ar>
+<ar>
+	<head><k>What'd you hit me for?</k></head>
+	<def>
+		<dtrn>왜 쳐?</dtrn>
+		<co>Curses and Insults</co>
+	</def>
+</ar>
+<ar>
+	<head><k>What'd you push me for?</k></head>
+	<def>
+		<dtrn>왜 밀어?</dtrn>
+		<co>Curses and Insults</co>
+	</def>
+</ar>
+<ar>
+	<head><k>I'm gonna kill you!</k></head>
+	<def>
+		<dtrn>너 죽여 버릴 거야.</dtrn>
+		<co>Curses and Insults</co>
+	</def>
+</ar>
+<ar>
+	<head><k>Have you finished?</k></head>
+	<def>
+		<dtrn>다 끝났어?</dtrn>
+		<co>Curses and Insults</co>
+	</def>
+</ar>
+<ar>
+	<head><k>You wanna fight?</k></head>
+	<def>
+		<dtrn>맞장 떠?</dtrn>
+		<co>Curses and Insults</co>
+	</def>
+</ar>
+<ar>
+	<head><k>We gonna fight, or not?</k></head>
+	<def>
+		<dtrn>싸울 거야, 말 거야?</dtrn>
+		<co>Curses and Insults</co>
+	</def>
+</ar>
+<ar>
+	<head><k>Let's fight and see!</k></head>
+	<def>
+		<dtrn>한 번 해 보자구!</dtrn>
+		<co>Curses and Insults</co>
+	</def>
+</ar>
+<ar>
+	<head><k>Ouch!</k></head>
+	<def>
+		<dtrn>아야!</dtrn>
+		<co>Curses and Insults</co>
+	</def>
+</ar>
+<ar>
+	<head><k>Don't!</k></head>
+	<def>
+		<dtrn>그만!</dtrn>
+		<co>Curses and Insults</co>
+	</def>
+</ar>
+<ar>
+	<head><k>That hurts!</k></head>
+	<def>
+		<dtrn>아파!</dtrn>
+		<co>Curses and Insults</co>
+	</def>
+</ar>
+<ar>
+	<head><k>Help!</k></head>
+	<def>
+		<dtrn>사람살려!</dtrn>
+		<co>Curses and Insults</co>
+		<usage>Literally means "Save a person's life!"</usage>
+	</def>
+	<def>
+		<dtrn>도와주세요!</dtrn>
+		<co>Curses and Insults</co>
+	</def>
+</ar>
+<ar>
+	<head><k>Don't hit me!</k></head>
+	<def>
+		<dtrn>때리지 마!</dtrn>
+		<co>Curses and Insults</co>
+	</def>
+</ar>
+<ar>
+	<head><k>You deserve it!</k></head>
+	<def>
+		<dtrn>맞아도 싸!</dtrn>
+		<co>Curses and Insults</co>
+	</def>
+</ar>
+<ar>
+	<head><k>Don't do it again!</k></head>
+	<def>
+		<dtrn>다신 하지마!</dtrn>
+		<co>Curses and Insults</co>
+	</def>
+</ar>
+<ar>
+	<head><k>Say you're sorry!</k></head>
+	<def>
+		<dtrn>사과해!</dtrn>
+		<co>Curses and Insults</co>
+	</def>
+</ar>
+<ar>
+	<head><k>- Sorry.</k></head>
+	<def>
+		<dtrn>미안해.</dtrn>
+		<co>Curses and Insults</co>
+	</def>
+</ar>
+<ar>
+	<head><k>You're right.</k></head>
+	<def>
+		<dtrn>네가 맞아.</dtrn>
+		<co>Curses and Insults</co>
+	</def>
+</ar>
+<ar>
+	<head><k>I was wrong.</k></head>
+	<def>
+		<dtrn>내가 틀렸어.</dtrn>
+		<co>Curses and Insults</co>
+	</def>
+</ar>
+<ar>
+	<head><k>It was my fault.</k></head>
+	<def>
+		<dtrn>내가 잘못했어.</dtrn>
+		<co>Curses and Insults</co>
+	</def>
+</ar>
+<ar>
+	<head><k>Forgive me.</k></head>
+	<def>
+		<dtrn>용서해 줘.</dtrn>
+		<co>Curses and Insults</co>
+	</def>
+</ar>
+<ar>
+	<head><k>I forgive you.</k></head>
+	<def>
+		<dtrn>용서해 줄게.</dtrn>
+		<co>Curses and Insults</co>
+	</def>
+</ar>
+<ar>
+	<head><k>You're making me laugh!</k></head>
+	<def>
+		<dtrn>웃기네!</dtrn>
+		<co>Curses and Insults</co>
+	</def>
+</ar>
+<ar>
+	<head><k>You win.</k></head>
+	<def>
+		<dtrn>네가 이겼어.</dtrn>
+		<co>Curses and Insults</co>
+	</def>
+</ar>
+<ar>
+	<head><k>I lose.</k></head>
+	<def>
+		<dtrn>내가 졌어.</dtrn>
+		<co>Curses and Insults</co>
+	</def>
+</ar>
+<ar>
+	<head><k>I'll kick your penis!</k></head>
+	<def>
+		<dtrn>좆까!</dtrn>
+		<co>Curses and Insults</co>
+	</def>
+</ar>
+<ar>
+	<head><k>You're lower than an insect.</k></head>
+	<def>
+		<dtrn>벌레만도 못한 새끼.</dtrn>
+		<co>Curses and Insults</co>
+	</def>
+</ar>
+<ar>
+	<head><k>Son of a beggar.</k></head>
+	<def>
+		<dtrn>거지 새끼.</dtrn>
+		<co>Curses and Insults</co>
+	</def>
+</ar>
+<ar>
+	<head><k>Son of a bitch.</k></head>
+	<def>
+		<dtrn>개 새끼.</dtrn>
+		<co>Curses and Insults</co>
+	</def>
+</ar>
+<ar>
+	<head><k>Son of an idiot.</k></head>
+	<def>
+		<dtrn>바보 새끼.</dtrn>
+		<co>Curses and Insults</co>
+	</def>
+</ar>
+<ar>
+	<head><k>Fuck!</k></head>
+	<def>
+		<dtrn>씨발!</dtrn>
+		<co>Curses and Insults</co>
+	</def>
+</ar>
+<ar>
+	<head><k>Fuck you!</k></head>
+	<def>
+		<dtrn>씨발 놈!</dtrn>
+		<co>Curses and Insults</co>
+		<usage>to male</usage>
+	</def>
+	<def>
+		<dtrn>씨발 년!</dtrn>
+		<co>Curses and Insults</co>
+		<usage>to female</usage>
+	</def>
+	<def>
+		<dtrn>씨방새!</dtrn>
+		<co>Curses and Insults</co>
+	</def>
+</ar>
+<ar>
+	<head><k>You peasant!</k></head>
+	<def>
+		<dtrn>썅년!</dtrn>
+		<co>Curses and Insults</co>
+		<usage>women</usage>
+	</def>
+	<def>
+		<dtrn>썅놈!</dtrn>
+		<co>Curses and Insults</co>
+		<usage>men</usage>
+	</def>
+</ar>
+<ar>
+	<head><k>You look like a penis!</k></head>
+	<def>
+		<dtrn>좆 같은 놈!</dtrn>
+		<co>Curses and Insults</co>
+		<usage>men</usage>
+	</def>
+	<def>
+		<dtrn>좆 같은 년!</dtrn>
+		<co>Curses and Insults</co>
+		<usage>women</usage>
+	</def>
+</ar>
+<ar>
+	<head><k>Don't show off!</k></head>
+	<def>
+		<dtrn>잘난 척 하지마!</dtrn>
+		<co>Curses and Insults</co>
+	</def>
+</ar>
+<ar>
+	<head><k>Go drink your mother's breast milk and then come back!</k></head>
+	<def>
+		<dtrn>가서 엄마 젖이나 더 먹고 와!</dtrn>
+		<co>Curses and Insults</co>
+	</def>
+</ar>
+<ar>
+	<head><k>Go home and masturbate!</k></head>
+	<def>
+		<dtrn>집에 가서 딸딸이나 쳐!</dtrn>
+		<co>Curses and Insults</co>
+	</def>
+</ar>
+<ar>
+	<head><k>Are you insane?</k></head>
+	<def>
+		<dtrn>왠 지랄이야?</dtrn>
+		<co>Curses and Insults</co>
+	</def>
+</ar>
+<ar>
+	<head><k>Crazy man!</k></head>
+	<def>
+		<dtrn>미친 놈!</dtrn>
+		<co>Curses and Insults</co>
+	</def>
+</ar>
+<ar>
+	<head><k>Crazy woman!</k></head>
+	<def>
+		<dtrn>미친 년!</dtrn>
+		<co>Curses and Insults</co>
+	</def>
+</ar>
+<ar>
+	<head><k>Ah, stupid!</k></head>
+	<def>
+		<dtrn>아, 멍청한 새끼!</dtrn>
+		<co>Curses and Insults</co>
+	</def>
+</ar>
+<ar>
+	<head><k>Dickhead!</k></head>
+	<def>
+		<dtrn>돌대가리!</dtrn>
+		<co>Curses and Insults</co>
+	</def>
+</ar>
+<ar>
+	<head><k>Pig!</k></head>
+	<def>
+		<dtrn>지저분한 새끼!</dtrn>
+		<co>Curses and Insults</co>
+	</def>
+</ar>
+<ar>
+	<head><k>Bad-luck-woman!</k></head>
+	<def>
+		<dtrn>재수 없는 년!</dtrn>
+		<co>Curses and Insults</co>
+	</def>
+</ar>
+<ar>
+	<head><k>Bad-luck-man!</k></head>
+	<def>
+		<dtrn>재수 없는 새끼!</dtrn>
+		<co>Curses and Insults</co>
+	</def>
+</ar>
+<ar>
+	<head><k>Oh, I lost my appetite!</k></head>
+	<def>
+		<dtrn>아, 밥 맛 없어!</dtrn>
+		<co>Curses and Insults</co>
+		<usage>Implies that the person being insulted is so unseemly that the speaker's stomach is turning.</usage>
+	</def>
+</ar>
+<ar>
+	<head><k>Pervert!</k></head>
+	<def>
+		<dtrn>변태 새끼!</dtrn>
+		<co>Curses and Insults</co>
+	</def>
+</ar>
+<ar>
+	<head><k>You're a dirty man.</k></head>
+	<def>
+		<dtrn>더러운 새끼.</dtrn>
+		<co>Curses and Insults</co>
+	</def>
+</ar>
+<ar>
+	<head><k>You're a dirty woman.</k></head>
+	<def>
+		<dtrn>더러운 년.</dtrn>
+		<co>Curses and Insults</co>
+	</def>
+</ar>
+<ar>
+	<head><k>Oh, shit smell!</k></head>
+	<def>
+		<dtrn>아, 너저분한 새끼!</dtrn>
+		<co>Curses and Insults</co>
+	</def>
+</ar>
+<ar>
+	<head><k>Die!</k></head>
+	<def>
+		<dtrn>뒈져 버려!</dtrn>
+		<co>Curses and Insults</co>
+	</def>
+</ar>
+<ar>
+	<head><k>Why don't you go somewhere and die!</k></head>
+	<def>
+		<dtrn>어디 가서 뒈져 버 려!</dtrn>
+		<co>Curses and Insults</co>
+	</def>
+</ar>
+<ar>
+	<head><k>What a fucking mess!</k></head>
+	<def>
+		<dtrn>아, 씹할 좆 같네!</dtrn>
+		<co>Curses and Insults</co>
+	</def>
+</ar>
+<ar>
+	<head><k>You motherfucker!</k></head>
+	<def>
+		<dtrn>니미 씹할 놈!</dtrn>
+		<co>Curses and Insults</co>
+	</def>
+</ar>
+<ar>
+	<head><k>Damn!</k></head>
+	<def>
+		<dtrn>씨발!</dtrn>
+		<co>Curses and Insults</co>
+	</def>
+</ar>
+<ar>
+	<head><k>Bastard!</k></head>
+	<def>
+		<dtrn>호로 새끼!</dtrn>
+		<co>Curses and Insults</co>
+	</def>
+</ar>
+<ar>
+	<head><k>Wanker!</k></head>
+	<def>
+		<dtrn>좆 같은 새끼!</dtrn>
+		<co>Curses and Insults</co>
+	</def>
+</ar>
+<ar>
+	<head><k>Bitch!</k></head>
+	<def>
+		<dtrn>개 같은 년!</dtrn>
+		<co>Curses and Insults</co>
+	</def>
+</ar>
+<ar>
+	<head><k>You piece of shit!</k></head>
+	<def>
+		<dtrn>좆도 아닌 새끼!</dtrn>
+		<co>Curses and Insults</co>
+	</def>
+</ar>
+<ar>
 	<head><k/></head>
 	<def>
 		<dtrn/>
