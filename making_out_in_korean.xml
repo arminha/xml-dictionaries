@@ -3309,6 +3309,949 @@
 	</def>
 </ar>
 <ar>
+	<head><k>Do you come here often?</k></head>
+	<def>
+		<dtrn>여기 자주 오세요?</dtrn>
+		<co>Party Talk</co>
+	</def>
+</ar>
+<ar>
+	<head><k>You look like you're having fun.</k></head>
+	<def>
+		<dtrn>참 재미 있어 보이네요.</dtrn>
+		<co>Party Talk</co>
+	</def>
+</ar>
+<ar>
+	<head><k>- Yes, I'm having fun.</k></head>
+	<def>
+		<dtrn>네, 재미 있어요.</dtrn>
+		<co>Party Talk</co>
+	</def>
+</ar>
+<ar>
+	<head><k>This place is happening!</k></head>
+	<def>
+		<dtrn>여기 괜찮다!</dtrn>
+		<co>Party Talk</co>
+	</def>
+</ar>
+<ar>
+	<head><k>- Yeah, this place is happening!</k></head>
+	<def>
+		<dtrn>예, 여기 괜찮아요!</dtrn>
+		<co>Party Talk</co>
+	</def>
+</ar>
+<ar>
+	<head><k>This place is fun.</k></head>
+	<def>
+		<dtrn>여기 정말 재밌어요.</dtrn>
+		<co>Party Talk</co>
+	</def>
+</ar>
+<ar>
+	<head><k>This place is fantastic.</k></head>
+	<def>
+		<dtrn>여기 멋있어요.</dtrn>
+		<co>Party Talk</co>
+	</def>
+</ar>
+<ar>
+	<head><k>What's your name?</k></head>
+	<def>
+		<dtrn>이름이 어떻게 되세요?</dtrn>
+		<co>Party Talk</co>
+	</def>
+</ar>
+<ar>
+	<head><k>- My name is ...</k></head>
+	<def>
+		<dtrn>제 이름은 ... 입니다.</dtrn>
+		<co>Party Talk</co>
+	</def>
+</ar>
+<ar>
+	<head><k>Are you here alone?</k></head>
+	<def>
+		<dtrn>혼자 왔어요?</dtrn>
+		<co>Party Talk</co>
+	</def>
+</ar>
+<ar>
+	<head><k>- Yes, I'm here alone.</k></head>
+	<def>
+		<dtrn>네, 혼자 왔어요.</dtrn>
+		<co>Party Talk</co>
+	</def>
+</ar>
+<ar>
+	<head><k>- No, I'm here with my ...</k></head>
+	<def>
+		<dtrn>아니오, ... 랑 왔어요.</dtrn>
+		<co>Party Talk</co>
+	</def>
+</ar>
+<ar>
+	<head><k>Father</k></head>
+	<def>
+		<dtrn>아버지</dtrn>
+		<co>Party Talk</co>
+	</def>
+</ar>
+<ar>
+	<head><k>Daddy</k></head>
+	<def>
+		<dtrn>아빠</dtrn>
+		<co>Party Talk</co>
+	</def>
+</ar>
+<ar>
+	<head><k>Mother</k></head>
+	<def>
+		<dtrn>어머니</dtrn>
+		<co>Party Talk</co>
+	</def>
+</ar>
+<ar>
+	<head><k>Mum</k></head>
+	<def>
+		<dtrn>엄마</dtrn>
+		<co>Party Talk</co>
+	</def>
+</ar>
+<ar>
+	<head><k>Older sister</k></head>
+	<def>
+		<dtrn>언니</dtrn>
+		<co>Party Talk</co>
+		<usage>female</usage>
+	</def>
+	<def>
+		<dtrn>누나</dtrn>
+		<co>Party Talk</co>
+		<usage>male</usage>
+	</def>
+</ar>
+<ar>
+	<head><k>Older brother</k></head>
+	<def>
+		<dtrn>오빠</dtrn>
+		<co>Party Talk</co>
+		<usage>female</usage>
+	</def>
+	<def>
+		<dtrn>형</dtrn>
+		<co>Party Talk</co>
+		<usage>male</usage>
+	</def>
+</ar>
+<ar>
+	<head><k>Younger sister/brother</k></head>
+	<def>
+		<dtrn>동생</dtrn>
+		<co>Party Talk</co>
+	</def>
+</ar>
+<ar>
+	<head><k>Friends</k></head>
+	<def>
+		<dtrn>친구</dtrn>
+		<co>Party Talk</co>
+	</def>
+</ar>
+<ar>
+	<head><k>Boyfriend</k></head>
+	<def>
+		<dtrn>남자친구</dtrn>
+		<co>Party Talk</co>
+	</def>
+</ar>
+<ar>
+	<head><k>Girlfriend</k></head>
+	<def>
+		<dtrn>여자친구</dtrn>
+		<co>Party Talk</co>
+	</def>
+</ar>
+<ar>
+	<head><k>Husband</k></head>
+	<def>
+		<dtrn>님편</dtrn>
+		<co>Party Talk</co>
+	</def>
+</ar>
+<ar>
+	<head><k>Wife</k></head>
+	<def>
+		<dtrn>아내</dtrn>
+		<co>Party Talk</co>
+	</def>
+</ar>
+<ar>
+	<head><k>senior</k></head>
+	<def>
+		<dtrn>선배</dtrn>
+		<co>Party Talk</co>
+	</def>
+</ar>
+<ar>
+	<head><k>junior</k></head>
+	<def>
+		<dtrn>후배</dtrn>
+		<co>Party Talk</co>
+	</def>
+</ar>
+<ar>
+	<head><k>Can I join you?</k></head>
+	<def>
+		<dtrn>합석해도 될까요?</dtrn>
+		<co>Party Talk</co>
+	</def>
+</ar>
+<ar>
+	<head><k>Can I sit here?</k></head>
+	<def>
+		<dtrn>여기 앉아도 될까요?</dtrn>
+		<co>Party Talk</co>
+	</def>
+</ar>
+<ar>
+	<head><k>Please sit down.</k></head>
+	<def>
+		<dtrn>예, 앉으세요.</dtrn>
+		<co>Party Talk</co>
+	</def>
+</ar>
+<ar>
+	<head><k>Is someone sitting here?</k></head>
+	<def>
+		<dtrn>여기 누구 있어요?</dtrn>
+		<co>Party Talk</co>
+	</def>
+</ar>
+<ar>
+	<head><k>- Someone's sitting here.</k></head>
+	<def>
+		<dtrn>여기 누구 있어요.</dtrn>
+		<co>Party Talk</co>
+	</def>
+</ar>
+<ar>
+	<head><k>Can I buy you a drink?</k></head>
+	<def>
+		<dtrn>술 한 잔 사도 될까요?</dtrn>
+		<co>Party Talk</co>
+	</def>
+</ar>
+<ar>
+	<head><k>Where are you from?</k></head>
+	<def>
+		<dtrn>어디서 왔어요?</dtrn>
+		<co>Party Talk</co>
+	</def>
+</ar>
+<ar>
+	<head><k>I'm from ...</k></head>
+	<def>
+		<dtrn>자는 ... 에서 왔어요.</dtrn>
+		<co>Party Talk</co>
+	</def>
+</ar>
+<ar>
+	<head><k>the U.S.</k></head>
+	<def>
+		<dtrn>미국</dtrn>
+		<co>Party Talk</co>
+	</def>
+</ar>
+<ar>
+	<head><k>England</k></head>
+	<def>
+		<dtrn>영국</dtrn>
+		<co>Party Talk</co>
+	</def>
+</ar>
+<ar>
+	<head><k>France</k></head>
+	<def>
+		<dtrn>프랑스</dtrn>
+		<co>Party Talk</co>
+	</def>
+</ar>
+<ar>
+	<head><k>Australia</k></head>
+	<def>
+		<dtrn>호주</dtrn>
+		<co>Party Talk</co>
+	</def>
+</ar>
+<ar>
+	<head><k>Germany</k></head>
+	<def>
+		<dtrn>독일</dtrn>
+		<co>Party Talk</co>
+	</def>
+</ar>
+<ar>
+	<head><k>Canada</k></head>
+	<def>
+		<dtrn>캐나다</dtrn>
+		<co>Party Talk</co>
+	</def>
+</ar>
+<ar>
+	<head><k>Italy</k></head>
+	<def>
+		<dtrn>이탈리아</dtrn>
+		<co>Party Talk</co>
+	</def>
+</ar>
+<ar>
+	<head><k>Russia</k></head>
+	<def>
+		<dtrn>러시아</dtrn>
+		<co>Party Talk</co>
+	</def>
+</ar>
+<ar>
+	<head><k>Korea</k></head>
+	<def>
+		<dtrn>한국</dtrn>
+		<co>Party Talk</co>
+	</def>
+</ar>
+<ar>
+	<head><k>Japan</k></head>
+	<def>
+		<dtrn>일본</dtrn>
+		<co>Party Talk</co>
+	</def>
+</ar>
+<ar>
+	<head><k>China</k></head>
+	<def>
+		<dtrn>중국</dtrn>
+		<co>Party Talk</co>
+	</def>
+</ar>
+<ar>
+	<head><k>Honk Kong</k></head>
+	<def>
+		<dtrn>홍콩</dtrn>
+		<co>Party Talk</co>
+	</def>
+</ar>
+<ar>
+	<head><k>Indonesia</k></head>
+	<def>
+		<dtrn>인도네시아</dtrn>
+		<co>Party Talk</co>
+	</def>
+</ar>
+<ar>
+	<head><k>Thailand</k></head>
+	<def>
+		<dtrn>태국</dtrn>
+		<co>Party Talk</co>
+	</def>
+</ar>
+<ar>
+	<head><k>Switzerland</k></head>
+	<def>
+		<dtrn>스위스</dtrn>
+		<co>Party Talk</co>
+	</def>
+</ar>
+<ar>
+	<head><k>Where do you live?</k></head>
+	<def>
+		<dtrn>어디에 살아요?</dtrn>
+		<co>Party Talk</co>
+	</def>
+</ar>
+<ar>
+	<head><k>- I live in ...</k></head>
+	<def>
+		<dtrn>... 에 살아요.</dtrn>
+		<co>Party Talk</co>
+	</def>
+</ar>
+<ar>
+	<head><k>New York</k></head>
+	<def>
+		<dtrn>뉴욕</dtrn>
+		<co>Party Talk</co>
+	</def>
+</ar>
+<ar>
+	<head><k>L.A.</k></head>
+	<def>
+		<dtrn>엘에이</dtrn>
+		<co>Party Talk</co>
+	</def>
+</ar>
+<ar>
+	<head><k>Seoul</k></head>
+	<def>
+		<dtrn>서울</dtrn>
+		<co>Party Talk</co>
+	</def>
+</ar>
+<ar>
+	<head><k>Busan</k></head>
+	<def>
+		<dtrn>부산</dtrn>
+		<co>Party Talk</co>
+	</def>
+</ar>
+<ar>
+	<head><k>London</k></head>
+	<def>
+		<dtrn>런던</dtrn>
+		<co>Party Talk</co>
+	</def>
+</ar>
+<ar>
+	<head><k>Sydney</k></head>
+	<def>
+		<dtrn>시드니</dtrn>
+		<co>Party Talk</co>
+	</def>
+</ar>
+<ar>
+	<head><k>Melbourne</k></head>
+	<def>
+		<dtrn>멜번</dtrn>
+		<co>Party Talk</co>
+	</def>
+</ar>
+<ar>
+	<head><k>Paris</k></head>
+	<def>
+		<dtrn>파리</dtrn>
+		<co>Party Talk</co>
+	</def>
+</ar>
+<ar>
+	<head><k>Rome</k></head>
+	<def>
+		<dtrn>로마</dtrn>
+		<co>Party Talk</co>
+	</def>
+</ar>
+<ar>
+	<head><k>How old are you?</k></head>
+	<def>
+		<dtrn>나이가 어떻게 되세요?</dtrn>
+		<co>Party Talk</co>
+	</def>
+</ar>
+<ar>
+	<head><k>- I'm ... years old.</k></head>
+	<def>
+		<dtrn>... 살이에요.</dtrn>
+		<co>Party Talk</co>
+	</def>
+</ar>
+<ar>
+	<head><k>15</k></head>
+	<def>
+		<dtrn>열다섯</dtrn>
+		<co>Party Talk</co>
+	</def>
+</ar>
+<ar>
+	<head><k>16</k></head>
+	<def>
+		<dtrn>열여섯</dtrn>
+		<co>Party Talk</co>
+	</def>
+</ar>
+<ar>
+	<head><k>17</k></head>
+	<def>
+		<dtrn>열일곱</dtrn>
+		<co>Party Talk</co>
+	</def>
+</ar>
+<ar>
+	<head><k>18</k></head>
+	<def>
+		<dtrn>열여덟</dtrn>
+		<co>Party Talk</co>
+	</def>
+</ar>
+<ar>
+	<head><k>19</k></head>
+	<def>
+		<dtrn>열아홉</dtrn>
+		<co>Party Talk</co>
+	</def>
+</ar>
+<ar>
+	<head><k>20</k></head>
+	<def>
+		<dtrn>스무</dtrn>
+		<co>Party Talk</co>
+	</def>
+</ar>
+<ar>
+	<head><k>21</k></head>
+	<def>
+		<dtrn>스물한</dtrn>
+		<co>Party Talk</co>
+	</def>
+</ar>
+<ar>
+	<head><k>22</k></head>
+	<def>
+		<dtrn>스물두</dtrn>
+		<co>Party Talk</co>
+	</def>
+</ar>
+<ar>
+	<head><k>23</k></head>
+	<def>
+		<dtrn>스물세</dtrn>
+		<co>Party Talk</co>
+	</def>
+</ar>
+<ar>
+	<head><k>24</k></head>
+	<def>
+		<dtrn>스물네</dtrn>
+		<co>Party Talk</co>
+	</def>
+</ar>
+<ar>
+	<head><k>25</k></head>
+	<def>
+		<dtrn>스물다섯</dtrn>
+		<co>Party Talk</co>
+	</def>
+</ar>
+<ar>
+	<head><k>26</k></head>
+	<def>
+		<dtrn>스물여섯</dtrn>
+		<co>Party Talk</co>
+	</def>
+</ar>
+<ar>
+	<head><k>27</k></head>
+	<def>
+		<dtrn>스물일곱</dtrn>
+		<co>Party Talk</co>
+	</def>
+</ar>
+<ar>
+	<head><k>28</k></head>
+	<def>
+		<dtrn>스물여덟</dtrn>
+		<co>Party Talk</co>
+	</def>
+</ar>
+<ar>
+	<head><k>29</k></head>
+	<def>
+		<dtrn>스물아홉</dtrn>
+		<co>Party Talk</co>
+	</def>
+</ar>
+<ar>
+	<head><k>30</k></head>
+	<def>
+		<dtrn>서른</dtrn>
+		<co>Party Talk</co>
+	</def>
+</ar>
+<ar>
+	<head><k>31</k></head>
+	<def>
+		<dtrn>서른한</dtrn>
+		<co>Party Talk</co>
+	</def>
+</ar>
+<ar>
+	<head><k>32</k></head>
+	<def>
+		<dtrn>서른두</dtrn>
+		<co>Party Talk</co>
+	</def>
+</ar>
+<ar>
+	<head><k>33</k></head>
+	<def>
+		<dtrn>서른세</dtrn>
+		<co>Party Talk</co>
+	</def>
+</ar>
+<ar>
+	<head><k>34</k></head>
+	<def>
+		<dtrn>서른네</dtrn>
+		<co>Party Talk</co>
+	</def>
+</ar>
+<ar>
+	<head><k>35</k></head>
+	<def>
+		<dtrn>서른다섯</dtrn>
+		<co>Party Talk</co>
+	</def>
+</ar>
+<ar>
+	<head><k>40</k></head>
+	<def>
+		<dtrn>마흔</dtrn>
+		<co>Party Talk</co>
+	</def>
+</ar>
+<ar>
+	<head><k>50</k></head>
+	<def>
+		<dtrn>쉰</dtrn>
+		<co>Party Talk</co>
+	</def>
+</ar>
+<ar>
+	<head><k>Are you a student?</k></head>
+	<def>
+		<dtrn>학샌이세요?</dtrn>
+		<co>Party Talk</co>
+	</def>
+</ar>
+<ar>
+	<head><k>I'm a ...</k></head>
+	<def>
+		<dtrn>저는 ... 입니다.</dtrn>
+		<co>Party Talk</co>
+	</def>
+</ar>
+<ar>
+	<head><k>Doctor</k></head>
+	<def>
+		<dtrn>의사</dtrn>
+		<co>Party Talk</co>
+	</def>
+</ar>
+<ar>
+	<head><k>Dentist</k></head>
+	<def>
+		<dtrn>치과의사</dtrn>
+		<co>Party Talk</co>
+	</def>
+</ar>
+<ar>
+	<head><k>Lawyer</k></head>
+	<def>
+		<dtrn>변호사</dtrn>
+		<co>Party Talk</co>
+	</def>
+</ar>
+<ar>
+	<head><k>Professor</k></head>
+	<def>
+		<dtrn>교수</dtrn>
+		<co>Party Talk</co>
+	</def>
+</ar>
+<ar>
+	<head><k>Secretary</k></head>
+	<def>
+		<dtrn>비서</dtrn>
+		<co>Party Talk</co>
+	</def>
+</ar>
+<ar>
+	<head><k>Teacher</k></head>
+	<def>
+		<dtrn>선생</dtrn>
+		<co>Party Talk</co>
+	</def>
+</ar>
+<ar>
+	<head><k>Nurse</k></head>
+	<def>
+		<dtrn>간호사</dtrn>
+		<co>Party Talk</co>
+	</def>
+</ar>
+<ar>
+	<head><k>Business person</k></head>
+	<def>
+		<dtrn>사업가</dtrn>
+		<co>Party Talk</co>
+	</def>
+</ar>
+<ar>
+	<head><k>Company employee</k></head>
+	<def>
+		<dtrn>회사원</dtrn>
+		<co>Party Talk</co>
+	</def>
+</ar>
+<ar>
+	<head><k>Public servant</k></head>
+	<def>
+		<dtrn>공무원</dtrn>
+		<co>Party Talk</co>
+	</def>
+</ar>
+<ar>
+	<head><k>Hairdresser</k></head>
+	<def>
+		<dtrn>미용사</dtrn>
+		<co>Party Talk</co>
+	</def>
+</ar>
+<ar>
+	<head><k>Sales person</k></head>
+	<def>
+		<dtrn>영업사원</dtrn>
+		<co>Party Talk</co>
+	</def>
+</ar>
+<ar>
+	<head><k>Wow, what a nice job you've got!</k></head>
+	<def>
+		<dtrn>와, 멋있는 일 하시네요!</dtrn>
+		<co>Party Talk</co>
+	</def>
+</ar>
+<ar>
+	<head><k>What kinds of hobbies do you have?</k></head>
+	<def>
+		<dtrn>취미가 어떻게 되세요?</dtrn>
+		<co>Party Talk</co>
+	</def>
+</ar>
+<ar>
+	<head><k>- My hobby is ...</k></head>
+	<def>
+		<dtrn>제 취미는 ... 입니아.</dtrn>
+		<co>Party Talk</co>
+	</def>
+</ar>
+<ar>
+	<head><k>Sport</k></head>
+	<def>
+		<dtrn>운동</dtrn>
+		<co>Party Talk</co>
+	</def>
+</ar>
+<ar>
+	<head><k>Tennis</k></head>
+	<def>
+		<dtrn>테니스</dtrn>
+		<co>Party Talk</co>
+	</def>
+</ar>
+<ar>
+	<head><k>Golf</k></head>
+	<def>
+		<dtrn>골프</dtrn>
+		<co>Party Talk</co>
+	</def>
+</ar>
+<ar>
+	<head><k>Music</k></head>
+	<def>
+		<dtrn>음악</dtrn>
+		<co>Party Talk</co>
+	</def>
+</ar>
+<ar>
+	<head><k>Ballet</k></head>
+	<def>
+		<dtrn>발레</dtrn>
+		<co>Party Talk</co>
+	</def>
+</ar>
+<ar>
+	<head><k>Cooking</k></head>
+	<def>
+		<dtrn>요리</dtrn>
+		<co>Party Talk</co>
+	</def>
+</ar>
+<ar>
+	<head><k>Fishing</k></head>
+	<def>
+		<dtrn>낚시</dtrn>
+		<co>Party Talk</co>
+	</def>
+</ar>
+<ar>
+	<head><k>Skiing</k></head>
+	<def>
+		<dtrn>스키</dtrn>
+		<co>Party Talk</co>
+	</def>
+</ar>
+<ar>
+	<head><k>What music do you like?</k></head>
+	<def>
+		<dtrn>어떤 음악 좋아해요?</dtrn>
+		<co>Party Talk</co>
+	</def>
+</ar>
+<ar>
+	<head><k>- I like ...</k></head>
+	<def>
+		<dtrn>저는 ... 좋아해요.</dtrn>
+		<co>Party Talk</co>
+	</def>
+</ar>
+<ar>
+	<head><k>You know this song?</k></head>
+	<def>
+		<dtrn>이 노래 알아요?</dtrn>
+		<co>Party Talk</co>
+	</def>
+</ar>
+<ar>
+	<head><k>- Yes, I do.</k></head>
+	<def>
+		<dtrn>네, 알아요.</dtrn>
+		<co>Party Talk</co>
+	</def>
+</ar>
+<ar>
+	<head><k>- I don't know it.</k></head>
+	<def>
+		<dtrn>잘 몰라요.</dtrn>
+		<co>Party Talk</co>
+	</def>
+</ar>
+<ar>
+	<head><k>- This is the first time I'm hearing it.</k></head>
+	<def>
+		<dtrn>처음 들어요.</dtrn>
+		<co>Party Talk</co>
+	</def>
+</ar>
+<ar>
+	<head><k>Would you like to dance?</k></head>
+	<def>
+		<dtrn>춤 출래요?</dtrn>
+		<co>Party Talk</co>
+	</def>
+</ar>
+<ar>
+	<head><k>- I can't dance.</k></head>
+	<def>
+		<dtrn>춤 못 춰요.</dtrn>
+		<co>Party Talk</co>
+	</def>
+</ar>
+<ar>
+	<head><k>- I'm not in the mood.</k></head>
+	<def>
+		<dtrn>춤 출 기분이 아니에요.</dtrn>
+		<co>Party Talk</co>
+	</def>
+</ar>
+<ar>
+	<head><k>You dance well.</k></head>
+	<def>
+		<dtrn>춤 잘 추네요.</dtrn>
+		<co>Party Talk</co>
+	</def>
+</ar>
+<ar>
+	<head><k>Shall we go elsewhere?</k></head>
+	<def>
+		<dtrn>어디 다른 데로 갈래요?</dtrn>
+		<co>Party Talk</co>
+	</def>
+</ar>
+<ar>
+	<head><k>What time do you have to be home!</k></head>
+	<def>
+		<dtrn>몇 시까지 집에 가야 돼요?</dtrn>
+		<co>Party Talk</co>
+	</def>
+</ar>
+<ar>
+	<head><k>What time are you leaving?</k></head>
+	<def>
+		<dtrn>몇 시에 갈 거예요?</dtrn>
+		<co>Party Talk</co>
+	</def>
+</ar>
+<ar>
+	<head><k>- I have to go now.</k></head>
+	<def>
+		<dtrn>지금 가야 돼요.</dtrn>
+		<co>Party Talk</co>
+	</def>
+</ar>
+<ar>
+	<head><k>Don't go now.</k></head>
+	<def>
+		<dtrn>지금 가지 마세요.</dtrn>
+		<co>Party Talk</co>
+	</def>
+</ar>
+<ar>
+	<head><k>Go later!</k></head>
+	<def>
+		<dtrn>이따가 가세요!</dtrn>
+		<co>Party Talk</co>
+	</def>
+</ar>
+<ar>
+	<head><k>What shall we do?</k></head>
+	<def>
+		<dtrn>뭐 할까요?</dtrn>
+		<co>Party Talk</co>
+	</def>
+</ar>
+<ar>
+	<head><k>What's next?</k></head>
+	<def>
+		<dtrn>이제 뭐 할까요?</dtrn>
+		<co>Party Talk</co>
+	</def>
+</ar>
+<ar>
+	<head><k>- It's up to you.</k></head>
+	<def>
+		<dtrn>하고 싶은 대로 하세요.</dtrn>
+		<co>Party Talk</co>
+	</def>
+</ar>
+<ar>
+	<head><k>Do you wanna come to my place?</k></head>
+	<def>
+		<dtrn>우리 집으로 갈래요?</dtrn>
+		<co>Party Talk</co>
+	</def>
+</ar>
+<ar>
+	<head><k>- I'm not sure.</k></head>
+	<def>
+		<dtrn>잘 모르겠어요.</dtrn>
+		<co>Party Talk</co>
+	</def>
+</ar>
+<ar>
+	<head><k>Just for coffee.</k></head>
+	<def>
+		<dtrn>그냥 커피 마시러 가요.</dtrn>
+		<co>Party Talk</co>
+	</def>
+</ar>
+<ar>
+	<head><k>- Yes, let's go.</k></head>
+	<def>
+		<dtrn>네, 가요.</dtrn>
+		<co>Party Talk</co>
+	</def>
+</ar>
+<ar>
 	<head><k/></head>
 	<def>
 		<dtrn/>
