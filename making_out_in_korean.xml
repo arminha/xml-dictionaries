@@ -4413,6 +4413,101 @@
 	</def>
 </ar>
 <ar>
+	<head><k>Hello.</k></head>
+	<def>
+		<dtrn>여보세요.</dtrn>
+		<co>On the Phone</co>
+	</def>
+</ar>
+<ar>
+	<head><k>This is Robert. Is Mary at home?</k></head>
+	<def>
+		<dtrn>전 로버트인데요, 메리 집에 있어요?</dtrn>
+		<co>On the Phone</co>
+		<style>polite</style>
+	</def>
+</ar>
+<ar>
+	<head><k>Mary is out.</k></head>
+	<def>
+		<dtrn>메리 어디 나갔는데요.</dtrn>
+		<co>On the Phone</co>
+		<style>polite</style>
+	</def>
+</ar>
+<ar>
+	<head><k>Wait a minute.</k></head>
+	<def>
+		<dtrn>잠깐만 기다리 세요.</dtrn>
+		<co>On the Phone</co>
+		<style>polite</style>
+	</def>
+</ar>
+<ar>
+	<head><k>Mary! Telephone!</k></head>
+	<def>
+		<dtrn>메리! 전화!</dtrn>
+		<co>On the Phone</co>
+	</def>
+</ar>
+<ar>
+	<head><k>It's me, Robert.</k></head>
+	<def>
+		<dtrn>나 로버트야.</dtrn>
+		<co>On the Phone</co>
+	</def>
+</ar>
+<ar>
+	<head><k>What are you doing?</k></head>
+	<def>
+		<dtrn>지금 뭐 해?</dtrn>
+		<co>On the Phone</co>
+	</def>
+</ar>
+<ar>
+	<head><k>Shall we meet now?</k></head>
+	<def>
+		<dtrn>지금 만날까?</dtrn>
+		<co>On the Phone</co>
+	</def>
+</ar>
+<ar>
+	<head><k>I wanna see you.</k></head>
+	<def>
+		<dtrn>나 너 보고 싶어.</dtrn>
+		<co>On the Phone</co>
+	</def>
+</ar>
+<ar>
+	<head><k>I can't go out now.</k></head>
+	<def>
+		<dtrn>지금 못 나가.</dtrn>
+		<co>On the Phone</co>
+	</def>
+</ar>
+<ar>
+	<head><k>I'll call you tomorrow.</k></head>
+	<def>
+		<dtrn>내가 내일 전화할게.</dtrn>
+		<co>On the Phone</co>
+	</def>
+</ar>
+<ar>
+	<head><k>Bye!</k></head>
+	<def>
+		<dtrn>잘 있어.</dtrn>
+		<co>On the Phone</co>
+		<usage>Literally means "Stay well" usually said by the person who called.</usage>
+	</def>
+</ar>
+<ar>
+	<head><k>- Yes.</k></head>
+	<def>
+		<dtrn>응, 그래!</dtrn>
+		<co>On the Phone</co>
+	</def>
+</ar>
+<ar>
 	<head><k/></head>
 	<def>
 		<dtrn/>
