@@ -4252,6 +4252,167 @@
 	</def>
 </ar>
 <ar>
+	<head><k>I  want to know more about you.</k></head>
+	<def>
+		<dtrn>너에 대해서 더 알고 싶어.</dtrn>
+		<co>Getting Serious</co>
+	</def>
+</ar>
+<ar>
+	<head><k>Shall we meet again?</k></head>
+	<def>
+		<dtrn>오리 또 만날까?</dtrn>
+		<co>Getting Serious</co>
+	</def>
+</ar>
+<ar>
+	<head><k>When can I see you again?</k></head>
+	<def>
+		<dtrn>언제 다시 만날 수 있어?</dtrn>
+		<co>Getting Serious</co>
+	</def>
+</ar>
+<ar>
+	<head><k>Can I call you?</k></head>
+	<def>
+		<dtrn>내가 잔화해도 돼?</dtrn>
+		<co>Getting Serious</co>
+	</def>
+</ar>
+<ar>
+	<head><k>Will you call me?</k></head>
+	<def>
+		<dtrn>나한테 전화할래?</dtrn>
+		<co>Getting Serious</co>
+	</def>
+</ar>
+<ar>
+	<head><k>Here's my phone number.</k></head>
+	<def>
+		<dtrn>이거 내 전화번호야.</dtrn>
+		<co>Getting Serious</co>
+	</def>
+</ar>
+<ar>
+	<head><k>What's your number?</k></head>
+	<def>
+		<dtrn>전화번호가 어떻게 돼?</dtrn>
+		<co>Getting Serious</co>
+	</def>
+</ar>
+<ar>
+	<head><k>- My phone number is ...</k></head>
+	<def>
+		<dtrn>내 전화번호는 ...</dtrn>
+		<co>Getting Serious</co>
+	</def>
+</ar>
+<ar>
+	<head><k>563 - 4718</k></head>
+	<def>
+		<dtrn>오육삼 (에) 사칠일팔</dtrn>
+		<co>Getting Serious</co>
+	</def>
+</ar>
+<ar>
+	<head><k>890 - 1234</k></head>
+	<def>
+		<dtrn>팔구공 (에) 일이삼사</dtrn>
+		<co>Getting Serious</co>
+	</def>
+</ar>
+<ar>
+	<head><k>1</k></head>
+	<def>
+		<dtrn>일</dtrn>
+		<co>Getting Serious</co>
+	</def>
+</ar>
+<ar>
+	<head><k>2</k></head>
+	<def>
+		<dtrn>이</dtrn>
+		<co>Getting Serious</co>
+	</def>
+</ar>
+<ar>
+	<head><k>3</k></head>
+	<def>
+		<dtrn>삼</dtrn>
+		<co>Getting Serious</co>
+	</def>
+</ar>
+<ar>
+	<head><k>4</k></head>
+	<def>
+		<dtrn>사</dtrn>
+		<co>Getting Serious</co>
+	</def>
+</ar>
+<ar>
+	<head><k>5</k></head>
+	<def>
+		<dtrn>오</dtrn>
+		<co>Getting Serious</co>
+	</def>
+</ar>
+<ar>
+	<head><k>6</k></head>
+	<def>
+		<dtrn>육</dtrn>
+		<co>Getting Serious</co>
+	</def>
+</ar>
+<ar>
+	<head><k>7</k></head>
+	<def>
+		<dtrn>칠</dtrn>
+		<co>Getting Serious</co>
+	</def>
+</ar>
+<ar>
+	<head><k>8</k></head>
+	<def>
+		<dtrn>팔</dtrn>
+		<co>Getting Serious</co>
+	</def>
+</ar>
+<ar>
+	<head><k>9</k></head>
+	<def>
+		<dtrn>구</dtrn>
+		<co>Getting Serious</co>
+	</def>
+</ar>
+<ar>
+	<head><k>0</k></head>
+	<def>
+		<dtrn>공</dtrn>
+		<co>Getting Serious</co>
+	</def>
+</ar>
+<ar>
+	<head><k>What's your e-mail address?</k></head>
+	<def>
+		<dtrn>이메일 주소가 어껗게 돼?</dtrn>
+		<co>Getting Serious</co>
+	</def>
+</ar>
+<ar>
+	<head><k>- My e-mail address is ...</k></head>
+	<def>
+		<dtrn>내 이메일 주소는 ...</dtrn>
+		<co>Getting Serious</co>
+	</def>
+</ar>
+<ar>
+	<head><k>It was fun.</k></head>
+	<def>
+		<dtrn>재미 있었어.</dtrn>
+		<co>Getting Serious</co>
+	</def>
+</ar>
+<ar>
 	<head><k/></head>
 	<def>
 		<dtrn/>
