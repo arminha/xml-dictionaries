@@ -4508,6 +4508,721 @@
 	</def>
 </ar>
 <ar>
+	<head><k>I love you.</k></head>
+	<def>
+		<dtrn>사랑해.</dtrn>
+		<co>Lovers' Language</co>
+	</def>
+</ar>
+<ar>
+	<head><k>I'm crazy about you.</k></head>
+	<def>
+		<dtrn>난 너가 좋아 미치겠어.</dtrn>
+		<co>Lovers' Language</co>
+	</def>
+</ar>
+<ar>
+	<head><k>I'm yours.</k></head>
+	<def>
+		<dtrn>난 니꺼야.</dtrn>
+		<co>Lovers' Language</co>
+	</def>
+</ar>
+<ar>
+	<head><k>You're mine.</k></head>
+	<def>
+		<dtrn>넌 내꺼야.</dtrn>
+		<co>Lovers' Language</co>
+	</def>
+</ar>
+<ar>
+	<head><k>You're beautiful.</k></head>
+	<def>
+		<dtrn>너 참 예뻐.</dtrn>
+		<co>Lovers' Language</co>
+		<usage>to women</usage>
+	</def>
+</ar>
+<ar>
+	<head><k>You're handsome.</k></head>
+	<def>
+		<dtrn>너 참 잘 생겼어.</dtrn>
+		<co>Lovers' Language</co>
+		<usage>to men</usage>
+	</def>
+</ar>
+<ar>
+	<head><k>You're sexy.</k></head>
+	<def>
+		<dtrn>너 섹시해.</dtrn>
+		<co>Lovers' Language</co>
+	</def>
+</ar>
+<ar>
+	<head><k>Your ... is/are beautiful.</k></head>
+	<def>
+		<dtrn>너 ... 예뻐.</dtrn>
+		<co>Lovers' Language</co>
+	</def>
+</ar>
+<ar>
+	<head><k>Eyes</k></head>
+	<def>
+		<dtrn>눈</dtrn>
+		<co>Lovers' Language</co>
+	</def>
+</ar>
+<ar>
+	<head><k>Lips</k></head>
+	<def>
+		<dtrn>입술</dtrn>
+		<co>Lovers' Language</co>
+	</def>
+</ar>
+<ar>
+	<head><k>Hands</k></head>
+	<def>
+		<dtrn>손</dtrn>
+		<co>Lovers' Language</co>
+	</def>
+</ar>
+<ar>
+	<head><k>Face</k></head>
+	<def>
+		<dtrn>얼굴</dtrn>
+		<co>Lovers' Language</co>
+	</def>
+</ar>
+<ar>
+	<head><k>Legs</k></head>
+	<def>
+		<dtrn>다리</dtrn>
+		<co>Lovers' Language</co>
+	</def>
+</ar>
+<ar>
+	<head><k>Nose</k></head>
+	<def>
+		<dtrn>코</dtrn>
+		<co>Lovers' Language</co>
+	</def>
+</ar>
+<ar>
+	<head><k>Breasts</k></head>
+	<def>
+		<dtrn>가슴</dtrn>
+		<co>Lovers' Language</co>
+	</def>
+</ar>
+<ar>
+	<head><k>Neck</k></head>
+	<def>
+		<dtrn>목</dtrn>
+		<co>Lovers' Language</co>
+	</def>
+</ar>
+<ar>
+	<head><k>Shoulder</k></head>
+	<def>
+		<dtrn>어깨</dtrn>
+		<co>Lovers' Language</co>
+	</def>
+</ar>
+<ar>
+	<head><k>Back</k></head>
+	<def>
+		<dtrn>등</dtrn>
+		<co>Lovers' Language</co>
+	</def>
+</ar>
+<ar>
+	<head><k>Butt</k></head>
+	<def>
+		<dtrn>엉덩이</dtrn>
+		<co>Lovers' Language</co>
+	</def>
+</ar>
+<ar>
+	<head><k>You have a beautiful body.</k></head>
+	<def>
+		<dtrn>넌 몸매가 예뻐.</dtrn>
+		<co>Lovers' Language</co>
+	</def>
+</ar>
+<ar>
+	<head><k>You smell nice.</k></head>
+	<def>
+		<dtrn>너한텐 좋은 냄새가 나.</dtrn>
+		<co>Lovers' Language</co>
+	</def>
+</ar>
+<ar>
+	<head><k>Can I kiss you?</k></head>
+	<def>
+		<dtrn>키스해도 돼?</dtrn>
+		<co>Lovers' Language</co>
+	</def>
+</ar>
+<ar>
+	<head><k>Kiss me!</k></head>
+	<def>
+		<dtrn>키스해 줘!</dtrn>
+		<co>Lovers' Language</co>
+	</def>
+</ar>
+<ar>
+	<head><k>Do you wanna sleep with me?</k></head>
+	<def>
+		<dtrn>나랑 자고 싶어?</dtrn>
+		<co>Lovers' Language</co>
+	</def>
+</ar>
+<ar>
+	<head><k>Oh, I'm embarrassed.</k></head>
+	<def>
+		<dtrn>아이, 창피해.</dtrn>
+		<co>Lovers' Language</co>
+	</def>
+</ar>
+<ar>
+	<head><k>Don't be shy.</k></head>
+	<def>
+		<dtrn>부끄러워 하지 마.</dtrn>
+		<co>Lovers' Language</co>
+	</def>
+</ar>
+<ar>
+	<head><k>Close your eyes.</k></head>
+	<def>
+		<dtrn>눈 감아 봐.</dtrn>
+		<co>Lovers' Language</co>
+	</def>
+</ar>
+<ar>
+	<head><k>Turn off the light.</k></head>
+	<def>
+		<dtrn>불꺼 봐.</dtrn>
+		<co>Lovers' Language</co>
+	</def>
+</ar>
+<ar>
+	<head><k>Is this your first time?</k></head>
+	<def>
+		<dtrn>너 처음이야?</dtrn>
+		<co>Lovers' Language</co>
+	</def>
+</ar>
+<ar>
+	<head><k>Tell me the truth.</k></head>
+	<def>
+		<dtrn>사실대로 만해 봐.</dtrn>
+		<co>Lovers' Language</co>
+	</def>
+</ar>
+<ar>
+	<head><k>I'm still a virgin.</k></head>
+	<def>
+		<dtrn>나 아직 처녀야.</dtrn>
+		<co>Lovers' Language</co>
+		<usage>female</usage>		
+	</def>
+	<def>
+		<dtrn>나 아직 총각이야.</dtrn>
+		<co>Lovers' Language</co>
+		<usage>male</usage>		
+	</def>
+</ar>
+<ar>
+	<head><k>I'm frightened.</k></head>
+	<def>
+		<dtrn>무서워.</dtrn>
+		<co>Lovers' Language</co>
+	</def>
+</ar>
+<ar>
+	<head><k>Don't worry.</k></head>
+	<def>
+		<dtrn>걱정하지 마.</dtrn>
+		<co>Lovers' Language</co>
+	</def>
+</ar>
+<ar>
+	<head><k>I'll be careful.</k></head>
+	<def>
+		<dtrn>조심할게.</dtrn>
+		<co>Lovers' Language</co>
+	</def>
+</ar>
+<ar>
+	<head><k>I wanna hold your hand.</k></head>
+	<def>
+		<dtrn>너 손잡아 보고 싶어.</dtrn>
+		<co>Lovers' Language</co>
+	</def>
+</ar>
+<ar>
+	<head><k>Look into my eyes.</k></head>
+	<def>
+		<dtrn>내 눈 쳐다 봐.</dtrn>
+		<co>Lovers' Language</co>
+	</def>
+</ar>
+<ar>
+	<head><k>Hug me.</k></head>
+	<def>
+		<dtrn>나 안아 줘.</dtrn>
+		<co>Lovers' Language</co>
+	</def>
+</ar>
+<ar>
+	<head><k>Take your ... off!</k></head>
+	<def>
+		<dtrn>... 벗어 봐!</dtrn>
+		<co>Lovers' Language</co>
+	</def>
+</ar>
+<ar>
+	<head><k>Clothes</k></head>
+	<def>
+		<dtrn>옷</dtrn>
+		<co>Lovers' Language</co>
+	</def>
+</ar>
+<ar>
+	<head><k>Jeans</k></head>
+	<def>
+		<dtrn>청바지</dtrn>
+		<co>Lovers' Language</co>
+	</def>
+</ar>
+<ar>
+	<head><k>Dress</k></head>
+	<def>
+		<dtrn>드레스</dtrn>
+		<co>Lovers' Language</co>
+	</def>
+</ar>
+<ar>
+	<head><k>Skirt</k></head>
+	<def>
+		<dtrn>치마</dtrn>
+		<co>Lovers' Language</co>
+	</def>
+</ar>
+<ar>
+	<head><k>T-shirt</k></head>
+	<def>
+		<dtrn>티셔츠</dtrn>
+		<co>Lovers' Language</co>
+	</def>
+</ar>
+<ar>
+	<head><k>Socks</k></head>
+	<def>
+		<dtrn>양말</dtrn>
+		<co>Lovers' Language</co>
+	</def>
+</ar>
+<ar>
+	<head><k>Sneakers</k></head>
+	<def>
+		<dtrn>신발</dtrn>
+		<co>Lovers' Language</co>
+	</def>
+</ar>
+<ar>
+	<head><k>Shoes</k></head>
+	<def>
+		<dtrn>구두</dtrn>
+		<co>Lovers' Language</co>
+	</def>
+</ar>
+<ar>
+	<head><k>Bra</k></head>
+	<def>
+		<dtrn>브라</dtrn>
+		<co>Lovers' Language</co>
+	</def>
+</ar>
+<ar>
+	<head><k>Underwear</k></head>
+	<def>
+		<dtrn>팬티</dtrn>
+		<co>Lovers' Language</co>
+		<usage>The Korean word 팬티, despite its derivation from English "panty" is gender-neutral.</usage>
+	</def>
+</ar>
+<ar>
+	<head><k>I'm cold!</k></head>
+	<def>
+		<dtrn>나 추워!</dtrn>
+		<co>Lovers' Language</co>
+	</def>
+</ar>
+<ar>
+	<head><k>Make me warm.</k></head>
+	<def>
+		<dtrn>따뜻하게 해 줘.</dtrn>
+		<co>Lovers' Language</co>
+	</def>
+</ar>
+<ar>
+	<head><k>Come closer to me.</k></head>
+	<def>
+		<dtrn>더 가까이 와.</dtrn>
+		<co>Lovers' Language</co>
+	</def>
+</ar>
+<ar>
+	<head><k>That tickles.</k></head>
+	<def>
+		<dtrn>간지러워.</dtrn>
+		<co>Lovers' Language</co>
+	</def>
+</ar>
+<ar>
+	<head><k>I wanna see your ...</k></head>
+	<def>
+		<dtrn>나 니 ... 보고 싶어.</dtrn>
+		<co>Lovers' Language</co>
+	</def>
+</ar>
+<ar>
+	<head><k>I wanna touch your ...</k></head>
+	<def>
+		<dtrn>나 니 ... 만지고 싶어.</dtrn>
+		<co>Lovers' Language</co>
+	</def>
+</ar>
+<ar>
+	<head><k>I wanna suck your ...</k></head>
+	<def>
+		<dtrn>나 니 ... 빨고 싶어.</dtrn>
+		<co>Lovers' Language</co>
+	</def>
+</ar>
+<ar>
+	<head><k>Thing</k></head>
+	<def>
+		<dtrn>거</dtrn>
+		<co>Lovers' Language</co>
+	</def>
+</ar>
+<ar>
+	<head><k>Breasts</k></head>
+	<def>
+		<dtrn>가슴</dtrn>
+		<co>Lovers' Language</co>
+	</def>
+</ar>
+<ar>
+	<head><k>Pussy</k></head>
+	<def>
+		<dtrn>보지</dtrn>
+		<co>Lovers' Language</co>
+		<style>derogatory form</style>
+	</def>
+	<def>
+		<dtrn>거기</dtrn>
+		<co>Lovers' Language</co>
+		<style>gender neutral</style>
+		<usage>Literally means "there"</usage>
+	</def>
+</ar>
+<ar>
+	<head><k>Dick</k></head>
+	<def>
+		<dtrn>자지</dtrn>
+		<co>Lovers' Language</co>
+		<style>derogatory form</style>
+	</def>
+	<def>
+		<dtrn>거기</dtrn>
+		<co>Lovers' Language</co>
+		<style>gender neutral</style>
+		<usage>Literally means "there"</usage>
+	</def>
+</ar>
+<ar>
+	<head><k>Balls</k></head>
+	<def>
+		<dtrn>불알</dtrn>
+		<co>Lovers' Language</co>
+	</def>
+</ar>
+<ar>
+	<head><k>Nipples</k></head>
+	<def>
+		<dtrn>젖꼭지</dtrn>
+		<co>Lovers' Language</co>
+	</def>
+</ar>
+<ar>
+	<head><k>Butt</k></head>
+	<def>
+		<dtrn>엉덩이</dtrn>
+		<co>Lovers' Language</co>
+	</def>
+</ar>
+<ar>
+	<head><k>Knees</k></head>
+	<def>
+		<dtrn>무릎</dtrn>
+		<co>Lovers' Language</co>
+	</def>
+</ar>
+<ar>
+	<head><k>Toes</k></head>
+	<def>
+		<dtrn>발가락</dtrn>
+		<co>Lovers' Language</co>
+	</def>
+</ar>
+<ar>
+	<head><k>Fingers</k></head>
+	<def>
+		<dtrn>손가락</dtrn>
+		<co>Lovers' Language</co>
+	</def>
+</ar>
+<ar>
+	<head><k>I'm afraid I'll get pregnant.</k></head>
+	<def>
+		<dtrn>임신할까 봐 무서워..</dtrn>
+		<co>Lovers' Language</co>
+	</def>
+</ar>
+<ar>
+	<head><k>Use a condom!</k></head>
+	<def>
+		<dtrn>콘돔 써!</dtrn>
+		<co>Lovers' Language</co>
+	</def>
+</ar>
+<ar>
+	<head><k>I don't like to wear a condom.</k></head>
+	<def>
+		<dtrn>콘돔 쓰는 거 싫어.</dtrn>
+		<co>Lovers' Language</co>
+	</def>
+</ar>
+<ar>
+	<head><k>If you don't wear a condom, I won't do it!</k></head>
+	<def>
+		<dtrn>콘돔 안 쓰면, 안 할꺼야!</dtrn>
+		<co>Lovers' Language</co>
+	</def>
+</ar>
+<ar>
+	<head><k>Oh, it feels so good!</k></head>
+	<def>
+		<dtrn>아, 기분 좋아!</dtrn>
+		<co>Lovers' Language</co>
+	</def>
+</ar>
+<ar>
+	<head><k>Touch me!</k></head>
+	<def>
+		<dtrn>나 만져 줘!</dtrn>
+		<co>Lovers' Language</co>
+	</def>
+</ar>
+<ar>
+	<head><k>Bite me!</k></head>
+	<def>
+		<dtrn>깨물어 줘!</dtrn>
+		<co>Lovers' Language</co>
+	</def>
+</ar>
+<ar>
+	<head><k>More, more!</k></head>
+	<def>
+		<dtrn>조금만 더, 조금만 더!</dtrn>
+		<co>Lovers' Language</co>
+	</def>
+</ar>
+<ar>
+	<head><k>Deeper, deeper!</k></head>
+	<def>
+		<dtrn>더 깊이, 더 깊이!</dtrn>
+		<co>Lovers' Language</co>
+	</def>
+</ar>
+<ar>
+	<head><k>Faster, faster!</k></head>
+	<def>
+		<dtrn>더 빨리, 더 빨리!</dtrn>
+		<co>Lovers' Language</co>
+	</def>
+</ar>
+<ar>
+	<head><k>Harder, harder!</k></head>
+	<def>
+		<dtrn>더 세게, 더 세게!</dtrn>
+		<co>Lovers' Language</co>
+	</def>
+</ar>
+<ar>
+	<head><k>Wait, wait!</k></head>
+	<def>
+		<dtrn>잠깐만, 잠깐만!</dtrn>
+		<co>Lovers' Language</co>
+	</def>
+</ar>
+<ar>
+	<head><k>I'm coming, I'm coming!</k></head>
+	<def>
+		<dtrn>나온다, 나온다!</dtrn>
+		<co>Lovers' Language</co>
+		<usage>men</usage>
+	</def>
+	<def>
+		<dtrn>오를 거 같애!</dtrn>
+		<co>Lovers' Language</co>
+		<usage>women</usage>
+	</def>
+</ar>
+<ar>
+	<head><k>I came</k></head>
+	<def>
+		<dtrn>나 쌌어.</dtrn>
+		<co>Lovers' Language</co>
+		<usage>men</usage>
+	</def>
+	<def>
+		<dtrn>나 올랐어.</dtrn>
+		<co>Lovers' Language</co>
+		<usage>women</usage>
+	</def>
+</ar>
+<ar>
+	<head><k>- I know.</k></head>
+	<def>
+		<dtrn>알아.</dtrn>
+		<co>Lovers' Language</co>
+	</def>
+</ar>
+<ar>
+	<head><k>Dit it feel good?</k></head>
+	<def>
+		<dtrn>기분 좋았어?</dtrn>
+		<co>Lovers' Language</co>
+	</def>
+</ar>
+<ar>
+	<head><k>Let's get married.</k></head>
+	<def>
+		<dtrn>우리 결혼하자.</dtrn>
+		<co>Lovers' Language</co>
+	</def>
+</ar>
+<ar>
+	<head><k>I wanna be your wife.</k></head>
+	<def>
+		<dtrn>네 아내가 되고 싶어.</dtrn>
+		<co>Lovers' Language</co>
+	</def>
+</ar>
+<ar>
+	<head><k>I wanna be your husband.</k></head>
+	<def>
+		<dtrn>네 남편이 되고 싶어.</dtrn>
+		<co>Lovers' Language</co>
+	</def>
+</ar>
+<ar>
+	<head><k>I don't want to get married yet.</k></head>
+	<def>
+		<dtrn>아직은 결혼하고 싶지 않아.</dtrn>
+		<co>Lovers' Language</co>
+	</def>
+</ar>
+<ar>
+	<head><k>I'm too young.</k></head>
+	<def>
+		<dtrn>지금은 너무 일러.</dtrn>
+		<co>Lovers' Language</co>
+		<usage>Literally means "It's too early."</usage>
+	</def>
+</ar>
+<ar>
+	<head><k>I'm already married.</k></head>
+	<def>
+		<dtrn>나 결혼했어.</dtrn>
+		<co>Lovers' Language</co>
+	</def>
+</ar>
+<ar>
+	<head><k>I love you, but I can't become your wife/husband.</k></head>
+	<def>
+		<dtrn>날 사랑하지만, 네 아내 는 / 남편은될 수 없어.</dtrn>
+		<co>Lovers' Language</co>
+	</def>
+</ar>
+<ar>
+	<head><k>I need time to think.</k></head>
+	<def>
+		<dtrn>생각할 시간이 필요해.</dtrn>
+		<co>Lovers' Language</co>
+	</def>
+</ar>
+<ar>
+	<head><k>This is so sudden.</k></head>
+	<def>
+		<dtrn>너무 갑자기야.</dtrn>
+		<co>Lovers' Language</co>
+	</def>
+</ar>
+<ar>
+	<head><k>We must think about this.</k></head>
+	<def>
+		<dtrn>우리 더 생각해 봐야 될 거 같애.</dtrn>
+		<co>Lovers' Language</co>
+	</def>
+</ar>
+<ar>
+	<head><k>Do you want to come to ... with me?</k></head>
+	<def>
+		<dtrn>나랑 ... 갈래?</dtrn>
+		<co>Lovers' Language</co>
+	</def>
+</ar>
+<ar>
+	<head><k>the USA</k></head>
+	<def>
+		<dtrn>미국</dtrn>
+		<co>Lovers' Language</co>
+	</def>
+</ar>
+<ar>
+	<head><k>Canada</k></head>
+	<def>
+		<dtrn>캐나다</dtrn>
+		<co>Lovers' Language</co>
+	</def>
+</ar>
+<ar>
+	<head><k>Europe</k></head>
+	<def>
+		<dtrn>유럽</dtrn>
+		<co>Lovers' Language</co>
+	</def>
+</ar>
+<ar>
+	<head><k>Australia</k></head>
+	<def>
+		<dtrn>호주</dtrn>
+		<co>Lovers' Language</co>
+	</def>
+</ar>
+<ar>
+	<head><k>I want to stay in Korea.</k></head>
+	<def>
+		<dtrn>나 한국에 있고 싶어.</dtrn>
+		<co>Lovers' Language</co>
+	</def>
+</ar>
+<ar>
 	<head><k/></head>
 	<def>
 		<dtrn/>
