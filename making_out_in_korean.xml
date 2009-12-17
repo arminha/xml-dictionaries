@@ -5223,10 +5223,221 @@
 	</def>
 </ar>
 <ar>
-	<head><k/></head>
+	<head><k>Let's not see each other again.</k></head>
 	<def>
-		<dtrn/>
-		<co/>
+		<dtrn>우리 다시는 만나지 말자.</dtrn>
+		<co>Farewell</co>
+	</def>
+</ar>
+<ar>
+	<head><k>I hate you!</k></head>
+	<def>
+		<dtrn>너 싫어!</dtrn>
+		<co>Farewell</co>
+	</def>
+</ar>
+<ar>
+	<head><k>Don't call me again.</k></head>
+	<def>
+		<dtrn>다신 전화하지 마.</dtrn>
+		<co>Farewell</co>
+	</def>
+</ar>
+<ar>
+	<head><k>Get  lost!</k></head>
+	<def>
+		<dtrn>꺼져!</dtrn>
+		<co>Farewell</co>
+	</def>
+</ar>
+<ar>
+	<head><k>Give it up, already.</k></head>
+	<def>
+		<dtrn>포기해.</dtrn>
+		<co>Farewell</co>
+	</def>
+</ar>
+<ar>
+	<head><k>I don't love you anymore.</k></head>
+	<def>
+		<dtrn>더 이상 널 사랑하지 않아.</dtrn>
+		<co>Farewell</co>
+	</def>
+</ar>
+<ar>
+	<head><k>You're boring.</k></head>
+	<def>
+		<dtrn>너 재미없어.</dtrn>
+		<co>Farewell</co>
+		<usage>Literally means "You're no fun."</usage>
+	</def>
+</ar>
+<ar>
+	<head><k>Stop following me.</k></head>
+	<def>
+		<dtrn>귀찮게 굴지 마.</dtrn>
+		<co>Farewell</co>
+	</def>
+</ar>
+<ar>
+	<head><k>Do you have another lover?</k></head>
+	<def>
+		<dtrn>다른 사람 생겼어?</dtrn>
+		<co>Farewell</co>
+	</def>
+</ar>
+<ar>
+	<head><k>It's my fault.</k></head>
+	<def>
+		<dtrn>내가 잘못했어.</dtrn>
+		<co>Farewell</co>
+	</def>
+</ar>
+<ar>
+	<head><k>Can we start again?</k></head>
+	<def>
+		<dtrn>다시 시작할 순 없어?</dtrn>
+		<co>Farewell</co>
+	</def>
+</ar>
+<ar>
+	<head><k>I can't live without you.</k></head>
+	<def>
+		<dtrn>너 없인 살 수 없어.</dtrn>
+		<co>Farewell</co>
+	</def>
+</ar>
+<ar>
+	<head><k>Please understand me.</k></head>
+	<def>
+		<dtrn>제발 나 좀 이해해 줘.</dtrn>
+		<co>Farewell</co>
+	</def>
+</ar>
+<ar>
+	<head><k>I'll never forget you.</k></head>
+	<def>
+		<dtrn>널 잊을 순 없을 거야.</dtrn>
+		<co>Farewell</co>
+	</def>
+</ar>
+<ar>
+	<head><k>Can we still be friends?</k></head>
+	<def>
+		<dtrn>우리 친구로 지낼 수 있어?</dtrn>
+		<co>Farewell</co>
+	</def>
+</ar>
+<ar>
+	<head><k>I'll always love you.</k></head>
+	<def>
+		<dtrn>널 언제나 사랑할 거야.</dtrn>
+		<co>Farewell</co>
+	</def>
+</ar>
+<ar>
+	<head><k>I'll miss you.</k></head>
+	<def>
+		<dtrn>보고 싶어 질 거야.</dtrn>
+		<co>Farewell</co>
+	</def>
+</ar>
+<ar>
+	<head><k>I'll always think about you.</k></head>
+	<def>
+		<dtrn>언제나 너 생각할게.</dtrn>
+		<co>Farewell</co>
+	</def>
+</ar>
+<ar>
+	<head><k>I'll call you when I come back.</k></head>
+	<def>
+		<dtrn>돌아와서 전화할게.</dtrn>
+		<co>Farewell</co>
+	</def>
+</ar>
+<ar>
+	<head><k>I'll be back soon.</k></head>
+	<def>
+		<dtrn>곧 올게.</dtrn>
+		<co>Farewell</co>
+	</def>
+</ar>
+<ar>
+	<head><k>Do you have to go?</k></head>
+	<def>
+		<dtrn>꼭 가야 돼?</dtrn>
+		<co>Farewell</co>
+	</def>
+</ar>
+<ar>
+	<head><k>Please don't go!</k></head>
+	<def>
+		<dtrn>제발 가지 마!</dtrn>
+		<co>Farewell</co>
+	</def>
+</ar>
+<ar>
+	<head><k>Stay here with me.</k></head>
+	<def>
+		<dtrn>나랑 같이 여기 있어.</dtrn>
+		<co>Farewell</co>
+	</def>
+</ar>
+<ar>
+	<head><k>I have to go.</k></head>
+	<def>
+		<dtrn>나 가야 돼.</dtrn>
+		<co>Farewell</co>
+	</def>
+</ar>
+<ar>
+	<head><k>Try to understand.</k></head>
+	<def>
+		<dtrn>이해해 줘.</dtrn>
+		<co>Farewell</co>
+	</def>
+</ar>
+<ar>
+	<head><k>Take care of your health.</k></head>
+	<def>
+		<dtrn>몸조심 해.</dtrn>
+		<co>Farewell</co>
+	</def>
+</ar>
+<ar>
+	<head><k>Don't cry!</k></head>
+	<def>
+		<dtrn>울지 마!</dtrn>
+		<co>Farewell</co>
+	</def>
+</ar>
+<ar>
+	<head><k>Wipe your tears!</k></head>
+	<def>
+		<dtrn>눈물 닦아!</dtrn>
+		<co>Farewell</co>
+	</def>
+</ar>
+<ar>
+	<head><k>Wait for me.</k></head>
+	<def>
+		<dtrn>기다려 줘.</dtrn>
+		<co>Farewell</co>
+	</def>
+</ar>
+<ar>
+	<head><k>Don't make excuses!</k></head>
+	<def>
+		<dtrn>변명하지 마!</dtrn>
+		<co>Farewell</co>
+	</def>
+</ar>
+<ar>
+	<head><k>Don't give me excuses!</k></head>
+	<def>
+		<dtrn>핑계 따윈 듣고 싶지 않아!</dtrn>
+		<co>Farewell</co>
 	</def>
 </ar>
 </xdxf>
