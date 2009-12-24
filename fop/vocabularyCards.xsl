@@ -3,8 +3,7 @@
     version="1.0"
     xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
     xmlns:fo="http://www.w3.org/1999/XSL/Format"
-	exclude-result-prefixes="fo"
->
+	exclude-result-prefixes="fo">
 <xsl:output method="xml" version="1.0" omit-xml-declaration="no" indent="yes"/>
 
 <xsl:template match="xdxf">
@@ -35,10 +34,19 @@
 		</fo:static-content>
   		<fo:flow flow-name="xsl-region-body" text-align="center">
 	  		<xsl:for-each select="def">
-				<fo:block><xsl:value-of select="dtrn"/></fo:block>
+				<fo:block><xsl:value-of select="dtrn"/><xsl:apply-templates select="style"/></fo:block>
+				<xsl:apply-templates select="usage"/>
 			</xsl:for-each>
 	  	</fo:flow>
   	</fo:page-sequence>
+</xsl:template>
+
+<xsl:template match="usage">
+<fo:block font-size="6" padding-before="0.5cm"><xsl:value-of select="."/></fo:block>
+</xsl:template>
+
+<xsl:template match="style">
+<fo:inline font-size="8" font-style="italic" color="darkgreen"> <xsl:value-of select="."/></fo:inline>
 </xsl:template>
 
 </xsl:stylesheet>
