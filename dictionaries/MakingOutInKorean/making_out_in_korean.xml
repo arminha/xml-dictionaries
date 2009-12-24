@@ -85,11 +85,11 @@
 </ar>
 <ar>
 	<head><k>Dude, what's up?</k></head>
-	<def l="&quot;1&quot;">
+	<def>
 		<dtrn>새끼, 잘 있었냐?</dtrn>
 		<co>Casual greetings</co>
 	</def>
-	<def l="2">
+	<def>
 		<dtrn>자식, 잘 있었냐?</dtrn>
 		<co>Casual greetings</co>
 		<usage>새끼 "baby animal" and 자식 "human baby" are used in Korean slang the way "asshole" is used in American English. When said to one's closest friends, they can be expressions of affection - but handle with care.</usage>
@@ -505,11 +505,11 @@
 </ar>
 <ar>
 	<head><k>OK!</k></head>
-	<def l="1">
+	<def>
 		<dtrn>좋아!</dtrn>
 		<co>Casual greetings</co>
 	</def>
-	<def l="2">
+	<def>
 		<dtrn>알었어!</dtrn>
 		<co>Casual greetings</co>
 		<usage>Literally means "I know."</usage>
@@ -561,12 +561,12 @@
 </ar>
 <ar>
 	<head><k>Yes.</k></head>
-	<def l="1">
+	<def>
 		<dtrn>네.</dtrn>
 		<co>Basic Phrases</co>
 		<style>polite</style>
 	</def>
-	<def l="2">
+	<def>
 		<dtrn>응.</dtrn>
 		<co>Basic Phrases</co>
 		<style>intimate</style>
@@ -574,7 +574,7 @@
 </ar>
 <ar>
 	<head><k>No.</k></head>
-	<def l="1">
+	<def>
 		<dtrn>아니오.</dtrn>
 		<co>Basic Phrases</co>
 		<style>polite</style>
@@ -657,12 +657,12 @@
 </ar>
 <ar>
 	<head><k>That.</k></head>
-	<def l="1">
+	<def>
 		<dtrn>저거.</dtrn>
 		<co>Basic Phrases</co>
 		<usage>something over there</usage>
 	</def>
-	<def l="2">
+	<def>
 		<dtrn>그거.</dtrn>
 		<co>Basic Phrases</co>
 		<usage>something close to the listener</usage>
@@ -677,12 +677,12 @@
 </ar>
 <ar>
 	<head><k>There.</k></head>
-	<def l="1">
+	<def>
 		<dtrn>저기.</dtrn>
 		<co>Basic Phrases</co>
 		<usage>over there</usage>
 	</def>
-	<def l="2">
+	<def>
 		<dtrn>거기.</dtrn>
 		<co>Basic Phrases</co>
 		<usage>close to the listener</usage>
@@ -718,12 +718,12 @@
 </ar>
 <ar>
 	<head><k>He/She</k></head>
-	<def l="1">
+	<def>
 		<dtrn>재</dtrn>
 		<co>Basic Phrases</co>
 		<usage>used in a person's presence</usage>
 	</def>
-	<def l="2">
+	<def>
 		<dtrn>개</dtrn>
 		<co>Basic Phrases</co>
 		<usage>used in a person's absence</usage>
@@ -766,7 +766,7 @@
 </ar>
 <ar>
 	<head><k>Thank you.</k></head>
-	<def l="1">
+	<def>
 		<dtrn>감사합니다.</dtrn>
 		<co>Basic Phrases</co>
 		<style>polite</style>
