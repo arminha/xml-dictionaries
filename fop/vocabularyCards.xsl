@@ -44,7 +44,7 @@
 <fo:footnote>
 <fo:inline></fo:inline>
 <fo:footnote-body>
-<fo:block font-size="6"><xsl:value-of select="."/></fo:block>
+<fo:block font-size="6" hyphenate="true" text-align="justify"><xsl:value-of select="."/></fo:block>
 </fo:footnote-body>
 </fo:footnote>
 </xsl:template>
