@@ -19,7 +19,7 @@
 </xsl:template>
 
 <xsl:template match="ar">
-	<fo:page-sequence master-reference="my-page" font-family="Batang">
+	<fo:page-sequence master-reference="my-page" font-family="Batang" font-size="12">
 		<fo:static-content flow-name="xsl-region-after">
 			<fo:block text-align="end" font-size="6"><xsl:value-of select="def/co"/></fo:block>
 		</fo:static-content>
@@ -28,21 +28,25 @@
 		</fo:flow>
   	</fo:page-sequence>
   	
-  	<fo:page-sequence master-reference="my-page" font-family="Batang">
+  	<fo:page-sequence master-reference="my-page" font-family="Batang" font-size="12">
 		<fo:static-content flow-name="xsl-region-after">
 			<fo:block text-align="end" font-size="6"><xsl:value-of select="def/co"/></fo:block>
 		</fo:static-content>
   		<fo:flow flow-name="xsl-region-body" text-align="center">
 	  		<xsl:for-each select="def">
-				<fo:block><xsl:value-of select="dtrn"/><xsl:apply-templates select="style"/></fo:block>
-				<xsl:apply-templates select="usage"/>
+				<fo:block><xsl:value-of select="dtrn"/><xsl:apply-templates select="style"/><xsl:apply-templates select="usage"/></fo:block>
 			</xsl:for-each>
 	  	</fo:flow>
   	</fo:page-sequence>
 </xsl:template>
 
 <xsl:template match="usage">
-<fo:block font-size="6" padding-before="0.5cm"><xsl:value-of select="."/></fo:block>
+<fo:footnote>
+<fo:inline></fo:inline>
+<fo:footnote-body>
+<fo:block font-size="6"><xsl:value-of select="."/></fo:block>
+</fo:footnote-body>
+</fo:footnote>
 </xsl:template>
 
 <xsl:template match="style">
