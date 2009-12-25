@@ -24,7 +24,7 @@
 			<fo:block text-align="end" font-size="6"><xsl:value-of select="def/co"/></fo:block>
 		</fo:static-content>
 		<fo:flow flow-name="xsl-region-body">
-			<fo:block text-align="center" alignment-baseline="central"><xsl:value-of select="head/k"/></fo:block>
+			<fo:block text-align="center" alignment-baseline="central" hyphenate="false"><xsl:value-of select="head/k"/></fo:block>
 		</fo:flow>
   	</fo:page-sequence>
   	
@@ -34,7 +34,7 @@
 		</fo:static-content>
   		<fo:flow flow-name="xsl-region-body" text-align="center">
 	  		<xsl:for-each select="def">
-				<fo:block><xsl:value-of select="dtrn"/><xsl:apply-templates select="style"/><xsl:apply-templates select="usage"/></fo:block>
+				<fo:block hyphenate="false"><xsl:value-of select="dtrn"/><xsl:apply-templates select="style"/><xsl:apply-templates select="usage"/></fo:block>
 			</xsl:for-each>
 	  	</fo:flow>
   	</fo:page-sequence>
