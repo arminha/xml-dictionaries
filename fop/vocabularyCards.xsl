@@ -10,7 +10,7 @@
 <fo:root xmlns:fo="http://www.w3.org/1999/XSL/Format">
 	<fo:layout-master-set>
 		<fo:simple-page-master master-name="my-page" page-height="4cm" page-width="7.5cm" margin="0.3cm">
-			<fo:region-body/>
+			<fo:region-body margin-bottom="0.2cm" margin-top="0.5cm"/>
 			<fo:region-after/>
 		</fo:simple-page-master>
 	</fo:layout-master-set>
@@ -19,7 +19,7 @@
 </xsl:template>
 
 <xsl:template match="ar">
-	<fo:page-sequence master-reference="my-page" font-family="Batang" font-size="12">
+	<fo:page-sequence master-reference="my-page" font-family="Batang" font-size="16">
 		<fo:static-content flow-name="xsl-region-after">
 			<fo:block text-align="end" font-size="6"><xsl:value-of select="def/co"/></fo:block>
 		</fo:static-content>
@@ -28,7 +28,7 @@
 		</fo:flow>
   	</fo:page-sequence>
   	
-  	<fo:page-sequence master-reference="my-page" font-family="Batang" font-size="12">
+  	<fo:page-sequence master-reference="my-page" font-family="Batang" font-size="16">
 		<fo:static-content flow-name="xsl-region-after">
 			<fo:block text-align="end" font-size="6"><xsl:value-of select="def/co"/></fo:block>
 		</fo:static-content>
