@@ -11,10 +11,136 @@
 	</def>
 </ar>
 <ar>
-	<head><k/></head>
+	<head><k>의사</k></head>
 	<def>
-		<dtrn/>
-		<co/>
+		<dtrn>doctor, physician</dtrn>
+		<co>People and Places</co>
+	</def>
+</ar>
+<ar>
+	<head><k>은행</k></head>
+	<def>
+		<dtrn>bank</dtrn>
+		<co>People and Places</co>
+	</def>
+</ar>
+<ar>
+	<head><k>은행원</k></head>
+	<def>
+		<dtrn>banker</dtrn>
+		<co>People and Places</co>
+	</def>
+</ar>
+<ar>
+	<head><k>회사</k></head>
+	<def>
+		<dtrn>company</dtrn>
+		<co>People and Places</co>
+	</def>
+</ar>
+<ar>
+	<head><k>회사원</k></head>
+	<def>
+		<dtrn>company employee</dtrn>
+		<co>People and Places</co>
+	</def>
+</ar>
+<ar>
+	<head><k>집</k></head>
+	<def>
+		<dtrn>house, home</dtrn>
+		<co>People and Places</co>
+	</def>
+</ar>
+<ar>
+	<head><k>사람</k></head>
+	<def>
+		<dtrn>person</dtrn>
+		<co>People and Places</co>
+	</def>
+</ar>
+<ar>
+	<head><k>선생(님)</k></head>
+	<def>
+		<dtrn>teacher (honorific)</dtrn>
+		<co>People and Places</co>
+	</def>
+</ar>
+<ar>
+	<head><k>아내</k><k>집사람</k></head>
+	<def>
+		<dtrn>wife (my)</dtrn>
+		<co>People and Places</co>
+	</def>
+</ar>
+<ar>
+	<head><k>부인</k></head>
+	<def>
+		<dtrn>wife (your/his)</dtrn>
+		<co>People and Places</co>
+	</def>
+</ar>
+<ar>
+	<head><k>남편</k></head>
+	<def>
+		<dtrn>husband</dtrn>
+		<co>People and Places</co>
+	</def>
+</ar>
+<ar>
+	<head><k>나라</k></head>
+	<def>
+		<dtrn>country, region</dtrn>
+		<co>People and Places</co>
+	</def>
+</ar>
+<ar>
+	<head><k>사장(님)</k></head>
+	<def>
+		<dtrn>company president (honorific)</dtrn>
+		<co>People and Places</co>
+	</def>
+</ar>
+<ar>
+	<head><k>친구</k></head>
+	<def>
+		<dtrn>friend</dtrn>
+		<co>People and Places</co>
+	</def>
+</ar>
+<ar>
+	<head><k>학생</k></head>
+	<def>
+		<dtrn>student</dtrn>
+		<co>People and Places</co>
+	</def>
+</ar>
+<ar>
+	<head><k>가수</k></head>
+	<def>
+		<dtrn>pop-singer</dtrn>
+		<co>People and Places</co>
+	</def>
+</ar>
+<ar>
+	<head><k>-씨</k></head>
+	<def>
+		<dtrn>polite title for name</dtrn>
+		<co>People and Places</co>
+	</def>
+</ar>
+<ar>
+	<head><k>외교관</k></head>
+	<def>
+		<dtrn>diplomat</dtrn>
+		<co>People and Places</co>
+	</def>
+</ar>
+<ar>
+	<head><k>박사(님)</k></head>
+	<def>
+		<dtrn>Dr., Ph.D. (honorific)</dtrn>
+		<co>People and Places</co>
 	</def>
 </ar>
 <ar>
