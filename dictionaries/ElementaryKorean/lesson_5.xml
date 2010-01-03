@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="../XDXF-draft-logical-05-to-html.xsl"?><xdxf xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="logical" lang_from="ENG" lang_to="KOR">
+<full_name>Elementary Korean</full_name>
+<description>
+	<author>Armin Häberling</author>
+</description>
+<ar>
+	<head><k>교수(님)</k></head>
+	<def>
+		<dtrn>professor (honorific)</dtrn>
+		<co>People and Places</co>
+	</def>
+</ar>
+<ar>
+	<head><k/></head>
+	<def>
+		<dtrn/>
+		<co/>
+	</def>
+</ar>
+<ar>
+	<head><k/></head>
+	<def>
+		<dtrn/>
+		<usage/>
+		<co/>
+		<style/>
+	</def>
+</ar>
+</xdxf>
