@@ -1,8 +1,232 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="../XDXF-draft-logical-05-to-html.xsl"?><xdxf xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="logical" lang_from="ENG" lang_to="KOR">
-<full_name>Elementary Korean</full_name>
+<full_name>Elementary Korean - Lesson 5</full_name>
 <description>
 	<author>Armin Häberling</author>
 </description>
+<ar>
+	<head><k>러시아</k></head>
+	<def>
+		<dtrn>Russia</dtrn>
+		<co>Countries , Languages and Nationalities</co>
+	</def>
+</ar>
+<ar>
+	<head><k>러시아말</k></head>
+	<def>
+		<dtrn>Russian (language)</dtrn>
+		<co>Countries , Languages and Nationalities</co>
+	</def>
+</ar>
+<ar>
+	<head><k>러시아사람</k></head>
+	<def>
+		<dtrn>Russian (person)</dtrn>
+		<co>Countries , Languages and Nationalities</co>
+	</def>
+</ar>
+<ar>
+	<head><k>캐나다</k></head>
+	<def>
+		<dtrn>Canada</dtrn>
+		<co>Countries , Languages and Nationalities</co>
+	</def>
+</ar>
+<ar>
+	<head><k>캐나다사람</k></head>
+	<def>
+		<dtrn>Canadian (person)</dtrn>
+		<co>Countries , Languages and Nationalities</co>
+	</def>
+</ar>
+<ar>
+	<head><k>일본</k></head>
+	<def>
+		<dtrn>Japan</dtrn>
+		<co>Countries , Languages and Nationalities</co>
+	</def>
+</ar>
+<ar>
+	<head><k>일본말</k><k>일어</k></head>
+	<def>
+		<dtrn>Japanese (language)</dtrn>
+		<co>Countries , Languages and Nationalities</co>
+	</def>
+</ar>
+<ar>
+	<head><k>이본사람</k></head>
+	<def>
+		<dtrn>Japanese (person)</dtrn>
+		<co>Countries , Languages and Nationalities</co>
+	</def>
+</ar>
+<ar>
+	<head><k>중국</k></head>
+	<def>
+		<dtrn>China</dtrn>
+		<co>Countries , Languages and Nationalities</co>
+	</def>
+</ar>
+<ar>
+	<head><k>중국말</k></head>
+	<def>
+		<dtrn>Chinese (language)</dtrn>
+		<co>Countries , Languages and Nationalities</co>
+	</def>
+</ar>
+<ar>
+	<head><k>중국사람</k></head>
+	<def>
+		<dtrn>Chinese (person)</dtrn>
+		<co>Countries , Languages and Nationalities</co>
+	</def>
+</ar>
+<ar>
+	<head><k>미국</k></head>
+	<def>
+		<dtrn>America</dtrn>
+		<co>Countries , Languages and Nationalities</co>
+	</def>
+</ar>
+<ar>
+	<head><k>미국사람</k></head>
+	<def>
+		<dtrn>American (person)</dtrn>
+		<co>Countries , Languages and Nationalities</co>
+	</def>
+</ar>
+<ar>
+	<head><k>영국</k></head>
+	<def>
+		<dtrn>England</dtrn>
+		<co>Countries , Languages and Nationalities</co>
+	</def>
+</ar>
+<ar>
+	<head><k>영어</k></head>
+	<def>
+		<dtrn>English (language)</dtrn>
+		<co>Countries , Languages and Nationalities</co>
+	</def>
+</ar>
+<ar>
+	<head><k>영국사람</k></head>
+	<def>
+		<dtrn>English (person)</dtrn>
+		<co>Countries , Languages and Nationalities</co>
+	</def>
+</ar>
+<ar>
+	<head><k>한국</k></head>
+	<def>
+		<dtrn>Korea</dtrn>
+		<co>Countries , Languages and Nationalities</co>
+	</def>
+</ar>
+<ar>
+	<head><k>한국말</k></head>
+	<def>
+		<dtrn>Korean (language)</dtrn>
+		<co>Countries , Languages and Nationalities</co>
+	</def>
+</ar>
+<ar>
+	<head><k>한국사람</k></head>
+	<def>
+		<dtrn>Korean (person)</dtrn>
+		<co>Countries , Languages and Nationalities</co>
+	</def>
+</ar>
+<ar>
+	<head><k>홍콩</k></head>
+	<def>
+		<dtrn>Hong Kong</dtrn>
+		<co>Countries , Languages and Nationalities</co>
+	</def>
+</ar>
+<ar>
+	<head><k>홍콩사람</k></head>
+	<def>
+		<dtrn>person from Hong Kong</dtrn>
+		<co>Countries , Languages and Nationalities</co>
+	</def>
+</ar>
+<ar>
+	<head><k>호주</k></head>
+	<def>
+		<dtrn>Australia</dtrn>
+		<co>Countries , Languages and Nationalities</co>
+	</def>
+</ar>
+<ar>
+	<head><k>호주사람</k></head>
+	<def>
+		<dtrn>Australian (person)</dtrn>
+		<co>Countries , Languages and Nationalities</co>
+	</def>
+</ar>
+<ar>
+	<head><k>독일</k></head>
+	<def>
+		<dtrn>Germany</dtrn>
+		<co>Countries , Languages and Nationalities</co>
+	</def>
+</ar>
+<ar>
+	<head><k>독일말</k><k>독어</k></head>
+	<def>
+		<dtrn>German (language)</dtrn>
+		<co>Countries , Languages and Nationalities</co>
+	</def>
+</ar>
+<ar>
+	<head><k>독일사람</k></head>
+	<def>
+		<dtrn>German (person)</dtrn>
+		<co>Countries , Languages and Nationalities</co>
+	</def>
+</ar>
+<ar>
+	<head><k>프랑스</k></head>
+	<def>
+		<dtrn>France</dtrn>
+		<co>Countries , Languages and Nationalities</co>
+	</def>
+</ar>
+<ar>
+	<head><k>프랑스말</k><k>불어</k></head>
+	<def>
+		<dtrn>French (language)</dtrn>
+		<co>Countries , Languages and Nationalities</co>
+	</def>
+</ar>
+<ar>
+	<head><k>프랑스사람</k></head>
+	<def>
+		<dtrn>French (person)</dtrn>
+		<co>Countries , Languages and Nationalities</co>
+	</def>
+</ar>
+<ar>
+	<head><k>외국</k></head>
+	<def>
+		<dtrn>foreign country</dtrn>
+		<co>Countries , Languages and Nationalities</co>
+	</def>
+</ar>
+<ar>
+	<head><k>외국어</k></head>
+	<def>
+		<dtrn>foreign language</dtrn>
+		<co>Countries , Languages and Nationalities</co>
+	</def>
+</ar>
+<ar>
+	<head><k>외국사람</k></head>
+	<def>
+		<dtrn>foreigner</dtrn>
+		<co>Countries , Languages and Nationalities</co>
+	</def>
+</ar>
 <ar>
 	<head><k>교수(님)</k></head>
 	<def>
