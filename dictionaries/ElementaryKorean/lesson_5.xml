@@ -144,12 +144,283 @@
 	</def>
 </ar>
 <ar>
-	<head><k/></head>
+	<head><k>제품</k></head>
 	<def>
-		<dtrn/>
-		<usage/>
-		<co/>
-		<style/>
+		<dtrn>manufactered good(s)</dtrn>
+		<co>Things</co>
+	</def>
+</ar>
+<ar>
+	<head><k>신문</k></head>
+	<def>
+		<dtrn>newspaper</dtrn>
+		<co>Things</co>
+	</def>
+</ar>
+<ar>
+	<head><k>잡지</k></head>
+	<def>
+		<dtrn>magazine</dtrn>
+		<co>Things</co>
+	</def>
+</ar>
+<ar>
+	<head><k>책</k></head>
+	<def>
+		<dtrn>book</dtrn>
+		<co>Things</co>
+	</def>
+</ar>
+<ar>
+	<head><k>공책</k></head>
+	<def>
+		<dtrn>notebook</dtrn>
+		<co>Things</co>
+	</def>
+</ar>
+<ar>
+	<head><k>분필</k></head>
+	<def>
+		<dtrn>chalk</dtrn>
+		<co>Things</co>
+	</def>
+</ar>
+<ar>
+	<head><k>연필</k></head>
+	<def>
+		<dtrn>pencil</dtrn>
+		<co>Things</co>
+	</def>
+</ar>
+<ar>
+	<head><k>볼펜</k><k>펜</k></head>
+	<def>
+		<dtrn>ball-point pen</dtrn>
+		<co>Things</co>
+	</def>
+</ar>
+<ar>
+	<head><k>성냥</k></head>
+	<def>
+		<dtrn>match(es)</dtrn>
+		<co>Things</co>
+	</def>
+</ar>
+<ar>
+	<head><k>담배</k></head>
+	<def>
+		<dtrn>cigarette(s)</dtrn>
+		<co>Things</co>
+	</def>
+</ar>
+<ar>
+	<head><k>말</k></head>
+	<def>
+		<dtrn>language, words</dtrn>
+		<co>Things</co>
+	</def>
+</ar>
+<ar>
+	<head><k>종이</k></head>
+	<def>
+		<dtrn>paper</dtrn>
+		<co>Things</co>
+	</def>
+</ar>
+<ar>
+	<head><k>칠판</k></head>
+	<def>
+		<dtrn>blackboard</dtrn>
+		<co>Things</co>
+	</def>
+</ar>
+<ar>
+	<head><k>와인</k></head>
+	<def>
+		<dtrn>wine</dtrn>
+		<co>Things</co>
+	</def>
+</ar>
+<ar>
+	<head><k>술</k></head>
+	<def>
+		<dtrn>any alcoholic drink</dtrn>
+		<co>Things</co>
+	</def>
+</ar>
+<ar>
+	<head><k>위스키</k></head>
+	<def>
+		<dtrn>whisky</dtrn>
+		<co>Things</co>
+	</def>
+</ar>
+<ar>
+	<head><k>전부</k></head>
+	<def>
+		<dtrn>the whole thing, total</dtrn>
+		<co>Things</co>
+	</def>
+</ar>
+<ar>
+	<head><k>다</k></head>
+	<def>
+		<dtrn>all, everything</dtrn>
+		<co>Things</co>
+	</def>
+</ar>
+<ar>
+	<head><k>전부 다</k></head>
+	<def>
+		<dtrn>everything, all of it</dtrn>
+		<co>Things</co>
+	</def>
+</ar>
+<ar>
+	<head><k>수입품</k></head>
+	<def>
+		<dtrn>imported goods</dtrn>
+		<co>Things</co>
+	</def>
+</ar>
+<ar>
+	<head><k>인삼</k></head>
+	<def>
+		<dtrn>ginseng</dtrn>
+		<co>Things</co>
+	</def>
+</ar>
+<ar>
+	<head><k>인삼주</k></head>
+	<def>
+		<dtrn>ginseng wine</dtrn>
+		<co>Things</co>
+	</def>
+</ar>
+<ar>
+	<head><k>피아노</k></head>
+	<def>
+		<dtrn>piano</dtrn>
+		<co>Things</co>
+	</def>
+</ar>
+<ar>
+	<head><k>우산</k></head>
+	<def>
+		<dtrn>umbrella</dtrn>
+		<co>Things</co>
+	</def>
+</ar>
+<ar>
+	<head><k>나</k></head>
+	<def>
+		<dtrn>I</dtrn>
+		<co>Miscellaneous</co>
+	</def>
+</ar>
+<ar>
+	<head><k>우리</k></head>
+	<def>
+		<dtrn>we, our</dtrn>
+		<co>Miscellaneous</co>
+	</def>
+</ar>
+<ar>
+	<head><k>누가</k></head>
+	<def>
+		<dtrn>who? (as subject)</dtrn>
+		<co>Miscellaneous</co>
+	</def>
+</ar>
+<ar>
+	<head><k>누구</k></head>
+	<def>
+		<dtrn>who? (as non-subject)</dtrn>
+		<co>Miscellaneous</co>
+	</def>
+</ar>
+<ar>
+	<head><k>무엇</k><k>뭐</k></head>
+	<def>
+		<dtrn>what?</dtrn>
+		<co>Miscellaneous</co>
+	</def>
+</ar>
+<ar>
+	<head><k>아니에요</k></head>
+	<def>
+		<dtrn>No; it is not</dtrn>
+		<co>Miscellaneous</co>
+	</def>
+</ar>
+<ar>
+	<head><k>그렇지만</k></head>
+	<def>
+		<dtrn>But</dtrn>
+		<co>Miscellaneous</co>
+	</def>
+</ar>
+<ar>
+	<head><k>그러면</k></head>
+	<def>
+		<dtrn>Then, In that case, If so</dtrn>
+		<co>Miscellaneous</co>
+	</def>
+</ar>
+<ar>
+	<head><k>그럼</k></head>
+	<def>
+		<dtrn>Then, In that case</dtrn>
+		<co>Miscellaneous</co>
+	</def>
+</ar>
+<ar>
+	<head><k>이 NOUN</k></head>
+	<def>
+		<dtrn>this NOUN</dtrn>
+		<co>Miscellaneous</co>
+	</def>
+</ar>
+<ar>
+	<head><k>그 NOUN</k></head>
+	<def>
+		<dtrn>that NOUN</dtrn>
+		<co>Miscellaneous</co>
+	</def>
+</ar>
+<ar>
+	<head><k>저 NOUN</k></head>
+	<def>
+		<dtrn>yon NOUN, that NOUN [way] over there</dtrn>
+		<co>Miscellaneous</co>
+	</def>
+</ar>
+<ar>
+	<head><k>무슨 NOUN</k></head>
+	<def>
+		<dtrn>which/what kind of NOUN</dtrn>
+		<co>Miscellaneous</co>
+	</def>
+</ar>
+<ar>
+	<head><k>어느 NOUN</k></head>
+	<def>
+		<dtrn>which/what (one/NOUN)</dtrn>
+		<co>Miscellaneous</co>
+	</def>
+</ar>
+<ar>
+	<head><k>-곳</k></head>
+	<def>
+		<dtrn>place</dtrn>
+		<co>Miscellaneous</co>
+	</def>
+</ar>
+<ar>
+	<head><k>-분</k></head>
+	<def>
+		<dtrn>person (honorific)</dtrn>
+		<co>Miscellaneous</co>
 	</def>
 </ar>
 </xdxf>
