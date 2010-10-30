@@ -390,10 +390,88 @@
 	</def>
 </ar>
 <ar>
+	<head><k>책상</k></head>
+	<def>
+		<dtrn>desk</dtrn>
+		<co>Things or Objects</co>
+	</def>
+</ar>
+<ar>
+	<head><k>상</k><k>테이블</k></head>
+	<def>
+		<dtrn>table</dtrn>
+		<co>Things or Objects</co>
+	</def>
+</ar>
+<ar>
+	<head><k>그림</k></head>
+	<def>
+		<dtrn>picture</dtrn>
+		<co>Things or Objects</co>
+	</def>
+</ar>
+<ar>
+	<head><k>의자</k></head>
+	<def>
+		<dtrn>chair</dtrn>
+		<co>Things or Objects</co>
+	</def>
+</ar>
+<ar>
+	<head><k>창문</k></head>
+	<def>
+		<dtrn>window</dtrn>
+		<co>Things or Objects</co>
+	</def>
+</ar>
+<ar>
+	<head><k>문</k></head>
+	<def>
+		<dtrn>door</dtrn>
+		<co>Things or Objects</co>
+	</def>
+	<def>
+		<dtrn>gate</dtrn>
+		<co>Things or Objects</co>
+	</def>
+</ar>
+<ar>
+	<head><k>나무</k></head>
+	<def>
+		<dtrn>tree</dtrn>
+		<co>Things or Objects</co>
+	</def>
+</ar>
+<ar>
+	<head><k>가방</k></head>
+	<def>
+		<dtrn>bag</dtrn>
+		<co>Things or Objects</co>
+	</def>
+	<def>
+		<dtrn>briefcase</dtrn>
+		<co>Things or Objects</co>
+	</def>
+</ar>
+<ar>
+	<head><k>라이타</k></head>
+	<def>
+		<dtrn>lighter</dtrn>
+		<co>Things or Objects</co>
+	</def>
+</ar>
+<ar>
+	<head><k>텔레비전</k></head>
+	<def>
+		<dtrn>television</dtrn>
+		<co>Things or Objects</co>
+	</def>
+</ar>
+<ar>
 	<head><k/></head>
 	<def>
 		<dtrn/>
-		<co>Things or Objects</co>
+		<co>People</co>
 	</def>
 </ar>
 <ar>
