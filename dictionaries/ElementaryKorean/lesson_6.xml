@@ -13,105 +13,379 @@
 <ar>
 	<head><k>대학교</k></head>
 	<def>
-		<dtrn/>
+		<dtrn>university</dtrn>
 		<co>Places</co>
 	</def>
 </ar>
 <ar>
 	<head><k>이대 (이화 여자 대학교)</k></head>
 	<def>
-		<dtrn/>
+		<dtrn>Ewha Women's University</dtrn>
 		<co>Places</co>
 	</def>
 </ar>
 <ar>
 	<head><k>연대 (연세 대학교)</k></head>
 	<def>
-		<dtrn/>
+		<dtrn>Yonsei University</dtrn>
 		<co>Places</co>
 	</def>
 </ar>
 <ar>
 	<head><k>서강대 (서강 대학교)</k></head>
 	<def>
-		<dtrn/>
+		<dtrn>Sogang University</dtrn>
 		<co>Places</co>
 	</def>
 </ar>
 <ar>
 	<head><k>서울대 (서울 대하교)</k></head>
 	<def>
-		<dtrn/>
+		<dtrn>Seoul National University</dtrn>
 		<co>Places</co>
 	</def>
 </ar>
 <ar>
 	<head><k>고대 (고려 대학교)</k></head>
 	<def>
-		<dtrn/>
+		<dtrn>Korea University</dtrn>
 		<co>Places</co>
 	</def>
 </ar>
 <ar>
 	<head><k>교실</k></head>
 	<def>
-		<dtrn/>
+		<dtrn>classroom</dtrn>
 		<co>Places</co>
 	</def>
 </ar>
 <ar>
 	<head><k>방</k></head>
 	<def>
-		<dtrn/>
+		<dtrn>room</dtrn>
 		<co>Places</co>
 	</def>
 </ar>
 <ar>
 	<head><k>캠퍼스</k></head>
 	<def>
-		<dtrn/>
+		<dtrn>campus</dtrn>
 		<co>Places</co>
 	</def>
 </ar>
 <ar>
 	<head><k>서점</k></head>
 	<def>
-		<dtrn/>
+		<dtrn>bookstore</dtrn>
 		<co>Places</co>
 	</def>
 </ar>
 <ar>
 	<head><k>기숙사</k></head>
 	<def>
-		<dtrn/>
+		<dtrn>dormitory</dtrn>
+		<co>Places</co>
+	</def>
+	<def>
+		<dtrn>residence hall</dtrn>
 		<co>Places</co>
 	</def>
 </ar>
 <ar>
 	<head><k>학생희관</k></head>
 	<def>
-		<dtrn/>
+		<dtrn>student union</dtrn>
 		<co>Places</co>
+		<usage>building</usage>
 	</def>
 </ar>
 <ar>
 	<head><k>화장실</k></head>
 	<def>
-		<dtrn/>
+		<dtrn>toilet</dtrn>
+		<co>Places</co>
+	</def>
+	<def>
+		<dtrn>restroom</dtrn>
+		<co>Places</co>
+	</def>
+	<def>
+		<dtrn>bathroom</dtrn>
+		<co>Places</co>
+	</def>
+	<def>
+		<dtrn>washroom</dtrn>
 		<co>Places</co>
 	</def>
 </ar>
 <ar>
 	<head><k>커피숍</k></head>
 	<def>
-		<dtrn/>
+		<dtrn>coffee shop</dtrn>
 		<co>Places</co>
 	</def>
 </ar>
 <ar>
 	<head><k>호텔</k></head>
 	<def>
-		<dtrn/>
+		<dtrn>hotel</dtrn>
+		<co>Places</co>
+	</def>
+</ar>
+<ar>
+	<head><k>프라자 호텔</k></head>
+	<def>
+		<dtrn>Plaza Hotel</dtrn>
+		<co>Places</co>
+	</def>
+</ar>
+<ar>
+	<head><k>롯데 호텔</k></head>
+	<def>
+		<dtrn>Lotte Hotel</dtrn>
+		<co>Places</co>
+	</def>
+</ar>
+<ar>
+	<head><k>조선 호텔</k></head>
+	<def>
+		<dtrn>Chosun Hotel</dtrn>
+		<co>Places</co>
+	</def>
+</ar>
+<ar>
+	<head><k>신라 호텔</k></head>
+	<def>
+		<dtrn>Shilla Hotel</dtrn>
+		<co>Places</co>
+	</def>
+</ar>
+<ar>
+	<head><k>쉐라톤 워커힐 호텔</k></head>
+	<def>
+		<dtrn>Sheraton Walker Hill Hotel</dtrn>
+		<co>Places</co>
+	</def>
+</ar>
+<ar>
+	<head><k>하이야트 호텔</k></head>
+	<def>
+		<dtrn>Hyatt Hotel</dtrn>
+		<co>Places</co>
+	</def>
+</ar>
+<ar>
+	<head><k>라마다 올럼피아 호텔</k></head>
+	<def>
+		<dtrn>Ramada Olympia Hotel</dtrn>
+		<co>Places</co>
+	</def>
+</ar>
+<ar>
+	<head><k>대사관</k></head>
+	<def>
+		<dtrn>embassy</dtrn>
+		<co>Places</co>
+	</def>
+</ar>
+<ar>
+	<head><k>영사관</k></head>
+	<def>
+		<dtrn>consulate</dtrn>
+		<co>Places</co>
+	</def>
+</ar>
+<ar>
+	<head><k>건물</k><k>빌딩</k></head>
+	<def>
+		<dtrn>building</dtrn>
+		<co>Places</co>
+	</def>
+</ar>
+<ar>
+	<head><k>교보 빌딩</k></head>
+	<def>
+		<dtrn>the Kyobo building, near Kwanghwamun</dtrn>
+		<co>Places</co>
+	</def>
+</ar>
+<ar>
+	<head><k>시청</k></head>
+	<def>
+		<dtrn>City Hall</dtrn>
+		<co>Places</co>
+	</def>
+</ar>
+<ar>
+	<head><k>공원</k></head>
+	<def>
+		<dtrn>park</dtrn>
+		<co>Places</co>
+	</def>
+</ar>
+<ar>
+	<head><k>파고다 공원</k></head>
+	<def>
+		<dtrn>Pagoda Park</dtrn>
+		<co>Places</co>
+	</def>
+</ar>
+<ar>
+	<head><k>올럼픽 공원</k></head>
+	<def>
+		<dtrn>Olympic Park</dtrn>
+		<co>Places</co>
+	</def>
+</ar>
+<ar>
+	<head><k>도산 공원</k></head>
+	<def>
+		<dtrn>Tosan Park</dtrn>
+		<co>Places</co>
+	</def>
+</ar>
+<ar>
+	<head><k>백화점</k></head>
+	<def>
+		<dtrn>department store</dtrn>
+		<co>Places</co>
+	</def>
+</ar>
+<ar>
+	<head><k>현대 백화점</k></head>
+	<def>
+		<dtrn>Hyundai Department Store</dtrn>
+		<co>Places</co>
+	</def>
+</ar>
+<ar>
+	<head><k>신세계 백화점</k></head>
+	<def>
+		<dtrn>Shinsegye Department Store</dtrn>
+		<co>Places</co>
+	</def>
+</ar>
+<ar>
+	<head><k>미도파 백화점</k></head>
+	<def>
+		<dtrn>Midopa Department Store</dtrn>
+		<co>Places</co>
+	</def>
+</ar>
+<ar>
+	<head><k>롯데 백화점</k></head>
+	<def>
+		<dtrn>Lotte Department Store</dtrn>
+		<co>Places</co>
+	</def>
+</ar>
+<ar>
+	<head><k>시장</k></head>
+	<def>
+		<dtrn>market</dtrn>
+		<co>Places</co>
+	</def>
+</ar>
+<ar>
+	<head><k>남대문</k></head>
+	<def>
+		<dtrn>Great South Gate</dtrn>
+		<co>Places</co>
+	</def>
+</ar>
+<ar>
+	<head><k>동재문</k></head>
+	<def>
+		<dtrn>Great East Gate</dtrn>
+		<co>Places</co>
+	</def>
+</ar>
+<ar>
+	<head><k>팡화문</k></head>
+	<def>
+		<dtrn>Kwanghwamun, Kwanghwa Gate</dtrn>
+		<co>Places</co>
+	</def>
+</ar>
+<ar>
+	<head><k>종로</k></head>
+	<def>
+		<dtrn>Chongno (main thoroughfare in Seoul)</dtrn>
+		<co>Places</co>
+	</def>
+</ar>
+<ar>
+	<head><k>신촌</k></head>
+	<def>
+		<dtrn>Shinch'on (near Ewha, Yonsei and Sogang Universities)</dtrn>
+		<co>Places</co>
+	</def>
+</ar>
+<ar>
+	<head><k>정문</k></head>
+	<def>
+		<dtrn>main gate</dtrn>
+		<co>Places</co>
+		<usage>e.g., of a university</usage>
+	</def>
+</ar>
+<ar>
+	<head><k>근처</k></head>
+	<def>
+		<dtrn>vicinity</dtrn>
+		<co>Places</co>
+	</def>
+</ar>
+<ar>
+	<head><k>가게</k></head>
+	<def>
+		<dtrn>shop</dtrn>
+		<co>Places</co>
+	</def>
+	<def>
+		<dtrn>store</dtrn>
+		<co>Places</co>
+	</def>
+</ar>
+<ar>
+	<head><k>역</k></head>
+	<def>
+		<dtrn>train station</dtrn>
+		<co>Places</co>
+	</def>
+</ar>
+<ar>
+	<head><k>서울역</k></head>
+	<def>
+		<dtrn>Seoul station</dtrn>
+		<co>Places</co>
+	</def>
+</ar>
+<ar>
+	<head><k>여기</k></head>
+	<def>
+		<dtrn>here</dtrn>
+		<co>Places</co>
+	</def>
+</ar>
+<ar>
+	<head><k>거기</k></head>
+	<def>
+		<dtrn>there</dtrn>
+		<co>Places</co>
+	</def>
+</ar>
+<ar>
+	<head><k>저기</k></head>
+	<def>
+		<dtrn>over there</dtrn>
+		<co>Places</co>
+	</def>
+</ar>
+<ar>
+	<head><k>어디</k></head>
+	<def>
+		<dtrn>where</dtrn>
 		<co>Places</co>
 	</def>
 </ar>
@@ -119,126 +393,7 @@
 	<head><k/></head>
 	<def>
 		<dtrn/>
-		<co>Places</co>
-	</def>
-</ar>
-<ar>
-	<head><k/></head>
-	<def>
-		<dtrn/>
-		<co>Places</co>
-	</def>
-</ar>
-<ar>
-	<head><k/></head>
-	<def>
-		<dtrn/>
-		<co>Places</co>
-	</def>
-</ar>
-<ar>
-	<head><k/></head>
-	<def>
-		<dtrn/>
-		<co>Places</co>
-	</def>
-</ar>
-<ar>
-	<head><k/></head>
-	<def>
-		<dtrn/>
-		<co>Places</co>
-	</def>
-</ar>
-<ar>
-	<head><k/></head>
-	<def>
-		<dtrn/>
-		<co>Places</co>
-	</def>
-</ar>
-<ar>
-	<head><k/></head>
-	<def>
-		<dtrn/>
-		<co>Places</co>
-	</def>
-</ar>
-<ar>
-	<head><k/></head>
-	<def>
-		<dtrn/>
-		<co>Places</co>
-	</def>
-</ar>
-<ar>
-	<head><k/></head>
-	<def>
-		<dtrn/>
-		<co>Places</co>
-	</def>
-</ar>
-<ar>
-	<head><k/></head>
-	<def>
-		<dtrn/>
-		<co>Places</co>
-	</def>
-</ar>
-<ar>
-	<head><k/></head>
-	<def>
-		<dtrn/>
-		<co>Places</co>
-	</def>
-</ar>
-<ar>
-	<head><k/></head>
-	<def>
-		<dtrn/>
-		<co>Places</co>
-	</def>
-</ar>
-<ar>
-	<head><k/></head>
-	<def>
-		<dtrn/>
-		<co>Places</co>
-	</def>
-</ar>
-<ar>
-	<head><k/></head>
-	<def>
-		<dtrn/>
-		<co>Places</co>
-	</def>
-</ar>
-<ar>
-	<head><k/></head>
-	<def>
-		<dtrn/>
-		<co>Places</co>
-	</def>
-</ar>
-<ar>
-	<head><k/></head>
-	<def>
-		<dtrn/>
-		<co>Places</co>
-	</def>
-</ar>
-<ar>
-	<head><k/></head>
-	<def>
-		<dtrn/>
-		<co>Places</co>
-	</def>
-</ar>
-<ar>
-	<head><k/></head>
-	<def>
-		<dtrn/>
-		<co>Places</co>
+		<co>Things or Objects</co>
 	</def>
 </ar>
 <ar>
