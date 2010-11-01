@@ -468,19 +468,246 @@
 	</def>
 </ar>
 <ar>
-	<head><k/></head>
+	<head><k>어머니</k></head>
 	<def>
-		<dtrn/>
+		<dtrn>mother</dtrn>
 		<co>People</co>
 	</def>
 </ar>
 <ar>
-	<head><k/></head>
+	<head><k>아버지</k></head>
 	<def>
-		<dtrn/>
-		<usage/>
-		<co/>
-		<style/>
+		<dtrn>father</dtrn>
+		<co>People</co>
+	</def>
+</ar>
+<ar>
+	<head><k>부모(님)</k></head>
+	<def>
+		<dtrn>parents (honorific)</dtrn>
+		<co>People</co>
+	</def>
+</ar>
+<ar>
+	<head><k>아이</k><k>애</k></head>
+	<def>
+		<dtrn>child</dtrn>
+		<co>People</co>
+	</def>
+</ar>
+<ar>
+	<head><k>아기</k><k>애기</k></head>
+	<def>
+		<dtrn>baby</dtrn>
+		<co>People</co>
+	</def>
+</ar>
+<ar>
+	<head><k>아저씨</k></head>
+	<def>
+		<dtrn>mister</dtrn>
+		<co>People</co>
+		<usage>way of referring to or addressing a man old enough to be married</usage>
+	</def>
+</ar>
+<ar>
+	<head><k>아가씨</k></head>
+	<def>
+		<dtrn>young lady</dtrn>
+		<co>People</co>
+		<usage>way of referring to or addressing an unmarried young woman</usage>
+	</def>
+</ar>
+<ar>
+	<head><k>남자</k></head>
+	<def>
+		<dtrn>man</dtrn>
+		<co>People</co>
+	</def>
+</ar>
+<ar>
+	<head><k>남자친구</k></head>
+	<def>
+		<dtrn>boyfriend</dtrn>
+		<co>People</co>
+	</def>
+</ar>
+<ar>
+	<head><k>여자</k></head>
+	<def>
+		<dtrn>woman</dtrn>
+		<co>People</co>
+	</def>
+</ar>
+<ar>
+	<head><k>여자친구</k></head>
+	<def>
+		<dtrn>girlfriend</dtrn>
+		<co>People</co>
+	</def>
+</ar>
+<ar>
+	<head><k>그래서...</k></head>
+	<def>
+		<dtrn>And so...</dtrn>
+		<co>Ways to Connect Sentences</co>
+	</def>
+	<def>
+		<dtrn>And then...</dtrn>
+		<co>Ways to Connect Sentences</co>
+	</def>
+	<def>
+		<dtrn>Therefore...</dtrn>
+		<co>Ways to Connect Sentences</co>
+	</def>
+</ar>
+<ar>
+	<head><k>나는 학생이에요. 그래서 돈이 없어요.</k></head>
+	<def>
+		<dtrn>I'm a student. Therefore I have no money.</dtrn>
+		<co>Ways to Connect Sentences</co>
+	</def>
+</ar>
+<ar>
+	<head><k>그래도...</k></head>
+	<def>
+		<dtrn>Even so...</dtrn>
+		<co>Ways to Connect Sentences</co>
+	</def>
+	<def>
+		<dtrn>Nervertheless</dtrn>
+		<co>Ways to Connect Sentences</co>
+	</def>
+</ar>
+<ar>
+	<head><k>그 사람은 의사에요. 그래도 돈이 없어요.</k></head>
+	<def>
+		<dtrn>He's a doctor. Even so, he has no money.</dtrn>
+		<co>Ways to Connect Sentences</co>
+	</def>
+</ar>
+<ar>
+	<head><k>그리고...</k></head>
+	<def>
+		<dtrn>And also...</dtrn>
+		<co>Ways to Connect Sentences</co>
+	</def>
+	<def>
+		<dtrn>And then...</dtrn>
+		<co>Ways to Connect Sentences</co>
+	</def>
+</ar>
+<ar>
+	<head><k>이대는 신촌에 있어요. 그리고 연대도 거기 있어요.</k></head>
+	<def>
+		<dtrn>Ewha University is in Shinch'on. And Yonsei University is there, too.</dtrn>
+		<co>Ways to Connect Sentences</co>
+	</def>
+</ar>
+<ar>
+	<head><k>그런데...</k></head>
+	<def>
+		<dtrn>But...</dtrn>
+		<co>Ways to Connect Sentences</co>
+	</def>
+	<def>
+		<dtrn>And then...</dtrn>
+		<co>Ways to Connect Sentences</co>
+	</def>
+	<def>
+		<dtrn>By the way...</dtrn>
+		<co>Ways to Connect Sentences</co>
+	</def>
+</ar>
+<ar>
+	<head><k>책상 위에 가방하고 노트가 있어요. 그런데 볼펜은 없어요.</k></head>
+	<def>
+		<dtrn>There is a bag and a notebook on the table. But there is no pen.</dtrn>
+		<co>Ways to Connect Sentences</co>
+	</def>
+</ar>
+<ar>
+	<head><k>얼마</k></head>
+	<def>
+		<dtrn>how many?</dtrn>
+		<co>Other Items</co>
+	</def>
+	<def>
+		<dtrn>how much?</dtrn>
+		<co>Other Items</co>
+	</def>
+</ar>
+<ar>
+	<head><k>천</k></head>
+	<def>
+		<dtrn>thousand</dtrn>
+		<co>Other Items</co>
+	</def>
+</ar>
+<ar>
+	<head><k>-원</k></head>
+	<def>
+		<dtrn>Won (Korean currency)</dtrn>
+		<co>Other Items</co>
+	</def>
+</ar>
+<ar>
+	<head><k>돈</k></head>
+	<def>
+		<dtrn>money</dtrn>
+		<co>Other Items</co>
+	</def>
+</ar>
+<ar>
+	<head><k>노트</k></head>
+	<def>
+		<dtrn>notebook</dtrn>
+		<co>Other Items</co>
+	</def>
+</ar>
+<ar>
+	<head><k>바로</k></head>
+	<def>
+		<dtrn>just</dtrn>
+		<co>Other Items</co>
+	</def>
+	<def>
+		<dtrn>right (below, above, etc.)</dtrn>
+		<co>Other Items</co>
+	</def>
+	<def>
+		<dtrn>straight</dtrn>
+		<co>Other Items</co>
+		<usage>adverb</usage>
+	</def>
+</ar>
+<ar>
+	<head><k>있어요</k></head>
+	<def>
+		<dtrn>it exists</dtrn>
+		<co>Other Items</co>
+	</def>
+	<def>
+		<dtrn>there is/are</dtrn>
+		<co>Other Items</co>
+	</def>
+</ar>
+<ar>
+	<head><k>없어요</k></head>
+	<def>
+		<dtrn>it does not exists</dtrn>
+		<co>Other Items</co>
+	</def>
+	<def>
+		<dtrn>there is not/aren't</dtrn>
+		<co>Other Items</co>
+	</def>
+</ar>
+<ar>
+	<head><k>주세요</k></head>
+	<def>
+		<dtrn>please give</dtrn>
+		<co>Other Items</co>
 	</def>
 </ar>
 </xdxf>
