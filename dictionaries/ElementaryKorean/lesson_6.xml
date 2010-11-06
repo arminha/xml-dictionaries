@@ -710,4 +710,164 @@
 		<co>Other Items</co>
 	</def>
 </ar>
+<ar>
+	<head><k>안에</k></head>
+	<def>
+		<dtrn>inside</dtrn>
+		<co>Place Nouns</co>
+	</def>
+</ar>
+<ar>
+	<head><k>속에</k></head>
+	<def>
+		<dtrn>inside</dtrn>
+		<co>Place Nouns</co>
+	</def>
+</ar>
+<ar>
+	<head><k>밖에</k></head>
+	<def>
+		<dtrn>outside</dtrn>
+		<co>Place Nouns</co>
+	</def>
+</ar>
+<ar>
+	<head><k>위에</k></head>
+	<def>
+		<dtrn>above</dtrn>
+		<co>Place Nouns</co>
+	</def>
+	<def>
+		<dtrn>over</dtrn>
+		<co>Place Nouns</co>
+	</def>
+	<def>
+		<dtrn>on (top)</dtrn>
+		<co>Place Nouns</co>
+	</def>
+</ar>
+<ar>
+	<head><k>밑에</k></head>
+	<def>
+		<dtrn>at the bottom</dtrn>
+		<co>Place Nouns</co>
+	</def>
+	<def>
+		<dtrn>below</dtrn>
+		<co>Place Nouns</co>
+	</def>
+	<def>
+		<dtrn>under(neath)</dtrn>
+		<co>Place Nouns</co>
+	</def>
+</ar>
+<ar>
+	<head><k>아래(에)</k></head>
+	<def>
+		<dtrn>below</dtrn>
+		<co>Place Nouns</co>
+	</def>
+	<def>
+		<dtrn>lower</dtrn>
+		<co>Place Nouns</co>
+	</def>
+	<def>
+		<dtrn>down</dtrn>
+		<co>Place Nouns</co>
+	</def>
+</ar>
+<ar>
+	<head><k>앞에</k></head>
+	<def>
+		<dtrn>in front</dtrn>
+		<co>Place Nouns</co>
+	</def>
+</ar>
+<ar>
+	<head><k>뒤에</k></head>
+	<def>
+		<dtrn>at the back</dtrn>
+		<co>Place Nouns</co>
+	</def>
+	<def>
+		<dtrn>behind</dtrn>
+		<co>Place Nouns</co>
+	</def>
+</ar>
+<ar>
+	<head><k>근처에</k></head>
+	<def>
+		<dtrn>near</dtrn>
+		<co>Place Nouns</co>
+	</def>
+	<def>
+		<dtrn>in the vicinity of</dtrn>
+		<co>Place Nouns</co>
+	</def>
+</ar>
+<ar>
+	<head><k>옆에</k></head>
+	<def>
+		<dtrn>next to</dtrn>
+		<co>Place Nouns</co>
+	</def>
+	<def>
+		<dtrn>beside</dtrn>
+		<co>Place Nouns</co>
+	</def>
+</ar>
+<ar>
+	<head><k>편</k><k>쪽</k></head>
+	<def>
+		<dtrn>side</dtrn>
+		<co>Place Nouns</co>
+	</def>
+	<def>
+		<dtrn>direction</dtrn>
+		<co>Place Nouns</co>
+	</def>
+</ar>
+<ar>
+	<head><k>왼편~쪽에</k></head>
+	<def>
+		<dtrn>on the left</dtrn>
+		<co>Place Nouns</co>
+	</def>
+</ar>
+<ar>
+	<head><k>오른편~쪽에</k></head>
+	<def>
+		<dtrn>on the right</dtrn>
+		<co>Place Nouns</co>
+	</def>
+</ar>
+<ar>
+	<head><k>맞은편에</k></head>
+	<def>
+		<dtrn>across from</dtrn>
+		<co>Place Nouns</co>
+	</def>
+	<def>
+		<dtrn>opposite</dtrn>
+		<co>Place Nouns</co>
+	</def>
+</ar>
+<ar>
+	<head><k>건너편에</k></head>
+	<def>
+		<dtrn>across from</dtrn>
+		<co>Place Nouns</co>
+	</def>
+	<def>
+		<dtrn>opposite</dtrn>
+		<co>Place Nouns</co>
+	</def>
+</ar>
+<ar>
+	<head><k>사이에</k></head>
+	<def>
+		<dtrn>between</dtrn>
+		<co>Place Nouns</co>
+	</def>
+</ar>
 </xdxf>
