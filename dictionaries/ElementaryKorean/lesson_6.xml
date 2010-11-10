@@ -39,7 +39,7 @@
 	</def>
 </ar>
 <ar>
-	<head><k>서울대 (서울 대하교)</k></head>
+	<head><k>서울대 (서울 대학교)</k></head>
 	<def>
 		<dtrn>Seoul National University</dtrn>
 		<co>Places</co>
@@ -175,7 +175,7 @@
 	</def>
 </ar>
 <ar>
-	<head><k>라마다 올럼피아 호텔</k></head>
+	<head><k>라마다 올림피아 호텔</k></head>
 	<def>
 		<dtrn>Ramada Olympia Hotel</dtrn>
 		<co>Places</co>
@@ -231,7 +231,7 @@
 	</def>
 </ar>
 <ar>
-	<head><k>올럼픽 공원</k></head>
+	<head><k>올림픽 공원</k></head>
 	<def>
 		<dtrn>Olympic Park</dtrn>
 		<co>Places</co>
@@ -294,23 +294,23 @@
 	</def>
 </ar>
 <ar>
-	<head><k>동재문</k></head>
+	<head><k>동대문</k></head>
 	<def>
 		<dtrn>Great East Gate</dtrn>
 		<co>Places</co>
 	</def>
 </ar>
 <ar>
-	<head><k>팡화문</k></head>
+	<head><k>광화문</k></head>
 	<def>
-		<dtrn>Kwanghwamun, Kwanghwa Gate</dtrn>
+		<dtrn>Gwanghwamun, Gwanghwa Gate</dtrn>
 		<co>Places</co>
 	</def>
 </ar>
 <ar>
 	<head><k>종로</k></head>
 	<def>
-		<dtrn>Chongno (main thoroughfare in Seoul)</dtrn>
+		<dtrn>Jongno (main thoroughfare in Seoul)</dtrn>
 		<co>Places</co>
 	</def>
 </ar>
