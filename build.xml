@@ -27,8 +27,12 @@
 
   <target name="all" description="Build everything." depends="pdf-voci, anki"/>
 
-  <target name="anki" description="Build csv files for Anki.">
-    <mkdir dir="${build.dir}/anki"/>
+  <target name="anki" description="Build csv files for Anki." depends="anki-elementary-korean">
+  </target>
+
+  <target name="anki-elementary-korean">
+    <xslt basedir="dictionaries/ElementaryKorean/" destdir="${build.dir}/anki" extension=".csv" style="anki/anki_cvs.xsl" includes="lesson*.xml">
+    </xslt>
   </target>
 
   <target name="pdf-voci" description="Build pdf vocabulary cards." depends="fo">
