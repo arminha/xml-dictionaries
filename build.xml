@@ -1,4 +1,58 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<project name="XmlDictionaries" default="default" basedir=".">
+<project name="XmlDictionaries" default="all" basedir=".">
+  <property file="build.properties"/>
+  <property file="default.properties"/>
 
+  <taskdef name="fop" classname="org.apache.fop.tools.anttasks.Fop">
+    <classpath>
+      <fileset dir="${fop.lib}">
+        <include name="commons-io.jar"/>
+        <include name="avalon-framework.jar"/>
+        <include name="serializer.jar"/>
+        <include name="xalan2.jar"/>
+        <include name="xml-apis.jar"/>
+        <include name="batik-all.jar"/>
+        <include name="commons-logging.jar"/>
+        <include name="servlet-api.jar"/>
+        <include name="xercesImpl.jar"/>
+        <include name="xmlgraphics-commons.jar"/>
+        <include name="xml-apis-ext.jar"/>
+      </fileset>
+      <fileset dir="${fop.build}">
+        <include name="fop.jar"/>
+        <include name="fop-hyph.jar" />
+      </fileset>
+    </classpath>
+  </taskdef>
+
+  <target name="all" description="Build everything." depends="pdf-voci, anki"/>
+
+  <target name="anki" description="Build csv files for Anki.">
+    <mkdir dir="${build.dir}/anki"/>
+  </target>
+
+  <target name="pdf-voci" description="Build pdf vocabulary cards." depends="fo">
+    <mkdir dir="${build.dir}/pdf"/>
+    <fop userconfig="fop/conf/fop.xconf" basedir="fop" outdir="${build.dir}/pdf">
+      <fileset dir="${build.dir}/fo">
+        <include name="**/*.fo"/>
+      </fileset>
+    </fop>
+  </target>
+
+  <target name="fo" depends="fo-elementary-korean, fo-making-out-in-korean" />
+
+  <target name="fo-elementary-korean">
+    <xslt basedir="dictionaries/ElementaryKorean/" destdir="${build.dir}/fo" extension=".fo" style="fop/vocabularyCards.xsl" includes="lesson*.xml">
+    </xslt>
+  </target>
+
+  <target name="fo-making-out-in-korean">
+    <xslt basedir="dictionaries/MakingOutInKorean" destdir="${build.dir}/fo" extension=".fo" style="fop/vocabularyCards.xsl">
+    </xslt>
+  </target>
+
+  <target name="clean" description="Clean and remove build directory.">
+    <delete dir="${build.dir}"/>
+  </target>
 </project>
