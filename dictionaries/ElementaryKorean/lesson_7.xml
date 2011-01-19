@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="../XDXF-draft-logical-05-to-html.xsl"?><xdxf xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="logical" lang_from="ENG" lang_to="KOR">
+<full_name>Elementary Korean</full_name>
+<description>
+	<author>Armin Häberling</author>
+</description>
+<ar>
+	<head><k>어제</k></head>
+	<def>
+		<dtrn>yesterday</dtrn>
+		<co>Day of the Week</co>
+	</def>
+</ar>
+<ar>
+	<head><k>오눌</k></head>
+	<def>
+		<dtrn>today</dtrn>
+		<co>Day of the Week</co>
+		<style/>
+	</def>
+</ar>
+<ar>
+	<head><k>내일</k></head>
+	<def>
+		<dtrn>tomorrow</dtrn>
+		<co>Day of the Week</co>
+		<style/>
+	</def>
+</ar>
+<ar>
+	<head><k>월요일(에)</k></head>
+	<def>
+		<dtrn>(on) Monday</dtrn>
+		<co>Day of the Week</co>
+	</def>
+</ar>
+<ar>
+	<head><k>화요일(에)</k></head>
+	<def>
+		<dtrn>(on) Tuesday</dtrn>
+		<co>Day of the Week</co>
+	</def>
+</ar>
+<ar>
+	<head><k>수요일(에)</k></head>
+	<def>
+		<dtrn>(on) Wednesday</dtrn>
+		<co>Day of the Week</co>
+	</def>
+</ar>
+<ar>
+	<head><k>목요일(에)</k></head>
+	<def>
+		<dtrn>(on) Thursday</dtrn>
+		<co>Day of the Week</co>
+	</def>
+</ar>
+<ar>
+	<head><k>금요일(에)</k></head>
+	<def>
+		<dtrn>(on) Friday</dtrn>
+		<co>Day of the Week</co>
+	</def>
+</ar>
+<ar>
+	<head><k>토요일(에)</k></head>
+	<def>
+		<dtrn>(on) Saturday</dtrn>
+		<co>Day of the Week</co>
+	</def>
+</ar>
+<ar>
+	<head><k>일요일(에)</k></head>
+	<def>
+		<dtrn>(on) Sunday</dtrn>
+		<co>Day of the Week</co>
+	</def>
+</ar>
+<ar>
+	<head><k/></head>
+	<def>
+		<dtrn/>
+		<usage/>
+		<co>Time</co>
+		<style/>
+	</def>
+</ar>
+</xdxf>
