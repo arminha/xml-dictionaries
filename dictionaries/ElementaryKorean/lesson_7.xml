@@ -15,7 +15,6 @@
 	<def>
 		<dtrn>today</dtrn>
 		<co>Day of the Week</co>
-		<style/>
 	</def>
 </ar>
 <ar>
@@ -23,7 +22,6 @@
 	<def>
 		<dtrn>tomorrow</dtrn>
 		<co>Day of the Week</co>
-		<style/>
 	</def>
 </ar>
 <ar>
@@ -76,11 +74,194 @@
 	</def>
 </ar>
 <ar>
+	<head><k>요즘</k></head>
+	<def>
+		<dtrn>nowadays</dtrn>
+		<co>Time</co>
+	</def>
+	<def>
+		<dtrn>these days</dtrn>
+		<co>Time</co>
+	</def>
+</ar>
+<ar>
+	<head><k>보통</k></head>
+	<def>
+		<dtrn>usually</dtrn>
+		<co>Time</co>
+	</def>
+	<def>
+		<dtrn>normally</dtrn>
+		<co>Time</co>
+	</def>
+</ar>
+<ar>
+	<head><k>날</k></head>
+	<def>
+		<dtrn>day</dtrn>
+		<co>Time</co>
+	</def>
+</ar>
+<ar>
+	<head><k>아침(에)</k></head>
+	<def>
+		<dtrn>(in the) morning</dtrn>
+		<co>Time</co>
+	</def>
+	<def>
+		<dtrn>breakfast</dtrn>
+		<co>Time</co>
+	</def>
+</ar>
+<ar>
+	<head><k>낮(에)</k></head>
+	<def>
+		<dtrn>(in the) daytime</dtrn>
+		<co>Time</co>
+	</def>
+	<def>
+		<dtrn>noon</dtrn>
+		<co>Time</co>
+	</def>
+</ar>
+<ar>
+	<head><k>오후(에)</k></head>
+	<def>
+		<dtrn>(in the) afternoon</dtrn>
+		<co>Time</co>
+	</def>
+	<def>
+		<dtrn>PM</dtrn>
+		<co>Time</co>
+	</def>
+</ar>
+<ar>
+	<head><k>오전(에)</k></head>
+	<def>
+		<dtrn>(in the) AM</dtrn>
+		<co>Time</co>
+	</def>
+</ar>
+<ar>
+	<head><k>저녁(에)</k></head>
+	<def>
+		<dtrn>(in the) evening</dtrn>
+		<co>Time</co>
+	</def>
+	<def>
+		<dtrn>supper</dtrn>
+		<co>Time</co>
+	</def>
+</ar>
+<ar>
+	<head><k>어제 저녁(에)</k></head>
+	<def>
+		<dtrn>yesterday evening</dtrn>
+		<co>Time</co>
+	</def>
+</ar>
+<ar>
+	<head><k>오늘 저녁(에)</k></head>
+	<def>
+		<dtrn>this evening</dtrn>
+		<co>Time</co>
+		<usage>not 이 저녁</usage>
+	</def>
+</ar>
+<ar>
+	<head><k>밤(에)</k></head>
+	<def>
+		<dtrn>(at) night</dtrn>
+		<co>Time</co>
+	</def>
+</ar>
+<ar>
+	<head><k>어제 밤(에)</k></head>
+	<def>
+		<dtrn>last night</dtrn>
+		<co>Time</co>
+	</def>
+</ar>
+<ar>
+	<head><k>오늘 밤(에)</k></head>
+	<def>
+		<dtrn>tonight</dtrn>
+		<co>Time</co>
+		<usage>not 이 밤(에)</usage>
+	</def>
+</ar>
+<ar>
+	<head><k>일찍</k></head>
+	<def>
+		<dtrn>early</dtrn>
+		<co>Time</co>
+		<usage>adverb</usage>
+	</def>
+</ar>
+<ar>
+	<head><k>아침 일찍</k></head>
+	<def>
+		<dtrn>early in the morning</dtrn>
+		<co>Time</co>
+	</def>
+</ar>
+<ar>
+	<head><k>늦게</k></head>
+	<def>
+		<dtrn>late</dtrn>
+		<co>Time</co>
+		<usage>adverb</usage>
+	</def>
+</ar>
+<ar>
+	<head><k>이따가</k></head>
+	<def>
+		<dtrn>in a while</dtrn>
+		<co>Time</co>
+	</def>
+	<def>
+		<dtrn>a while later</dtrn>
+		<co>Time</co>
+	</def>
+</ar>
+<ar>
+	<head><k>언제</k></head>
+	<def>
+		<dtrn>when?</dtrn>
+		<co>Time</co>
+	</def>
+</ar>
+<ar>
+	<head><k>지금</k></head>
+	<def>
+		<dtrn>now</dtrn>
+		<co>Time</co>
+	</def>
+</ar>
+<ar>
+	<head><k>주말(에)</k></head>
+	<def>
+		<dtrn>(on the/over the) weekend</dtrn>
+		<co>Time</co>
+	</def>
+</ar>
+<ar>
+	<head><k>시간</k></head>
+	<def>
+		<dtrn>hour</dtrn>
+		<co>Time</co>
+	</def>
+	<def>
+		<dtrn>time</dtrn>
+		<co>Time</co>
+	</def>
+</ar>
+<ar>
 	<head><k/></head>
 	<def>
 		<dtrn/>
 		<usage/>
-		<co>Time</co>
+		<co/>
 		<style/>
 	</def>
 </ar>
