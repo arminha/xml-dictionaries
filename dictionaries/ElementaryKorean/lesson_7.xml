@@ -257,6 +257,463 @@
 	</def>
 </ar>
 <ar>
+	<head><k>식당</k></head>
+	<def>
+		<dtrn>dining room</dtrn>
+		<co>Food, Eating and Drinking</co>
+	</def>
+	<def>
+		<dtrn>restaurant</dtrn>
+		<co>Food, Eating and Drinking</co>
+	</def>
+	<def>
+		<dtrn>cafeteria</dtrn>
+		<co>Food, Eating and Drinking</co>
+	</def>
+	<def>
+		<dtrn>refectory</dtrn>
+		<co>Food, Eating and Drinking</co>
+	</def>
+</ar>
+<ar>
+	<head><k>음식점</k></head>
+	<def>
+		<dtrn>restaurant</dtrn>
+		<co>Food, Eating and Drinking</co>
+	</def>
+</ar>
+<ar>
+	<head><k>레스토랑</k></head>
+	<def>
+		<dtrn>restaurant (somewhat upscale)</dtrn>
+		<co>Food, Eating and Drinking</co>
+	</def>
+</ar>
+<ar>
+	<head><k>빵</k></head>
+	<def>
+		<dtrn>bread</dtrn>
+		<co>Food, Eating and Drinking</co>
+	</def>
+</ar>
+<ar>
+	<head><k>고기</k></head>
+	<def>
+		<dtrn>meat</dtrn>
+		<co>Food, Eating and Drinking</co>
+	</def>
+</ar>
+<ar>
+	<head><k>불거기</k></head>
+	<def>
+		<dtrn>bulgogi</dtrn>
+		<co>Food, Eating and Drinking</co>
+	</def>
+</ar>
+<ar>
+	<head><k>비빔밥 (비빔빱)</k></head>
+	<def>
+		<dtrn>bibimbap</dtrn>
+		<co>Food, Eating and Drinking</co>
+	</def>
+</ar>
+<ar>
+	<head><k>음식</k></head>
+	<def>
+		<dtrn>food</dtrn>
+		<co>Food, Eating and Drinking</co>
+	</def>
+</ar>
+<ar>
+	<head><k>밥</k></head>
+	<def>
+		<dtrn>cooked rice</dtrn>
+		<co>Food, Eating and Drinking</co>
+	</def>
+</ar>
+<ar>
+	<head><k>밥(을) 먹어요</k></head>
+	<def>
+		<dtrn>eats a meal</dtrn>
+		<co>Food, Eating and Drinking</co>
+	</def>
+	<def>
+		<dtrn>has a meal</dtrn>
+		<co>Food, Eating and Drinking</co>
+	</def>
+</ar>
+<ar>
+	<head><k>아침</k></head>
+	<def>
+		<dtrn>breakfast</dtrn>
+		<co>Food, Eating and Drinking</co>
+	</def>
+	<def>
+		<dtrn>morning meal</dtrn>
+		<co>Food, Eating and Drinking</co>
+	</def>
+</ar>
+<ar>
+	<head><k>점심</k></head>
+	<def>
+		<dtrn>lunch</dtrn>
+		<co>Food, Eating and Drinking</co>
+	</def>
+</ar>
+<ar>
+	<head><k>저녁</k></head>
+	<def>
+		<dtrn>supper</dtrn>
+		<co>Food, Eating and Drinking</co>
+	</def>
+	<def>
+		<dtrn>evening meal</dtrn>
+		<co>Food, Eating and Drinking</co>
+	</def>
+</ar>
+<ar>
+	<head><k>우유</k></head>
+	<def>
+		<dtrn>milk</dtrn>
+		<co>Food, Eating and Drinking</co>
+	</def>
+</ar>
+<ar>
+	<head><k>물</k></head>
+	<def>
+		<dtrn>water</dtrn>
+		<co>Food, Eating and Drinking</co>
+	</def>
+</ar>
+<ar>
+	<head><k>맛</k></head>
+	<def>
+		<dtrn>taste</dtrn>
+		<co>Food, Eating and Drinking</co>
+	</def>
+</ar>
+<ar>
+	<head><k>맛(이) 있-</k></head>
+	<def>
+		<dtrn>be tasty</dtrn>
+		<co>Food, Eating and Drinking</co>
+		<usage>pronounced 마시이써요</usage>
+	</def>
+	<def>
+		<dtrn>be delicious</dtrn>
+		<co>Food, Eating and Drinking</co>
+	</def>
+</ar>
+<ar>
+	<head><k>맛 없-</k></head>
+	<def>
+		<dtrn>taste bad</dtrn>
+		<co>Food, Eating and Drinking</co>
+		<usage>pronounced 마멉써요, 마시업써요</usage>
+	</def>
+	<def>
+		<dtrn>not taste good</dtrn>
+		<co>Food, Eating and Drinking</co>
+	</def>
+</ar>
+<ar>
+	<head><k>PLACE-행</k></head>
+	<def>
+		<dtrn>bound for PLACE</dtrn>
+		<co>Travel and Transport</co>
+	</def>
+</ar>
+<ar>
+	<head><k>부산행 기차</k></head>
+	<def>
+		<dtrn>a Busan train</dtrn>
+		<co>Travel and Transport</co>
+	</def>
+	<def>
+		<dtrn>train bound for Busan</dtrn>
+		<co>Travel and Transport</co>
+	</def>
+</ar>
+<ar>
+	<head><k>차</k></head>
+	<def>
+		<dtrn>car</dtrn>
+		<co>Travel and Transport</co>
+	</def>
+	<def>
+		<dtrn>vehicle</dtrn>
+		<co>Travel and Transport</co>
+	</def>
+</ar>
+<ar>
+	<head><k>기차</k></head>
+	<def>
+		<dtrn>train</dtrn>
+		<co>Travel and Transport</co>
+	</def>
+</ar>
+<ar>
+	<head><k>비행기</k></head>
+	<def>
+		<dtrn>airplane</dtrn>
+		<co>Travel and Transport</co>
+	</def>
+</ar>
+<ar>
+	<head><k>자전거</k></head>
+	<def>
+		<dtrn>bicycle</dtrn>
+		<co>Travel and Transport</co>
+	</def>
+</ar>
+<ar>
+	<head><k>표</k></head>
+	<def>
+		<dtrn>ticket</dtrn>
+		<co>Travel and Transport</co>
+	</def>
+</ar>
+<ar>
+	<head><k>차표</k></head>
+	<def>
+		<dtrn>(train, bus) ticket</dtrn>
+		<co>Travel and Transport</co>
+	</def>
+</ar>
+<ar>
+	<head><k>매표소</k></head>
+	<def>
+		<dtrn>ticket counter</dtrn>
+		<co>Travel and Transport</co>
+	</def>
+</ar>
+<ar>
+	<head><k>플랫폼</k></head>
+	<def>
+		<dtrn>platform</dtrn>
+		<co>Travel and Transport</co>
+	</def>
+</ar>
+<ar>
+	<head><k>아버님</k></head>
+	<def>
+		<dtrn>father</dtrn>
+		<co>Miscellaneous</co>
+		<style>honorific</style>
+	</def>
+</ar>
+<ar>
+	<head><k>어머님</k></head>
+	<def>
+		<dtrn>mother</dtrn>
+		<co>Miscellaneous</co>
+		<style>honorific</style>
+	</def>
+</ar>
+<ar>
+	<head><k>도서관</k></head>
+	<def>
+		<dtrn>library</dtrn>
+		<co>Miscellaneous</co>
+	</def>
+</ar>
+<ar>
+	<head><k>슈퍼마켓</k></head>
+	<def>
+		<dtrn>supermarket</dtrn>
+		<co>Miscellaneous</co>
+	</def>
+</ar>
+<ar>
+	<head><k>장(을) 보-</k></head>
+	<def>
+		<dtrn>do grocery shopping</dtrn>
+		<co>Miscellaneous</co>
+	</def>
+</ar>
+<ar>
+	<head><k>영화</k></head>
+	<def>
+		<dtrn>movie</dtrn>
+		<co>Miscellaneous</co>
+	</def>
+	<def>
+		<dtrn>film</dtrn>
+		<co>Miscellaneous</co>
+	</def>
+</ar>
+<ar>
+	<head><k>극장</k></head>
+	<def>
+		<dtrn>theatre</dtrn>
+		<co>Miscellaneous</co>
+		<usage>can mean both cinema and venue for a dramatic performance</usage>
+	</def>
+</ar>
+<ar>
+	<head><k>편지</k></head>
+	<def>
+		<dtrn>letter</dtrn>
+		<co>Miscellaneous</co>
+	</def>
+</ar>
+<ar>
+	<head><k>불</k></head>
+	<def>
+		<dtrn>fire</dtrn>
+		<co>Miscellaneous</co>
+	</def>
+	<def>
+		<dtrn>light</dtrn>
+		<co>Miscellaneous</co>
+	</def>
+</ar>
+<ar>
+	<head><k>일</k></head>
+	<def>
+		<dtrn>matter</dtrn>
+		<co>Miscellaneous</co>
+	</def>
+	<def>
+		<dtrn>business</dtrn>
+		<co>Miscellaneous</co>
+	</def>
+	<def>
+		<dtrn>work</dtrn>
+		<co>Miscellaneous</co>
+	</def>
+</ar>
+<ar>
+	<head><k>개</k></head>
+	<def>
+		<dtrn>dog</dtrn>
+		<co>Miscellaneous</co>
+	</def>
+</ar>
+<ar>
+	<head><k>고양이</k></head>
+	<def>
+		<dtrn>cat</dtrn>
+		<co>Miscellaneous</co>
+	</def>
+</ar>
+<ar>
+	<head><k>휴지</k></head>
+	<def>
+		<dtrn>tissue paper</dtrn>
+		<co>Miscellaneous</co>
+	</def>
+	<def>
+		<dtrn>Kleenex</dtrn>
+		<co>Miscellaneous</co>
+	</def>
+	<def>
+		<dtrn>toilet tissue</dtrn>
+		<co>Miscellaneous</co>
+	</def>
+</ar>
+<ar>
+	<head><k>수건</k><k>타올</k></head>
+	<def>
+		<dtrn>towel</dtrn>
+		<co>Miscellaneous</co>
+	</def>
+</ar>
+<ar>
+	<head><k>노래</k></head>
+	<def>
+		<dtrn>song</dtrn>
+		<co>Miscellaneous</co>
+	</def>
+</ar>
+<ar>
+	<head><k>노래(를) 불러요</k></head>
+	<def>
+		<dtrn>sings a song</dtrn>
+		<co>Miscellaneous</co>
+	</def>
+</ar>
+<ar>
+	<head><k>노래방</k></head>
+	<def>
+		<dtrn>noraebang</dtrn>
+		<co>Miscellaneous</co>
+	</def>
+	<def>
+		<dtrn>Korean karaoke box</dtrn>
+		<co>Miscellaneous</co>
+	</def>
+</ar>
+<ar>
+	<head><k>첫 NOUN</k></head>
+	<def>
+		<dtrn>first NOUN</dtrn>
+		<co>Miscellaneous</co>
+	</def>
+</ar>
+<ar>
+	<head><k>몇</k></head>
+	<def>
+		<dtrn>how many?</dtrn>
+		<co>Miscellaneous</co>
+	</def>
+</ar>
+<ar>
+	<head><k>혼자(서)</k></head>
+	<def>
+		<dtrn>alone</dtrn>
+		<co>Miscellaneous</co>
+	</def>
+	<def>
+		<dtrn>on one's own</dtrn>
+		<co>Miscellaneous</co>
+	</def>
+	<def>
+		<dtrn>by oneself</dtrn>
+		<co>Miscellaneous</co>
+	</def>
+</ar>
+<ar>
+	<head><k>빨리</k></head>
+	<def>
+		<dtrn>quickly</dtrn>
+		<co>Miscellaneous</co>
+	</def>
+</ar>
+<ar>
+	<head><k>많이</k></head>
+	<def>
+		<dtrn>a lot</dtrn>
+		<co>Miscellaneous</co>
+		<usage>adverb</usage>
+	</def>
+</ar>
+<ar>
+	<head><k>조금</k></head>
+	<def>
+		<dtrn>a little</dtrn>
+		<co>Miscellaneous</co>
+	</def>
+</ar>
+<ar>
+	<head><k>잘</k></head>
+	<def>
+		<dtrn>well</dtrn>
+		<co>Miscellaneous</co>
+	</def>
+	<def>
+		<dtrn>often</dtrn>
+		<co>Miscellaneous</co>
+	</def>
+</ar>
+<ar>
+	<head><k>아주</k></head>
+	<def>
+		<dtrn>very</dtrn>
+		<co>Miscellaneous</co>
+	</def>
+</ar>
+<ar>
 	<head><k/></head>
 	<def>
 		<dtrn/>
