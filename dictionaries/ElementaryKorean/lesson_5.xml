@@ -643,8 +643,9 @@
 <ar>
 	<head><k>-분</k></head>
 	<def>
-		<dtrn>person (honorific)</dtrn>
+		<dtrn>person</dtrn>
 		<co>Miscellaneous</co>
+		<style>honorific</style>
 	</def>
 </ar>
 </xdxf>
