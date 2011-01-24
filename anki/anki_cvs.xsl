@@ -25,13 +25,14 @@
 
   <!-- English -->
   <xsl:text>"</xsl:text>
-  <xsl:for-each select="def/dtrn">
+  <xsl:for-each select="def">
     <xsl:choose>
       <xsl:when test="position() != 1">
         <xsl:text><![CDATA[<br/>]]></xsl:text>
       </xsl:when>
     </xsl:choose>
-    <xsl:value-of select="."/>
+    <xsl:value-of select="dtrn"/>
+    <xsl:apply-templates select="style"/>
  	</xsl:for-each>
   <xsl:text>"; </xsl:text>
 
@@ -50,6 +51,12 @@
   <!-- TODO -->
   <xsl:text>"
 </xsl:text>
+</xsl:template>
+
+<xsl:template match="style">
+  <xsl:text> (</xsl:text>
+  <xsl:value-of select="."/>
+  <xsl:text>)</xsl:text>
 </xsl:template>
 
 </xsl:stylesheet>
