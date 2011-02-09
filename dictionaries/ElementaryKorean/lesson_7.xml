@@ -714,12 +714,444 @@
 	</def>
 </ar>
 <ar>
-	<head><k/></head>
+	<head><k>앉아</k><k>앉다</k></head>
 	<def>
-		<dtrn/>
-		<usage/>
-		<co/>
-		<style/>
+		<dtrn>to sit</dtrn>
+		<co>Verbs</co>
+	</def>
+</ar>
+<ar>
+	<head><k>자</k><k>자다</k></head>
+	<def>
+		<dtrn>to go to bed</dtrn>
+		<co>Verbs</co>
+	</def>
+	<def>
+		<dtrn>to sleep</dtrn>
+		<co>Verbs</co>
+	</def>
+</ar>
+<ar>
+	<head><k>작아</k><k>작다</k></head>
+	<def>
+		<dtrn>to be little in size</dtrn>
+		<co>Verbs</co>
+	</def>
+</ar>
+<ar>
+	<head><k>적어</k><k>적다</k></head>
+	<def>
+		<dtrn>to be a few in number</dtrn>
+		<co>Verbs</co>
+	</def>
+</ar>
+<ar>
+	<head><k>해</k><k>하다</k></head>
+	<def>
+		<dtrn>to do</dtrn>
+		<co>Verbs</co>
+	</def>
+</ar>
+<ar>
+	<head><k>빨라</k><k>빠르다</k></head>
+	<def>
+		<dtrn>to be fast</dtrn>
+		<co>Verbs</co>
+	</def>
+</ar>
+<ar>
+	<head><k>받아</k><k>받다</k></head>
+	<def>
+		<dtrn>to get</dtrn>
+		<co>Verbs</co>
+	</def>
+	<def>
+		<dtrn>to receive</dtrn>
+		<co>Verbs</co>
+	</def>
+</ar>
+<ar>
+	<head><k>배워</k><k>배우다</k></head>
+	<def>
+		<dtrn>to learn</dtrn>
+		<co>Verbs</co>
+	</def>
+</ar>
+<ar>
+	<head><k>가</k><k>가다</k></head>
+	<def>
+		<dtrn>to go</dtrn>
+		<co>Verbs</co>
+	</def>
+</ar>
+<ar>
+	<head><k>가르쳐</k><k>가르치다</k></head>
+	<def>
+		<dtrn>to teach</dtrn>
+		<co>Verbs</co>
+	</def>
+</ar>
+<ar>
+	<head><k>놀아</k><k>놀다</k></head>
+	<def>
+		<dtrn>to play</dtrn>
+		<co>Verbs</co>
+		<usage>L-extending base</usage>
+	</def>
+</ar>
+<ar>
+	<head><k>커</k><k>크다</k></head>
+	<def>
+		<dtrn>to be large</dtrn>
+		<co>Verbs</co>
+	</def>
+	<def>
+		<dtrn>to be big</dtrn>
+		<co>Verbs</co>
+	</def>
+</ar>
+<ar>
+	<head><k>기다려</k><k>기다리다</k></head>
+	<def>
+		<dtrn>to wait (for)</dtrn>
+		<co>Verbs</co>
+	</def>
+</ar>
+<ar>
+	<head><k>끝나</k><k>끝나다</k></head>
+	<def>
+		<dtrn>to stop</dtrn>
+		<co>Verbs</co>
+	</def>
+	<def>
+		<dtrn>to end</dtrn>
+		<co>Verbs</co>
+	</def>
+	<def>
+		<dtrn>to be over</dtrn>
+		<co>Verbs</co>
+	</def>
+</ar>
+<ar>
+	<head><k>많아</k><k>많다</k></head>
+	<def>
+		<dtrn>to be much</dtrn>
+		<co>Verbs</co>
+	</def>
+	<def>
+		<dtrn>to be many</dtrn>
+		<co>Verbs</co>
+	</def>
+</ar>
+<ar>
+	<head><k>만나</k><k>만나다</k></head>
+	<def>
+		<dtrn>to meet</dtrn>
+		<co>Verbs</co>
+	</def>
+	<def>
+		<dtrn>to see (s.b.)</dtrn>
+		<co>Verbs</co>
+	</def>
+</ar>
+<ar>
+	<head><k>마셔</k><k>마시다</k></head>
+	<def>
+		<dtrn>to drink</dtrn>
+		<co>Verbs</co>
+	</def>
+</ar>
+<ar>
+	<head><k>먹어</k><k>먹다</k></head>
+	<def>
+		<dtrn>to eat</dtrn>
+		<co>Verbs</co>
+	</def>
+</ar>
+<ar>
+	<head><k>돼 (&lt;-되어)</k><k>되다</k></head>
+	<def>
+		<dtrn>to become</dtrn>
+		<co>Verbs</co>
+	</def>
+</ar>
+<ar>
+	<head><k>물어</k><k>물다</k></head>
+	<def>
+		<dtrn>to bite</dtrn>
+		<co>Verbs</co>
+	</def>
+</ar>
+<ar>
+	<head><k>찾아</k><k>찾다</k></head>
+	<def>
+		<dtrn>to look for</dtrn>
+		<co>Verbs</co>
+	</def>
+	<def>
+		<dtrn>to find</dtrn>
+		<co>Verbs</co>
+	</def>
+</ar>
+<ar>
+	<head><k>좋아</k><k>좋다</k></head>
+	<def>
+		<dtrn>to be good</dtrn>
+		<co>Verbs</co>
+	</def>
+</ar>
+<ar>
+	<head><k>줘 (&lt;-주어)</k><k>주다</k></head>
+	<def>
+		<dtrn>to give</dtrn>
+		<co>Verbs</co>
+	</def>
+</ar>
+<ar>
+	<head><k>없어</k><k>없다</k></head>
+	<def>
+		<dtrn>to be nonexistent</dtrn>
+		<co>Verbs</co>
+	</def>
+</ar>
+<ar>
+	<head><k>일어나</k><k>일어나다</k></head>
+	<def>
+		<dtrn>to get up</dtrn>
+		<co>Verbs</co>
+	</def>
+	<def>
+		<dtrn>to stand up</dtrn>
+		<co>Verbs</co>
+	</def>
+</ar>
+<ar>
+	<head><k>읽어</k><k>읽다</k></head>
+	<def>
+		<dtrn>to read</dtrn>
+		<co>Verbs</co>
+	</def>
+</ar>
+<ar>
+	<head><k>있어</k><k>있다</k></head>
+	<def>
+		<dtrn>to exist</dtrn>
+		<co>Verbs</co>
+	</def>
+	<def>
+		<dtrn>to stay</dtrn>
+		<co>Verbs</co>
+	</def>
+	<def>
+		<dtrn>to have</dtrn>
+		<co>Verbs</co>
+	</def>
+</ar>
+<ar>
+	<head><k>와</k><k>오다</k></head>
+	<def>
+		<dtrn>to come</dtrn>
+		<co>Verbs</co>
+	</def>
+</ar>
+<ar>
+	<head><k>피위</k><k>피우다</k></head>
+	<def>
+		<dtrn>to smoke</dtrn>
+		<co>Verbs</co>
+	</def>
+</ar>
+<ar>
+	<head><k>서</k><k>서다</k></head>
+	<def>
+		<dtrn>to stand</dtrn>
+		<co>Verbs</co>
+	</def>
+</ar>
+<ar>
+	<head><k>봐 (&lt;-보아)</k><k>보다</k></head>
+	<def>
+		<dtrn>to look at</dtrn>
+		<co>Verbs</co>
+	</def>
+	<def>
+		<dtrn>to see</dtrn>
+		<co>Verbs</co>
+	</def>
+</ar>
+<ar>
+	<head><k>사</k><k>사다</k></head>
+	<def>
+		<dtrn>to buy</dtrn>
+		<co>Verbs</co>
+	</def>
+</ar>
+<ar>
+	<head><k>살아</k><k>살다</k></head>
+	<def>
+		<dtrn>to live</dtrn>
+		<co>Verbs</co>
+		<usage>L-extending base</usage>
+	</def>
+</ar>
+<ar>
+	<head><k>써</k><k>쓰다</k></head>
+	<def>
+		<dtrn>to write</dtrn>
+		<co>Verbs</co>
+	</def>
+</ar>
+<ar>
+	<head><k>쉬어</k><k>쉬다</k></head>
+	<def>
+		<dtrn>to rest</dtrn>
+		<co>Verbs</co>
+	</def>
+</ar>
+<ar>
+	<head><k>닫아</k><k>닫다</k></head>
+	<def>
+		<dtrn>to close it</dtrn>
+		<co>Verbs</co>
+	</def>
+</ar>
+<ar>
+	<head><k>들어</k><k>듣다</k></head>
+	<def>
+		<dtrn>to hear</dtrn>
+		<co>Verbs</co>
+	</def>
+	<def>
+		<dtrn>to listen to</dtrn>
+		<co>Verbs</co>
+	</def>
+</ar>
+<ar>
+	<head><k>열어</k><k>열다</k></head>
+	<def>
+		<dtrn>to open it</dtrn>
+		<co>Verbs</co>
+		<usage>L-extending base</usage>
+	</def>
+</ar>
+<ar>
+	<head><k>다녀</k><k>다니다</k></head>
+	<def>
+		<dtrn>to attend</dtrn>
+		<co>Verbs</co>
+	</def>
+	<def>
+		<dtrn>to go regularly</dtrn>
+		<co>Verbs</co>
+	</def>
+</ar>
+<ar>
+	<head><k>물어</k><k>묻다</k></head>
+	<def>
+		<dtrn>to ask</dtrn>
+		<co>Verbs</co>
+	</def>
+</ar>
+<ar>
+	<head><k>입어</k><k>입다</k></head>
+	<def>
+		<dtrn>to wear</dtrn>
+		<co>Verbs</co>
+	</def>
+	<def>
+		<dtrn>to put on</dtrn>
+		<co>Verbs</co>
+	</def>
+</ar>
+<ar>
+	<head><k>벗어</k><k>벗다</k></head>
+	<def>
+		<dtrn>to take off (clothes)</dtrn>
+		<co>Verbs</co>
+	</def>
+</ar>
+<ar>
+	<head><k>더워</k><k>덥다</k></head>
+	<def>
+		<dtrn>to be hot</dtrn>
+		<co>Verbs</co>
+	</def>
+</ar>
+<ar>
+	<head><k>나아</k><k>낫다</k></head>
+	<def>
+		<dtrn>to get better</dtrn>
+		<co>Verbs</co>
+	</def>
+	<def>
+		<dtrn>to be better</dtrn>
+		<co>Verbs</co>
+	</def>
+</ar>
+<ar>
+	<head><k>비싸</k><k>비싸다</k></head>
+	<def>
+		<dtrn>to be expensive</dtrn>
+		<co>Verbs</co>
+	</def>
+</ar>
+<ar>
+	<head><k>매</k><k>매다</k></head>
+	<def>
+		<dtrn>to tie</dtrn>
+		<co>Verbs</co>
+	</def>
+</ar>
+<ar>
+	<head><k>쳐</k><k>치다</k></head>
+	<def>
+		<dtrn>to strike</dtrn>
+		<co>Verbs</co>
+	</def>
+	<def>
+		<dtrn>to hit</dtrn>
+		<co>Verbs</co>
+	</def>
+</ar>
+<ar>
+	<head><k>바빠</k><k>바쁘다</k></head>
+	<def>
+		<dtrn>to be busy</dtrn>
+		<co>Verbs</co>
+	</def>
+</ar>
+<ar>
+	<head><k>부러</k><k>루르다</k></head>
+	<def>
+		<dtrn>to sing</dtrn>
+		<co>Verbs</co>
+	</def>
+	<def>
+		<dtrn>to call</dtrn>
+		<co>Verbs</co>
+	</def>
+</ar>
+<ar>
+	<head><k>모라</k><k>모르다</k></head>
+	<def>
+		<dtrn>to not know</dtrn>
+		<co>Verbs</co>
+	</def>
+</ar>
+<ar>
+	<head><k>알아</k><k>알다</k></head>
+	<def>
+		<dtrn>to know</dtrn>
+		<co>Verbs</co>
+		<usage>L-extending base</usage>
+	</def>
+</ar>
+<ar>
+	<head><k>팔아</k><k>팔다</k></head>
+	<def>
+		<dtrn>to sell</dtrn>
+		<co>Verbs</co>
+		<usage>L-extending base</usage>
 	</def>
 </ar>
 </xdxf>
