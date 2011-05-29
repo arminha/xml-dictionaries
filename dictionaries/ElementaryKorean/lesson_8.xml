@@ -1,0 +1,351 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="../XDXF-draft-logical-05-to-html.xsl"?><xdxf xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="logical" lang_from="ENG" lang_to="KOR">
+<full_name>Elementary Korean</full_name>
+<description>
+	<author>Armin Häberling</author>
+</description>
+<ar>
+	<head><k>과목</k></head>
+	<def>
+		<dtrn>school subject</dtrn>
+		<co>School and Education</co>
+	</def>
+</ar>
+<ar>
+	<head><k>몇 과목을 들으세요? (들-, 듣다)</k></head>
+	<def>
+		<dtrn>How many courses are you taking?</dtrn>
+		<co>School and Education</co>
+	</def>
+</ar>
+<ar>
+	<head><k>수업</k></head>
+	<def>
+		<dtrn>a class</dtrn>
+		<co>School and Education</co>
+	</def>
+	<def>
+		<dtrn>lesson</dtrn>
+		<usage>at school</usage>
+		<co>School and Education</co>
+	</def>
+</ar>
+<ar>
+	<head><k>경제학</k></head>
+	<def>
+		<dtrn>economics</dtrn>
+		<co>School and Education</co>
+	</def>
+</ar>
+<ar>
+	<head><k>경제</k></head>
+	<def>
+		<dtrn>economy</dtrn>
+		<co>School and Education</co>
+	</def>
+</ar>
+<ar>
+	<head><k>정치학</k></head>
+	<def>
+		<dtrn>politics</dtrn>
+		<usage>as a field of science</usage>
+		<co>School and Education</co>
+	</def>
+	<def>
+		<dtrn>political science</dtrn>
+		<co>School and Education</co>
+	</def>
+</ar>
+<ar>
+	<head><k>정치</k></head>
+	<def>
+		<dtrn>politics</dtrn>
+		<co>School and Education</co>
+	</def>
+</ar>
+<ar>
+	<head><k>한국학</k></head>
+	<def>
+		<dtrn>Korean studies</dtrn>
+		<co>School and Education</co>
+	</def>
+</ar>
+<ar>
+	<head><k>... (을) 전공(을) 하-</k></head>
+	<def>
+		<dtrn>major in something</dtrn>
+		<co>School and Education</co>
+	</def>
+</ar>
+<ar>
+	<head><k>전공이 뭐에요?</k></head>
+	<def>
+		<dtrn>What's your major?</dtrn>
+		<co>School and Education</co>
+	</def>
+</ar>
+<ar>
+	<head><k>교재</k></head>
+	<def>
+		<dtrn>teaching materials</dtrn>
+		<co>School and Education</co>
+	</def>
+	<def>
+		<dtrn>textbook</dtrn>
+		<co>School and Education</co>
+	</def>
+</ar>
+<ar>
+	<head><k>대학</k></head>
+	<def>
+		<dtrn>four-year college</dtrn>
+		<co>School and Education</co>
+	</def>
+</ar>
+<ar>
+	<head><k>사랑(을) 하-</k></head>
+	<def>
+		<dtrn/>
+		<co>Verbs</co>
+	</def>
+</ar>
+<ar>
+	<head><k>야구(를) 하-</k></head>
+	<def>
+		<dtrn/>
+		<co>Verbs</co>
+	</def>
+</ar>
+<ar>
+	<head><k>야구</k></head>
+	<def>
+		<dtrn/>
+		<co>Verbs</co>
+	</def>
+</ar>
+<ar>
+	<head><k>여약(을) 하-</k></head>
+	<def>
+		<dtrn/>
+		<co>Verbs</co>
+	</def>
+</ar>
+<ar>
+	<head><k>여약</k></head>
+	<def>
+		<dtrn/>
+		<co>Verbs</co>
+	</def>
+</ar>
+<ar>
+	<head><k>통화(를) 하-</k></head>
+	<def>
+		<dtrn/>
+		<co>Verbs</co>
+	</def>
+</ar>
+<ar>
+	<head><k>수영(을) 하-</k></head>
+	<def>
+		<dtrn/>
+		<co>Verbs</co>
+	</def>
+</ar>
+<ar>
+	<head><k>수영장</k></head>
+	<def>
+		<dtrn/>
+		<co>Verbs</co>
+	</def>
+</ar>
+<ar>
+	<head><k>청소(를) 하-</k></head>
+	<def>
+		<dtrn/>
+		<co>Verbs</co>
+	</def>
+</ar>
+<ar>
+	<head><k>...(을) 좋아하-</k></head>
+	<def>
+		<dtrn/>
+		<co>Verbs</co>
+	</def>
+</ar>
+<ar>
+	<head><k>나쁘-</k></head>
+	<def>
+		<dtrn/>
+		<co>Verbs</co>
+	</def>
+</ar>
+<ar>
+	<head><k>깨꿋하-</k></head>
+	<def>
+		<dtrn/>
+		<co>Verbs</co>
+	</def>
+</ar>
+<ar>
+	<head><k>깨꿋이</k></head>
+	<def>
+		<dtrn/>
+		<co>Verbs</co>
+	</def>
+</ar>
+<ar>
+	<head><k>같-</k></head>
+	<def>
+		<dtrn/>
+		<co>Verbs</co>
+	</def>
+</ar>
+<ar>
+	<head><k>같이 (가치)</k></head>
+	<def>
+		<dtrn/>
+		<co>Verbs</co>
+	</def>
+</ar>
+<ar>
+	<head><k>깎-</k></head>
+	<def>
+		<dtrn/>
+		<co>Verbs</co>
+	</def>
+</ar>
+<ar>
+	<head><k>연필을 깎아요</k></head>
+	<def>
+		<dtrn/>
+		<co>Verbs</co>
+	</def>
+</ar>
+<ar>
+	<head><k>머리를 깎아요</k></head>
+	<def>
+		<dtrn/>
+		<co>Verbs</co>
+	</def>
+</ar>
+<ar>
+	<head><k>머리(를) 자르-</k></head>
+	<def>
+		<dtrn/>
+		<co>Verbs</co>
+	</def>
+</ar>
+<ar>
+	<head><k>어려w-</k></head>
+	<def>
+		<dtrn/>
+		<co>Verbs</co>
+	</def>
+</ar>
+<ar>
+	<head><k>쉬w-</k></head>
+	<def>
+		<dtrn/>
+		<co>Verbs</co>
+	</def>
+</ar>
+<ar>
+	<head><k>착하-</k></head>
+	<def>
+		<dtrn/>
+		<co>Verbs</co>
+	</def>
+</ar>
+<ar>
+	<head><k/></head>
+	<def>
+		<dtrn/>
+		<co>Verbs</co>
+	</def>
+</ar>
+<ar>
+	<head><k/></head>
+	<def>
+		<dtrn/>
+		<co>Verbs</co>
+	</def>
+</ar>
+<ar>
+	<head><k/></head>
+	<def>
+		<dtrn/>
+		<co>Verbs</co>
+	</def>
+</ar>
+<ar>
+	<head><k/></head>
+	<def>
+		<dtrn/>
+		<co>Verbs</co>
+	</def>
+</ar>
+<ar>
+	<head><k/></head>
+	<def>
+		<dtrn/>
+		<co>Verbs</co>
+	</def>
+</ar>
+<ar>
+	<head><k/></head>
+	<def>
+		<dtrn/>
+		<co>Verbs</co>
+	</def>
+</ar>
+<ar>
+	<head><k/></head>
+	<def>
+		<dtrn/>
+		<co>Verbs</co>
+	</def>
+</ar>
+<ar>
+	<head><k/></head>
+	<def>
+		<dtrn/>
+		<co>Verbs</co>
+	</def>
+</ar>
+<ar>
+	<head><k/></head>
+	<def>
+		<dtrn/>
+		<co>Verbs</co>
+	</def>
+</ar>
+<ar>
+	<head><k/></head>
+	<def>
+		<dtrn/>
+		<co>Verbs</co>
+	</def>
+</ar>
+<ar>
+	<head><k/></head>
+	<def>
+		<dtrn/>
+		<co>Verbs</co>
+	</def>
+</ar>
+<ar>
+	<head><k/></head>
+	<def>
+		<dtrn/>
+		<co>Verbs</co>
+	</def>
+</ar>
+<ar>
+	<head><k/></head>
+	<def>
+		<dtrn/>
+		<usage/>
+		<co/>
+		<style/>
+	</def>
+</ar>
+</xdxf>
