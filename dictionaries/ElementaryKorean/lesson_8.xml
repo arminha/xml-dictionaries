@@ -123,14 +123,14 @@
 	</def>
 </ar>
 <ar>
-	<head><k>여약(을) 하-</k></head>
+	<head><k>예약(을) 하-</k></head>
 	<def>
 		<dtrn>make a reservation</dtrn>
 		<co>Verbs</co>
 	</def>
 </ar>
 <ar>
-	<head><k>여약</k></head>
+	<head><k>예약</k></head>
 	<def>
 		<dtrn>reservation</dtrn>
 		<co>Verbs</co>
@@ -288,168 +288,225 @@
 <ar>
 	<head><k>말(을) 들- (듣다)</k></head>
 	<def>
-		<dtrn/>
+		<dtrn>obey (listen to words)</dtrn>
 		<co>Verbs</co>
 	</def>
 </ar>
 <ar>
 	<head><k>말을 잘 들어요.</k></head>
 	<def>
-		<dtrn/>
+		<dtrn>Obeys well.</dtrn>
 		<co>Verbs</co>
 	</def>
 </ar>
 <ar>
 	<head><k>약(을) 먹-</k></head>
 	<def>
-		<dtrn/>
+		<dtrn>take (eat) medicine</dtrn>
 		<co>Verbs</co>
 	</def>
 </ar>
 <ar>
 	<head><k>약</k></head>
 	<def>
-		<dtrn/>
+		<dtrn>medicine</dtrn>
 		<co>Verbs</co>
 	</def>
 </ar>
 <ar>
 	<head><k>쓰-</k></head>
 	<def>
-		<dtrn/>
+		<dtrn>use</dtrn>
 		<co>Verbs</co>
 	</def>
 </ar>
 <ar>
 	<head><k>싸-</k></head>
 	<def>
-		<dtrn/>
+		<dtrn>be cheap</dtrn>
+		<co>Verbs</co>
+	</def>
+	<def>
+		<dtrn>be inexpensive</dtrn>
 		<co>Verbs</co>
 	</def>
 </ar>
 <ar>
 	<head><k>힙(이) 드-ㄹ-</k></head>
 	<def>
-		<dtrn/>
+		<dtrn>be difficult</dtrn>
+		<co>Verbs</co>
+	</def>
+	<def>
+		<dtrn>be taxing</dtrn>
 		<co>Verbs</co>
 	</def>
 </ar>
 <ar>
 	<head><k>힙</k></head>
 	<def>
-		<dtrn/>
+		<dtrn>strength</dtrn>
+		<co>Verbs</co>
+	</def>
+	<def>
+		<dtrn>energy</dtrn>
 		<co>Verbs</co>
 	</def>
 </ar>
 <ar>
 	<head><k>오늘은 힙이 없어요.</k></head>
 	<def>
-		<dtrn/>
+		<dtrn>I have no energy today.</dtrn>
 		<co>Verbs</co>
 	</def>
 </ar>
 <ar>
 	<head><k>괜찮-</k></head>
 	<def>
-		<dtrn/>
+		<dtrn>be all right</dtrn>
+		<co>Verbs</co>
+	</def>
+	<def>
+		<dtrn>be OK</dtrn>
 		<co>Verbs</co>
 	</def>
 </ar>
 <ar>
 	<head><k>돼요.</k></head>
 	<def>
-		<dtrn/>
+		<dtrn>It's OK.</dtrn>
+		<co>Verbs</co>
+	</def>
+	<def>
+		<dtrn>It'll do.</dtrn>
 		<co>Verbs</co>
 	</def>
 </ar>
 <ar>
 	<head><k>안 돼요.</k></head>
 	<def>
-		<dtrn/>
+		<dtrn>It's not OK.</dtrn>
+		<co>Verbs</co>
+	</def>
+	<def>
+		<dtrn>It won't do.</dtrn>
+		<co>Verbs</co>
+	</def>
+	<def>
+		<dtrn>One mustn't do it.</dtrn>
 		<co>Verbs</co>
 	</def>
 </ar>
 <ar>
 	<head><k>잘 돼요.</k></head>
 	<def>
-		<dtrn/>
+		<dtrn>It's going well.</dtrn>
+		<co>Verbs</co>
+	</def>
+	<def>
+		<dtrn>It's turning out well.</dtrn>
 		<co>Verbs</co>
 	</def>
 </ar>
 <ar>
-	<head><k>잘 안 좨요.</k></head>
+	<head><k>잘 안 돼요.</k></head>
 	<def>
-		<dtrn/>
+		<dtrn>It's not going well.</dtrn>
 		<co>Verbs</co>
 	</def>
 </ar>
 <ar>
 	<head><k>머-ㄹ-</k></head>
 	<def>
-		<dtrn/>
+		<dtrn>be distant</dtrn>
+		<co>Verbs</co>
+	</def>
+	<def>
+		<dtrn>be far</dtrn>
 		<co>Verbs</co>
 	</def>
 </ar>
 <ar>
 	<head><k>여기서 멀어요?</k></head>
 	<def>
-		<dtrn/>
+		<dtrn>Is it far from here?</dtrn>
 		<co>Verbs</co>
 	</def>
 </ar>
 <ar>
 	<head><k>네, 한 시간 걸려요.</k></head>
 	<def>
-		<dtrn/>
+		<dtrn>Yes, it takes an hour.</dtrn>
 		<co>Verbs</co>
 	</def>
 </ar>
 <ar>
 	<head><k>알아 들-</k></head>
 	<def>
-		<dtrn/>
+		<dtrn>understand [spoken words]</dtrn>
 		<co>Verbs</co>
+	</def>
+	<def>
+		<dtrn>catch something said</dtrn>
+		<co>Verbs</co>
+		<usage>Literally: hearing after having understood</usage>
 	</def>
 </ar>
 <ar>
 	<head><k>부탁(을) 하-</k></head>
 	<def>
-		<dtrn/>
+		<dtrn>make a request</dtrn>
+		<co>Verbs</co>
+	</def>
+	<def>
+		<dtrn>ask a favor/errand</dtrn>
 		<co>Verbs</co>
 	</def>
 </ar>
 <ar>
 	<head><k>부탁</k></head>
 	<def>
-		<dtrn/>
+		<dtrn>a request</dtrn>
+		<co>Verbs</co>
+	</def>
+	<def>
+		<dtrn>a favor</dtrn>
 		<co>Verbs</co>
 	</def>
 </ar>
 <ar>
 	<head><k>PERSON 한테 부탁(을) 하-</k></head>
 	<def>
-		<dtrn/>
+		<dtrn>ask somebody for a favor</dtrn>
 		<co>Verbs</co>
 	</def>
 </ar>
 <ar>
 	<head><k>PERSON 한테 부탁(이) 있-</k></head>
 	<def>
-		<dtrn/>
+		<dtrn>have a favor to ask somebody</dtrn>
 		<co>Verbs</co>
 	</def>
 </ar>
 <ar>
 	<head><k>부탁해요.</k></head>
 	<def>
-		<dtrn/>
+		<dtrn>Please, I beg you.</dtrn>
+		<co>Verbs</co>
+	</def>
+	<def>
+		<dtrn>I'm counting on you.</dtrn>
+		<co>Verbs</co>
+	</def>
+	<def>
+		<dtrn>Please do it for me.</dtrn>
 		<co>Verbs</co>
 	</def>
 </ar>
 <ar>
 	<head><k>만호 씨 한테 부탁 하나 있어요.</k></head>
 	<def>
-		<dtrn/>
+		<dtrn>Manho, I have a favor to ask of you.</dtrn>
 		<co>Verbs</co>
 	</def>
 </ar>
