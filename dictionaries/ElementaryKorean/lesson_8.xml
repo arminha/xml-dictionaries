@@ -511,10 +511,262 @@
 	</def>
 </ar>
 <ar>
-	<head><k/></head>
+	<head><k>집수시-</k></head>
 	<def>
 		<dtrn/>
 		<co>Some Honorific Bases</co>
+	</def>
+</ar>
+<ar>
+	<head><k>고기 더 잡수세요.</k></head>
+	<def>
+		<dtrn/>
+		<co>Some Honorific Bases</co>
+	</def>
+</ar>
+<ar>
+	<head><k>고기 더 벅어요.</k></head>
+	<def>
+		<dtrn/>
+		<co>Some Honorific Bases</co>
+	</def>
+</ar>
+<ar>
+	<head><k>주무시-</k></head>
+	<def>
+		<dtrn/>
+		<co>Some Honorific Bases</co>
+	</def>
+</ar>
+<ar>
+	<head><k>안녀히 주무세요.</k></head>
+	<def>
+		<dtrn/>
+		<co>Some Honorific Bases</co>
+	</def>
+</ar>
+<ar>
+	<head><k>잘 자요.</k></head>
+	<def>
+		<dtrn/>
+		<co>Some Honorific Bases</co>
+	</def>
+</ar>
+<ar>
+	<head><k>잘 자.</k></head>
+	<def>
+		<dtrn/>
+		<co>Some Honorific Bases</co>
+	</def>
+</ar>
+<ar>
+	<head><k>계시-</k></head>
+	<def>
+		<dtrn/>
+		<co>Some Honorific Bases</co>
+	</def>
+</ar>
+<ar>
+	<head><k>교수님 계세요?</k></head>
+	<def>
+		<dtrn/>
+		<co>Some Honorific Bases</co>
+	</def>
+</ar>
+<ar>
+	<head><k>민호 씨 있어요?</k></head>
+	<def>
+		<dtrn/>
+		<co>Some Honorific Bases</co>
+	</def>
+</ar>
+<ar>
+	<head><k>드시-</k></head>
+	<def>
+		<dtrn/>
+		<co>Some Honorific Bases</co>
+	</def>
+</ar>
+<ar>
+	<head><k>자, 많이 드세요.</k></head>
+	<def>
+		<dtrn/>
+		<co>Some Honorific Bases</co>
+	</def>
+</ar>
+<ar>
+	<head><k>자, 많이 먹어요.</k></head>
+	<def>
+		<dtrn/>
+		<co>Some Honorific Bases</co>
+	</def>
+</ar>
+<ar>
+	<head><k>자, 많이 벅어.</k></head>
+	<def>
+		<dtrn/>
+		<co>Some Honorific Bases</co>
+	</def>
+</ar>
+<ar>
+	<head><k>좀</k></head>
+	<def>
+		<dtrn/>
+		<co>Frequency and Quantity</co>
+	</def>
+</ar>
+<ar>
+	<head><k>늘</k></head>
+	<def>
+		<dtrn/>
+		<co>Frequency and Quantity</co>
+	</def>
+</ar>
+<ar>
+	<head><k>항상</k></head>
+	<def>
+		<dtrn/>
+		<co>Frequency and Quantity</co>
+	</def>
+</ar>
+<ar>
+	<head><k>언제나</k></head>
+	<def>
+		<dtrn/>
+		<co>Frequency and Quantity</co>
+	</def>
+</ar>
+<ar>
+	<head><k>주로</k></head>
+	<def>
+		<dtrn/>
+		<co>Frequency and Quantity</co>
+	</def>
+</ar>
+<ar>
+	<head><k>가끔</k></head>
+	<def>
+		<dtrn/>
+		<co>Frequency and Quantity</co>
+	</def>
+</ar>
+<ar>
+	<head><k>자주</k></head>
+	<def>
+		<dtrn/>
+		<co>Frequency and Quantity</co>
+	</def>
+</ar>
+<ar>
+	<head><k>매일</k></head>
+	<def>
+		<dtrn/>
+		<co>Frequency and Quantity</co>
+	</def>
+</ar>
+<ar>
+	<head><k>열심히</k></head>
+	<def>
+		<dtrn/>
+		<co>Frequency and Quantity</co>
+	</def>
+</ar>
+<ar>
+	<head><k>공부를 열심히 해요.</k></head>
+	<def>
+		<dtrn/>
+		<co>Frequency and Quantity</co>
+	</def>
+</ar>
+<ar>
+	<head><k>아직</k></head>
+	<def>
+		<dtrn/>
+		<co>Adverbs</co>
+	</def>
+</ar>
+<ar>
+	<head><k>먼저</k></head>
+	<def>
+		<dtrn/>
+		<co>Adverbs</co>
+	</def>
+</ar>
+<ar>
+	<head><k>함께</k></head>
+	<def>
+		<dtrn/>
+		<co>Adverbs</co>
+	</def>
+</ar>
+<ar>
+	<head><k>PERSON하고 함께</k></head>
+	<def>
+		<dtrn/>
+		<co>Adverbs</co>
+	</def>
+</ar>
+<ar>
+	<head><k>참</k></head>
+	<def>
+		<dtrn/>
+		<co>Adverbs</co>
+	</def>
+</ar>
+<ar>
+	<head><k>정말(로)</k></head>
+	<def>
+		<dtrn/>
+		<co>Adverbs</co>
+	</def>
+</ar>
+<ar>
+	<head><k>정말이에요?</k></head>
+	<def>
+		<dtrn/>
+		<co>Adverbs</co>
+	</def>
+</ar>
+<ar>
+	<head><k>정말로 커요.</k></head>
+	<def>
+		<dtrn/>
+		<co>Adverbs</co>
+	</def>
+</ar>
+<ar>
+	<head><k>정열적(으로)</k></head>
+	<def>
+		<dtrn/>
+		<co>Adverbs</co>
+	</def>
+</ar>
+<ar>
+	<head><k>천천히</k></head>
+	<def>
+		<dtrn/>
+		<co>Adverbs</co>
+	</def>
+</ar>
+<ar>
+	<head><k>너무</k></head>
+	<def>
+		<dtrn/>
+		<co>Adverbs</co>
+	</def>
+</ar>
+<ar>
+	<head><k>언젠가</k></head>
+	<def>
+		<dtrn/>
+		<co>Adverbs</co>
+	</def>
+</ar>
+<ar>
+	<head><k/></head>
+	<def>
+		<dtrn/>
+		<co>Nouns</co>
 	</def>
 </ar>
 <ar>
