@@ -511,254 +511,331 @@
 	</def>
 </ar>
 <ar>
-	<head><k>집수시-</k></head>
+	<head><k>잡수시-</k></head>
 	<def>
-		<dtrn/>
+		<dtrn>eat (honorific)</dtrn>
 		<co>Some Honorific Bases</co>
 	</def>
 </ar>
 <ar>
 	<head><k>고기 더 잡수세요.</k></head>
 	<def>
-		<dtrn/>
+		<dtrn>Please eat some more meat.</dtrn>
 		<co>Some Honorific Bases</co>
+		<usage>to a guest, your parents, etc.</usage>
 	</def>
 </ar>
 <ar>
 	<head><k>고기 더 벅어요.</k></head>
 	<def>
-		<dtrn/>
+		<dtrn>Please eat some more meat.</dtrn>
 		<co>Some Honorific Bases</co>
+		<usage>to a friend you usually call 씨</usage>
 	</def>
 </ar>
 <ar>
 	<head><k>주무시-</k></head>
 	<def>
-		<dtrn/>
+		<dtrn>sleep (honorific)</dtrn>
 		<co>Some Honorific Bases</co>
 	</def>
 </ar>
 <ar>
 	<head><k>안녀히 주무세요.</k></head>
 	<def>
-		<dtrn/>
+		<dtrn>Good night</dtrn>
 		<co>Some Honorific Bases</co>
+		<usage>to somebody esteemed, e.g., your parents</usage>
 	</def>
 </ar>
 <ar>
 	<head><k>잘 자요.</k></head>
 	<def>
-		<dtrn/>
+		<dtrn>Good night</dtrn>
 		<co>Some Honorific Bases</co>
+		<usage>to a friend you usually call 씨</usage>
 	</def>
 </ar>
 <ar>
 	<head><k>잘 자.</k></head>
 	<def>
-		<dtrn/>
+		<dtrn>Good night</dtrn>
 		<co>Some Honorific Bases</co>
+		<usage>your parents to you; you to a close friend or younger sibling</usage>
 	</def>
 </ar>
 <ar>
 	<head><k>계시-</k></head>
 	<def>
-		<dtrn/>
+		<dtrn>be</dtrn>
+		<co>Some Honorific Bases</co>
+	</def>
+	<def>
+		<dtrn>exists</dtrn>
+		<co>Some Honorific Bases</co>
+	</def>
+	<def>
+		<dtrn>stay (honorific)</dtrn>
 		<co>Some Honorific Bases</co>
 	</def>
 </ar>
 <ar>
 	<head><k>교수님 계세요?</k></head>
 	<def>
-		<dtrn/>
+		<dtrn>Is the professor at home?</dtrn>
 		<co>Some Honorific Bases</co>
 	</def>
 </ar>
 <ar>
 	<head><k>민호 씨 있어요?</k></head>
 	<def>
-		<dtrn/>
+		<dtrn>Is Manho at home?</dtrn>
 		<co>Some Honorific Bases</co>
 	</def>
 </ar>
 <ar>
 	<head><k>드시-</k></head>
 	<def>
-		<dtrn/>
+		<dtrn>eat</dtrn>
+		<co>Some Honorific Bases</co>
+	</def>
+	<def>
+		<dtrn>drink (honorific)</dtrn>
 		<co>Some Honorific Bases</co>
 	</def>
 </ar>
 <ar>
 	<head><k>자, 많이 드세요.</k></head>
 	<def>
-		<dtrn/>
+		<dtrn>Well the, bon appetit. [eat up, please eat a lot]</dtrn>
 		<co>Some Honorific Bases</co>
+		<usage>to a guest, your parents, etc.</usage>
 	</def>
 </ar>
 <ar>
 	<head><k>자, 많이 먹어요.</k></head>
 	<def>
-		<dtrn/>
+		<dtrn>Well then, bon appetit.</dtrn>
 		<co>Some Honorific Bases</co>
+		<usage>to a friend you usually call 씨</usage>
 	</def>
 </ar>
 <ar>
 	<head><k>자, 많이 벅어.</k></head>
 	<def>
-		<dtrn/>
+		<dtrn>Well then, bon appetit.</dtrn>
 		<co>Some Honorific Bases</co>
+		<usage>your parents to you; you to a close friend or younger sibling</usage>
 	</def>
 </ar>
 <ar>
 	<head><k>좀</k></head>
 	<def>
-		<dtrn/>
+		<dtrn>a little</dtrn>
 		<co>Frequency and Quantity</co>
+	</def>
+	<def>
+		<dtrn>please</dtrn>
+		<co>Frequency and Quantity</co>
+		<usage>to soften a request or command</usage>
 	</def>
 </ar>
 <ar>
 	<head><k>늘</k></head>
 	<def>
-		<dtrn/>
+		<dtrn>always</dtrn>
+		<co>Frequency and Quantity</co>
+	</def>
+	<def>
+		<dtrn>all the time</dtrn>
+		<co>Frequency and Quantity</co>
+	</def>
+	<def>
+		<dtrn>continuously</dtrn>
 		<co>Frequency and Quantity</co>
 	</def>
 </ar>
 <ar>
 	<head><k>항상</k></head>
 	<def>
-		<dtrn/>
+		<dtrn>always</dtrn>
+		<co>Frequency and Quantity</co>
+	</def>
+	<def>
+		<dtrn>at all times</dtrn>
+		<co>Frequency and Quantity</co>
+	</def>
+	<def>
+		<dtrn>habitually</dtrn>
 		<co>Frequency and Quantity</co>
 	</def>
 </ar>
 <ar>
 	<head><k>언제나</k></head>
 	<def>
-		<dtrn/>
+		<dtrn>always</dtrn>
 		<co>Frequency and Quantity</co>
 	</def>
 </ar>
 <ar>
 	<head><k>주로</k></head>
 	<def>
-		<dtrn/>
+		<dtrn>mainly</dtrn>
+		<co>Frequency and Quantity</co>
+	</def>
+	<def>
+		<dtrn>for the most part</dtrn>
 		<co>Frequency and Quantity</co>
 	</def>
 </ar>
 <ar>
 	<head><k>가끔</k></head>
 	<def>
-		<dtrn/>
+		<dtrn>sometimes</dtrn>
 		<co>Frequency and Quantity</co>
 	</def>
 </ar>
 <ar>
 	<head><k>자주</k></head>
 	<def>
-		<dtrn/>
+		<dtrn>often</dtrn>
 		<co>Frequency and Quantity</co>
 	</def>
 </ar>
 <ar>
 	<head><k>매일</k></head>
 	<def>
-		<dtrn/>
+		<dtrn>every day</dtrn>
 		<co>Frequency and Quantity</co>
 	</def>
 </ar>
 <ar>
 	<head><k>열심히</k></head>
 	<def>
-		<dtrn/>
+		<dtrn>diligently</dtrn>
+		<co>Frequency and Quantity</co>
+	</def>
+	<def>
+		<dtrn>very hard</dtrn>
 		<co>Frequency and Quantity</co>
 	</def>
 </ar>
 <ar>
 	<head><k>공부를 열심히 해요.</k></head>
 	<def>
-		<dtrn/>
+		<dtrn>She studies hard/diligently.</dtrn>
 		<co>Frequency and Quantity</co>
 	</def>
 </ar>
 <ar>
 	<head><k>아직</k></head>
 	<def>
-		<dtrn/>
+		<dtrn>(not) yet</dtrn>
+		<co>Adverbs</co>
+	</def>
+	<def>
+		<dtrn>still</dtrn>
 		<co>Adverbs</co>
 	</def>
 </ar>
 <ar>
 	<head><k>먼저</k></head>
 	<def>
-		<dtrn/>
+		<dtrn>first (of all)</dtrn>
+		<co>Adverbs</co>
+	</def>
+	<def>
+		<dtrn>before anything else</dtrn>
 		<co>Adverbs</co>
 	</def>
 </ar>
 <ar>
 	<head><k>함께</k></head>
 	<def>
-		<dtrn/>
+		<dtrn>together</dtrn>
 		<co>Adverbs</co>
 	</def>
 </ar>
 <ar>
 	<head><k>PERSON하고 함께</k></head>
 	<def>
-		<dtrn/>
+		<dtrn>(together) with a person</dtrn>
 		<co>Adverbs</co>
 	</def>
 </ar>
 <ar>
 	<head><k>참</k></head>
 	<def>
-		<dtrn/>
+		<dtrn>truly</dtrn>
+		<co>Adverbs</co>
+	</def>
+	<def>
+		<dtrn>really</dtrn>
 		<co>Adverbs</co>
 	</def>
 </ar>
 <ar>
 	<head><k>정말(로)</k></head>
 	<def>
-		<dtrn/>
+		<dtrn>the truth (truly, really)</dtrn>
 		<co>Adverbs</co>
 	</def>
 </ar>
 <ar>
 	<head><k>정말이에요?</k></head>
 	<def>
-		<dtrn/>
+		<dtrn>Really? Is it true?</dtrn>
 		<co>Adverbs</co>
 	</def>
 </ar>
 <ar>
 	<head><k>정말로 커요.</k></head>
 	<def>
-		<dtrn/>
+		<dtrn>Is it really/truly large.</dtrn>
 		<co>Adverbs</co>
 	</def>
 </ar>
 <ar>
 	<head><k>정열적(으로)</k></head>
 	<def>
-		<dtrn/>
+		<dtrn>passionate(ly)</dtrn>
 		<co>Adverbs</co>
 	</def>
 </ar>
 <ar>
 	<head><k>천천히</k></head>
 	<def>
-		<dtrn/>
+		<dtrn>slowly</dtrn>
 		<co>Adverbs</co>
 	</def>
 </ar>
 <ar>
 	<head><k>너무</k></head>
 	<def>
-		<dtrn/>
+		<dtrn>too much so</dtrn>
+		<co>Adverbs</co>
+	</def>
+	<def>
+		<dtrn>too</dtrn>
+		<co>Adverbs</co>
+	</def>
+	<def>
+		<dtrn>very [to any excessive degree]</dtrn>
 		<co>Adverbs</co>
 	</def>
 </ar>
 <ar>
 	<head><k>언젠가</k></head>
 	<def>
-		<dtrn/>
+		<dtrn>sometime or other</dtrn>
+		<co>Adverbs</co>
+	</def>
+	<def>
+		<dtrn>at one time</dtrn>
+		<co>Adverbs</co>
+	</def>
+	<def>
+		<dtrn>some time ago</dtrn>
 		<co>Adverbs</co>
 	</def>
 </ar>
