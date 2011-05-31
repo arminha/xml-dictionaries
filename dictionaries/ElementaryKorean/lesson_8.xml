@@ -840,19 +840,283 @@
 	</def>
 </ar>
 <ar>
-	<head><k/></head>
+	<head><k>버스</k><k>뻐스</k></head>
 	<def>
 		<dtrn/>
 		<co>Nouns</co>
 	</def>
 </ar>
 <ar>
-	<head><k/></head>
+	<head><k>런던</k></head>
 	<def>
 		<dtrn/>
-		<usage/>
-		<co/>
-		<style/>
+		<co>Nouns</co>
+	</def>
+</ar>
+<ar>
+	<head><k>잔화</k></head>
+	<def>
+		<dtrn/>
+		<co>Nouns</co>
+	</def>
+</ar>
+<ar>
+	<head><k>전화(를) 하-</k></head>
+	<def>
+		<dtrn/>
+		<co>Nouns</co>
+	</def>
+</ar>
+<ar>
+	<head><k>뉴욕</k></head>
+	<def>
+		<dtrn/>
+		<co>Nouns</co>
+	</def>
+</ar>
+<ar>
+	<head><k>다른 NOUN</k></head>
+	<def>
+		<dtrn/>
+		<co>Nouns</co>
+	</def>
+</ar>
+<ar>
+	<head><k>교회</k></head>
+	<def>
+		<dtrn/>
+		<co>Nouns</co>
+	</def>
+</ar>
+<ar>
+	<head><k>교회에 나가세요?</k></head>
+	<def>
+		<dtrn/>
+		<co>Nouns</co>
+	</def>
+</ar>
+<ar>
+	<head><k>나가-</k></head>
+	<def>
+		<dtrn/>
+		<co>Nouns</co>
+	</def>
+</ar>
+<ar>
+	<head><k>성당</k></head>
+	<def>
+		<dtrn/>
+		<co>Nouns</co>
+	</def>
+</ar>
+<ar>
+	<head><k>신용카드</k></head>
+	<def>
+		<dtrn/>
+		<co>Nouns</co>
+	</def>
+</ar>
+<ar>
+	<head><k>성</k></head>
+	<def>
+		<dtrn/>
+		<co>Nouns</co>
+	</def>
+</ar>
+<ar>
+	<head><k>성씨</k></head>
+	<def>
+		<dtrn/>
+		<co>Nouns</co>
+	</def>
+</ar>
+<ar>
+	<head><k>이름</k></head>
+	<def>
+		<dtrn/>
+		<co>Nouns</co>
+	</def>
+</ar>
+<ar>
+	<head><k>성함</k></head>
+	<def>
+		<dtrn/>
+		<co>Nouns</co>
+	</def>
+</ar>
+<ar>
+	<head><k>성함이 어떻게 되세요?</k></head>
+	<def>
+		<dtrn/>
+		<co>Nouns</co>
+	</def>
+</ar>
+<ar>
+	<head><k>머리</k></head>
+	<def>
+		<dtrn/>
+		<co>Nouns</co>
+	</def>
+</ar>
+<ar>
+	<head><k>머리(가) 좋아요.</k></head>
+	<def>
+		<dtrn/>
+		<co>Nouns</co>
+	</def>
+</ar>
+<ar>
+	<head><k>머리(가) 좋아요.</k></head>
+	<def>
+		<dtrn/>
+		<co>Nouns</co>
+	</def>
+</ar>
+<ar>
+	<head><k>회화</k></head>
+	<def>
+		<dtrn/>
+		<co>Nouns</co>
+	</def>
+</ar>
+<ar>
+	<head><k>영어회화책</k></head>
+	<def>
+		<dtrn/>
+		<co>Nouns</co>
+	</def>
+</ar>
+<ar>
+	<head><k>말씀</k></head>
+	<def>
+		<dtrn/>
+		<co>Nouns</co>
+	</def>
+</ar>
+<ar>
+	<head><k>말씀하세요.</k></head>
+	<def>
+		<dtrn/>
+		<co>Nouns</co>
+	</def>
+</ar>
+<ar>
+	<head><k>한국어</k></head>
+	<def>
+		<dtrn/>
+		<co>Nouns</co>
+	</def>
+</ar>
+<ar>
+	<head><k>국립 NOUN</k></head>
+	<def>
+		<dtrn/>
+		<co>Nouns</co>
+	</def>
+</ar>
+<ar>
+	<head><k>국립대학교</k></head>
+	<def>
+		<dtrn/>
+		<co>Nouns</co>
+	</def>
+</ar>
+<ar>
+	<head><k>주</k></head>
+	<def>
+		<dtrn/>
+		<co>Nouns</co>
+	</def>
+</ar>
+<ar>
+	<head><k>미네소타주</k></head>
+	<def>
+		<dtrn/>
+		<co>Nouns</co>
+	</def>
+</ar>
+<ar>
+	<head><k>주립 NOUN</k></head>
+	<def>
+		<dtrn/>
+		<co>Nouns</co>
+	</def>
+</ar>
+<ar>
+	<head><k>부립대학교</k></head>
+	<def>
+		<dtrn/>
+		<co>Nouns</co>
+	</def>
+</ar>
+<ar>
+	<head><k>사립 NOUN</k></head>
+	<def>
+		<dtrn/>
+		<co>Nouns</co>
+	</def>
+</ar>
+<ar>
+	<head><k>사립데학교</k></head>
+	<def>
+		<dtrn/>
+		<co>Nouns</co>
+	</def>
+</ar>
+<ar>
+	<head><k>교환</k></head>
+	<def>
+		<dtrn/>
+		<co>Nouns</co>
+	</def>
+</ar>
+<ar>
+	<head><k>교환학생</k></head>
+	<def>
+		<dtrn/>
+		<co>Nouns</co>
+	</def>
+</ar>
+<ar>
+	<head><k>교환교수</k></head>
+	<def>
+		<dtrn/>
+		<co>Nouns</co>
+	</def>
+</ar>
+<ar>
+	<head><k>교환교수</k></head>
+	<def>
+		<dtrn/>
+		<co>Nouns</co>
+	</def>
+</ar>
+<ar>
+	<head><k>교환원</k></head>
+	<def>
+		<dtrn/>
+		<co>Nouns</co>
+	</def>
+</ar>
+<ar>
+	<head><k>쥬스</k></head>
+	<def>
+		<dtrn/>
+		<co>Nouns</co>
+	</def>
+</ar>
+<ar>
+	<head><k>오렌지 쥬스</k></head>
+	<def>
+		<dtrn/>
+		<co>Nouns</co>
+	</def>
+</ar>
+<ar>
+	<head><k>토마토 쥬스</k></head>
+	<def>
+		<dtrn/>
+		<co>Nouns</co>
 	</def>
 </ar>
 </xdxf>
