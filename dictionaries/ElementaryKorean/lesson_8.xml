@@ -187,14 +187,14 @@
 	</def>
 </ar>
 <ar>
-	<head><k>깨꿋하-</k></head>
+	<head><k>깨끗하-</k></head>
 	<def>
 		<dtrn>be clean</dtrn>
 		<co>Verbs</co>
 	</def>
 </ar>
 <ar>
-	<head><k>깨꿋이</k></head>
+	<head><k>깨끗이</k></head>
 	<def>
 		<dtrn>neatly</dtrn>
 		<co>Verbs</co>
@@ -332,7 +332,7 @@
 	</def>
 </ar>
 <ar>
-	<head><k>힙(이) 드-ㄹ-</k></head>
+	<head><k>힘(이) 드-ㄹ-</k></head>
 	<def>
 		<dtrn>be difficult</dtrn>
 		<co>Verbs</co>
@@ -343,7 +343,7 @@
 	</def>
 </ar>
 <ar>
-	<head><k>힙</k></head>
+	<head><k>힘</k></head>
 	<def>
 		<dtrn>strength</dtrn>
 		<co>Verbs</co>
@@ -354,7 +354,7 @@
 	</def>
 </ar>
 <ar>
-	<head><k>오늘은 힙이 없어요.</k></head>
+	<head><k>오늘은 힘이 없어요.</k></head>
 	<def>
 		<dtrn>I have no energy today.</dtrn>
 		<co>Verbs</co>
@@ -526,7 +526,7 @@
 	</def>
 </ar>
 <ar>
-	<head><k>고기 더 벅어요.</k></head>
+	<head><k>고기 더 먹어요.</k></head>
 	<def>
 		<dtrn>Please eat some more meat.</dtrn>
 		<co>Some Honorific Bases</co>
@@ -541,7 +541,7 @@
 	</def>
 </ar>
 <ar>
-	<head><k>안녀히 주무세요.</k></head>
+	<head><k>안녕히 주무세요.</k></head>
 	<def>
 		<dtrn>Good night</dtrn>
 		<co>Some Honorific Bases</co>
@@ -587,7 +587,7 @@
 	</def>
 </ar>
 <ar>
-	<head><k>민호 씨 있어요?</k></head>
+	<head><k>만호 씨 있어요?</k></head>
 	<def>
 		<dtrn>Is Manho at home?</dtrn>
 		<co>Some Honorific Bases</co>
@@ -621,7 +621,7 @@
 	</def>
 </ar>
 <ar>
-	<head><k>자, 많이 벅어.</k></head>
+	<head><k>자, 많이 먹어.</k></head>
 	<def>
 		<dtrn>Well then, bon appetit.</dtrn>
 		<co>Some Honorific Bases</co>
@@ -854,7 +854,7 @@
 	</def>
 </ar>
 <ar>
-	<head><k>잔화</k></head>
+	<head><k>전화</k></head>
 	<def>
 		<dtrn/>
 		<co>Nouns</co>
@@ -966,7 +966,7 @@
 	</def>
 </ar>
 <ar>
-	<head><k>머리(가) 좋아요.</k></head>
+	<head><k>머리(가) 나빠요.</k></head>
 	<def>
 		<dtrn/>
 		<co>Nouns</co>
@@ -1043,7 +1043,7 @@
 	</def>
 </ar>
 <ar>
-	<head><k>부립대학교</k></head>
+	<head><k>주립대학교</k></head>
 	<def>
 		<dtrn/>
 		<co>Nouns</co>
@@ -1072,13 +1072,6 @@
 </ar>
 <ar>
 	<head><k>교환학생</k></head>
-	<def>
-		<dtrn/>
-		<co>Nouns</co>
-	</def>
-</ar>
-<ar>
-	<head><k>교환교수</k></head>
 	<def>
 		<dtrn/>
 		<co>Nouns</co>
