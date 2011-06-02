@@ -842,273 +842,309 @@
 <ar>
 	<head><k>버스</k><k>뻐스</k></head>
 	<def>
-		<dtrn/>
+		<dtrn>bus</dtrn>
 		<co>Nouns</co>
 	</def>
 </ar>
 <ar>
 	<head><k>런던</k></head>
 	<def>
-		<dtrn/>
+		<dtrn>London</dtrn>
 		<co>Nouns</co>
 	</def>
 </ar>
 <ar>
 	<head><k>전화</k></head>
 	<def>
-		<dtrn/>
+		<dtrn>telephone</dtrn>
 		<co>Nouns</co>
 	</def>
 </ar>
 <ar>
 	<head><k>전화(를) 하-</k></head>
 	<def>
-		<dtrn/>
+		<dtrn>make a telephone call</dtrn>
 		<co>Nouns</co>
 	</def>
 </ar>
 <ar>
 	<head><k>뉴욕</k></head>
 	<def>
-		<dtrn/>
+		<dtrn>New York</dtrn>
 		<co>Nouns</co>
 	</def>
 </ar>
 <ar>
 	<head><k>다른 NOUN</k></head>
 	<def>
-		<dtrn/>
+		<dtrn>(an)other NOUN(s)</dtrn>
 		<co>Nouns</co>
 	</def>
 </ar>
 <ar>
 	<head><k>교회</k></head>
 	<def>
-		<dtrn/>
+		<dtrn>church [Protestant]</dtrn>
 		<co>Nouns</co>
 	</def>
 </ar>
 <ar>
 	<head><k>교회에 나가세요?</k></head>
 	<def>
-		<dtrn/>
+		<dtrn>Do you go to church?</dtrn>
 		<co>Nouns</co>
 	</def>
 </ar>
 <ar>
 	<head><k>나가-</k></head>
 	<def>
-		<dtrn/>
+		<dtrn>attend</dtrn>
+		<co>Nouns</co>
+	</def>
+	<def>
+		<dtrn>go to (church)</dtrn>
 		<co>Nouns</co>
 	</def>
 </ar>
 <ar>
 	<head><k>성당</k></head>
 	<def>
-		<dtrn/>
+		<dtrn>church [Catholic]</dtrn>
 		<co>Nouns</co>
 	</def>
 </ar>
 <ar>
 	<head><k>신용카드</k></head>
 	<def>
-		<dtrn/>
+		<dtrn>credit card</dtrn>
 		<co>Nouns</co>
 	</def>
 </ar>
 <ar>
 	<head><k>성</k></head>
 	<def>
-		<dtrn/>
+		<dtrn>surname</dtrn>
+		<co>Nouns</co>
+	</def>
+	<def>
+		<dtrn>last name</dtrn>
 		<co>Nouns</co>
 	</def>
 </ar>
 <ar>
 	<head><k>성씨</k></head>
 	<def>
-		<dtrn/>
+		<dtrn>[your or his] esteemed surname/last name</dtrn>
 		<co>Nouns</co>
 	</def>
 </ar>
 <ar>
 	<head><k>이름</k></head>
 	<def>
-		<dtrn/>
+		<dtrn>name</dtrn>
+		<co>Nouns</co>
+	</def>
+	<def>
+		<dtrn>given name</dtrn>
 		<co>Nouns</co>
 	</def>
 </ar>
 <ar>
 	<head><k>성함</k></head>
 	<def>
-		<dtrn/>
+		<dtrn>[someone's esteemed] name</dtrn>
 		<co>Nouns</co>
+		<usage>honorific equivalent of 이름</usage>
 	</def>
 </ar>
 <ar>
 	<head><k>성함이 어떻게 되세요?</k></head>
 	<def>
-		<dtrn/>
+		<dtrn>What is your name?</dtrn>
 		<co>Nouns</co>
+		<usage>honorific and polite</usage>
 	</def>
 </ar>
 <ar>
 	<head><k>머리</k></head>
 	<def>
-		<dtrn/>
+		<dtrn>head</dtrn>
+		<co>Nouns</co>
+	</def>
+	<def>
+		<dtrn>hair</dtrn>
 		<co>Nouns</co>
 	</def>
 </ar>
 <ar>
 	<head><k>머리(가) 좋아요.</k></head>
 	<def>
-		<dtrn/>
+		<dtrn>She is smart.</dtrn>
 		<co>Nouns</co>
 	</def>
 </ar>
 <ar>
 	<head><k>머리(가) 나빠요.</k></head>
 	<def>
-		<dtrn/>
+		<dtrn>She is dumb.</dtrn>
 		<co>Nouns</co>
 	</def>
 </ar>
 <ar>
 	<head><k>회화</k></head>
 	<def>
-		<dtrn/>
+		<dtrn>conversation</dtrn>
 		<co>Nouns</co>
 	</def>
 </ar>
 <ar>
 	<head><k>영어회화책</k></head>
 	<def>
-		<dtrn/>
+		<dtrn>English conversation book</dtrn>
 		<co>Nouns</co>
 	</def>
 </ar>
 <ar>
 	<head><k>말씀</k></head>
 	<def>
-		<dtrn/>
+		<dtrn>words</dtrn>
 		<co>Nouns</co>
+	</def>
+	<def>
+		<dtrn>speech</dtrn>
+		<co>Nouns</co>
+		<usage>an honorific or humble equivalent of 말</usage>
 	</def>
 </ar>
 <ar>
 	<head><k>말씀하세요.</k></head>
 	<def>
-		<dtrn/>
+		<dtrn>Go ahead.</dtrn>
 		<co>Nouns</co>
+		<usage>Literally: Please say what it is you have to say.</usage>
 	</def>
 </ar>
 <ar>
 	<head><k>한국어</k></head>
 	<def>
-		<dtrn/>
+		<dtrn>Korean language</dtrn>
 		<co>Nouns</co>
 	</def>
 </ar>
 <ar>
 	<head><k>국립 NOUN</k></head>
 	<def>
-		<dtrn/>
+		<dtrn>a national(ly) [established] NOUN</dtrn>
 		<co>Nouns</co>
 	</def>
 </ar>
 <ar>
 	<head><k>국립대학교</k></head>
 	<def>
-		<dtrn/>
+		<dtrn>a national university</dtrn>
 		<co>Nouns</co>
 	</def>
 </ar>
 <ar>
 	<head><k>주</k></head>
 	<def>
-		<dtrn/>
+		<dtrn>a state</dtrn>
+		<co>Nouns</co>
+	</def>
+	<def>
+		<dtrn>a province</dtrn>
 		<co>Nouns</co>
 	</def>
 </ar>
 <ar>
 	<head><k>미네소타주</k></head>
 	<def>
-		<dtrn/>
+		<dtrn>Minnesota</dtrn>
+		<co>Nouns</co>
+	</def>
+	<def>
+		<dtrn>the state of Minnesota</dtrn>
 		<co>Nouns</co>
 	</def>
 </ar>
 <ar>
 	<head><k>주립 NOUN</k></head>
 	<def>
-		<dtrn/>
+		<dtrn>a state [-established] NOUN</dtrn>
+		<co>Nouns</co>
+	</def>
+	<def>
+		<dtrn>a provincial(ly) [established] NOUN</dtrn>
 		<co>Nouns</co>
 	</def>
 </ar>
 <ar>
 	<head><k>주립대학교</k></head>
 	<def>
-		<dtrn/>
+		<dtrn>a state university</dtrn>
 		<co>Nouns</co>
 	</def>
 </ar>
 <ar>
 	<head><k>사립 NOUN</k></head>
 	<def>
-		<dtrn/>
+		<dtrn>a private(ly) [established] NOUN</dtrn>
 		<co>Nouns</co>
 	</def>
 </ar>
 <ar>
 	<head><k>사립데학교</k></head>
 	<def>
-		<dtrn/>
+		<dtrn>a private university</dtrn>
 		<co>Nouns</co>
 	</def>
 </ar>
 <ar>
 	<head><k>교환</k></head>
 	<def>
-		<dtrn/>
+		<dtrn>exchange</dtrn>
 		<co>Nouns</co>
 	</def>
 </ar>
 <ar>
 	<head><k>교환학생</k></head>
 	<def>
-		<dtrn/>
+		<dtrn>exchange student</dtrn>
 		<co>Nouns</co>
 	</def>
 </ar>
 <ar>
 	<head><k>교환교수</k></head>
 	<def>
-		<dtrn/>
+		<dtrn>exchange professor</dtrn>
 		<co>Nouns</co>
 	</def>
 </ar>
 <ar>
 	<head><k>교환원</k></head>
 	<def>
-		<dtrn/>
+		<dtrn>operator (switchboard, telephone exchange-)</dtrn>
 		<co>Nouns</co>
 	</def>
 </ar>
 <ar>
 	<head><k>쥬스</k></head>
 	<def>
-		<dtrn/>
+		<dtrn>juice</dtrn>
 		<co>Nouns</co>
 	</def>
 </ar>
 <ar>
 	<head><k>오렌지 쥬스</k></head>
 	<def>
-		<dtrn/>
+		<dtrn>orange juice</dtrn>
 		<co>Nouns</co>
 	</def>
 </ar>
 <ar>
 	<head><k>토마토 쥬스</k></head>
 	<def>
-		<dtrn/>
+		<dtrn>tomato juice</dtrn>
 		<co>Nouns</co>
 	</def>
 </ar>
